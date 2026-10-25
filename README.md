@@ -1,5 +1,7 @@
 # Arcade Skins for Manic EMU
 
+**[⬇ Download the skins (latest release)](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/latest)**
+
 Original-art controller skins for **MAME / arcade** games in Manic EMU. 16 layouts, 20 colorways each: **320 skins in 32 zip files**.
 
 All art is original. No real arcade characters, logos or game artwork appear on any skin.
