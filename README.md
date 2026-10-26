@@ -2,7 +2,7 @@
 
 **[⬇ Download the skins (latest release)](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/latest)**
 
-Original-art controller skins for **MAME / arcade** games in Manic EMU. 16 layouts, 20 colorways each: **320 skins in 32 zip files**.
+Original-art controller skins for **MAME / arcade** games in Manic EMU. 16 layouts, 20 colorways each: **320 skins in 32 zip files**. There is also a separate **Dynamic Island set** for iPhone 14 Pro and later (see below).
 
 All art is original. No real arcade characters, logos or game artwork appear on any skin.
 
@@ -13,7 +13,7 @@ All art is original. No real arcade characters, logos or game artwork appear on 
 ## Quick start
 
 1. Open the **[Releases](../../releases)** page and download the zips you want.
-2. Unzip them (on iPhone, tap the zip in the Files app). Each zip holds 10 `.manicskin` files.
+2. Unzip them (on iPhone, tap the zip in the Files app). Each zip holds up to 10 `.manicskin` files.
 3. Import the `.manicskin` files into Manic EMU with its skin import option, then pick the skin for your arcade games.
 
 ## Which zip do I need?
@@ -37,7 +37,32 @@ Every layout comes in two looks and two parts:
 
 Each name above comes as `... - Part 1.zip` and `... - Part 2.zip`.
 
-### Classic or Tekken-Rival Fix?
+## Dynamic Island set (iPhone 14 Pro and later)
+
+On iPhones with a Dynamic Island, the island sits on the left or right edge in landscape and can cover controls. This separate set moves the controls clear of it. **If your phone has an older notch or no island, use the regular skins above.**
+
+- Same 8 layouts, same button mapping, and the same Normal and Full Screen looks.
+- In landscape, controls stay out of the island zone on both sides. Portrait is unchanged.
+- Standard (non-Full Screen) skins have a slightly smaller game screen (about 6% smaller) to make room.
+- Names include "Dynamic Island", so they install next to the regular skins without clashing.
+- Placement is based on published phone specs and tested on an iPhone XR. If you try one on a Dynamic Island iPhone, a landscape screenshot would be very welcome.
+
+It has 22 colorways: the same 20, plus **Soft Light** (off-white, no neon) and **Blackout** (dark body, dark buttons). That makes 352 skins in 48 zips.
+
+| Layout | Download these |
+|---|---|
+| **1 Button** | `1-Button Dynamic Island Zip` / `1-Button Dynamic Island Full Screen Zip` |
+| **2 Button** | `2-Button Dynamic Island Zip` / `2-Button Dynamic Island Full Screen Zip` |
+| **3 Button** | `3-Button Dynamic Island Zip` / `3-Button Dynamic Island Full Screen Zip` |
+| **4 Button Classic** | `4-Button Classic Dynamic Island Zip` / `4-Button Classic Dynamic Island Full Screen Zip` |
+| **4 Button Tekken-Rival Fix** | `4-Button Tekken-Rival Fix Dynamic Island Zip` / `4-Button Tekken-Rival Fix Dynamic Island Full Screen Zip` |
+| **5 Button** | `5-Button Dynamic Island Zip` / `5-Button Dynamic Island Full Screen Zip` |
+| **6 Button** | `6-Button Dynamic Island Zip` / `6-Button Dynamic Island Full Screen Zip` |
+| **Twin Stick** | `Twin Stick Dynamic Island Zip` / `Twin Stick Dynamic Island Full Screen Zip` |
+
+Each name comes as `... - Part 1.zip` and `... - Part 2.zip` (10 colorways each), plus `... - Part 3.zip` (Soft Light and Blackout).
+
+## Classic or Tekken-Rival Fix?
 
 Both are 4-button layouts. They look the same and can be installed side by side.
 
@@ -63,7 +88,7 @@ A game that needs Buttons 1 to N needs every number from 1 to N present on the s
 
 ## The 20 colorways
 
-Plain (No Glow), Noir Mono, Synthwave Sunset, Rose Gold, Royal Blue, Vaporwave, Ultraviolet, Rainbow Bright, Sakura, Emerald, Cyber Teal, Crimson Classic, Classic Cabinet, Nightfall Purple, Hot Pink, Plain Noir, Completely Rainbow, Whiskey, Gunmetal, Blood & Bone.
+Plain (No Glow), Noir Mono, Synthwave Sunset, Rose Gold, Royal Blue, Vaporwave, Ultraviolet, Rainbow Bright, Sakura, Emerald, Cyber Teal, Crimson Classic, Classic Cabinet, Nightfall Purple, Hot Pink, Plain Noir, Completely Rainbow, Whiskey, Gunmetal, Blood & Bone. The Dynamic Island set also has Soft Light and Blackout.
 
 ## Known issues
 
