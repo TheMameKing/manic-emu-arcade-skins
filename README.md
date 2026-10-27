@@ -4,7 +4,7 @@
 
 Original set: [v1.0](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/V1.0) · Dynamic Island set: [v1.1](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.1) · Tate (vertical games): [v1.2](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.2) · Left-Handed set: [v1.3](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.3)
 
-Original-art controller skins for **MAME / arcade** games in Manic EMU. 16 layouts, 20 colorways each: **320 skins in 32 zip files**. There is also a separate **Dynamic Island set** for iPhone 14 Pro and later, and a **Tate set** for vertical games (see below).
+Original-art controller skins for **MAME / arcade** games in Manic EMU. 16 layouts, 20 colorways each: **320 skins in 32 zip files**. There is also a separate **Dynamic Island set** for iPhone 14 Pro and later, a **Tate set** for vertical games and a **Left-Handed set** that mirrors the Dynamic Island and Tate layouts (see below).
 
 All art is original. No real arcade characters, logos or game artwork appear on any skin.
 
@@ -84,6 +84,25 @@ Vertical games like Galaga, 1942 or Ketsui are rotated upright by Manic EMU, but
 | **Twin Stick** | Smash TV style two-stick games | `Tate Twin Stick Zip` |
 
 It has the same 22 colorways: 110 skins in 15 zips. Each name comes as `... - Part 1.zip` and `... - Part 2.zip` (10 colorways each), plus `... - Part 3.zip` (Soft Light and Blackout).
+
+## Left-Handed set (mirrored layouts)
+
+The stick is on the right, and the buttons are on the left, with Coin, Start and FF above them. The button mapping is the same as the regular skins. In landscape the controls stay clear of the Dynamic Island on both sides. Names include "Left-Handed", so they install next to the other sets.
+
+It covers two of the sets above: the **Dynamic Island set** (16 layouts, Standard and Full Screen) and the **Tate set**. It has the same 22 colorways: 462 skins in 63 zips.
+
+| Layout | Download these (Dynamic Island) | Download these (Tate) |
+|---|---|---|
+| **1 Button** | `1-Button Dynamic Island Left-Handed Zip` / `... Full Screen Left-Handed Zip` | `Tate 1 Button Left-Handed Zip` |
+| **2 Button** | `2-Button Dynamic Island Left-Handed Zip` / `... Full Screen Left-Handed Zip` | `Tate 2 Button Left-Handed Zip` |
+| **3 Button** | `3-Button Dynamic Island Left-Handed Zip` / `... Full Screen Left-Handed Zip` | `Tate 3 Button Left-Handed Zip` |
+| **4 Button Classic** | `4-Button Classic Dynamic Island Left-Handed Zip` / `... Full Screen Left-Handed Zip` | `Tate 4 Button Left-Handed Zip` |
+| **4 Button Tekken-Rival Fix** | `4-Button Tekken-Rival Fix Dynamic Island Left-Handed Zip` / `... Full Screen Left-Handed Zip` | not available |
+| **5 Button** | `5-Button Dynamic Island Left-Handed Zip` / `... Full Screen Left-Handed Zip` | not available |
+| **6 Button** | `6-Button Dynamic Island Left-Handed Zip` / `... Full Screen Left-Handed Zip` | not available |
+| **Twin Stick** | `Twin Stick Dynamic Island Left-Handed Zip` / `... Full Screen Left-Handed Zip` | `Tate Twin Stick Left-Handed Zip` |
+
+Each name comes as `... - Part 1.zip` and `... - Part 2.zip` (10 colorways each), plus `... - Part 3.zip` (Soft Light and Blackout). **Twin Stick:** the movement stick is on the right and the fire stick on the left.
 
 ## Button mapping
 
