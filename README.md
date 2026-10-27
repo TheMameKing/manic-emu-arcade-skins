@@ -2,9 +2,9 @@
 
 **[⬇ Download the skins (latest release)](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/latest)**
 
-Original set: [v1.0](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/V1.0) · Dynamic Island set: [v1.1](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.1)
+Original set: [v1.0](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/V1.0) · Dynamic Island set: [v1.1](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.1) · Tate (vertical games): [v1.2](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.2)
 
-Original-art controller skins for **MAME / arcade** games in Manic EMU. 16 layouts, 20 colorways each: **320 skins in 32 zip files**. There is also a separate **Dynamic Island set** for iPhone 14 Pro and later (see below).
+Original-art controller skins for **MAME / arcade** games in Manic EMU. 16 layouts, 20 colorways each: **320 skins in 32 zip files**. There is also a separate **Dynamic Island set** for iPhone 14 Pro and later, and a **Tate set** for vertical games (see below).
 
 All art is original. No real arcade characters, logos or game artwork appear on any skin.
 
@@ -71,6 +71,19 @@ Both are 4-button layouts. They look the same and can be installed side by side.
 - **Classic**: the bottom-left button is Button 2 only. Use this for most 4-button games.
 - **Tekken-Rival Fix**: the bottom-left button sends Button 2 **and** Buttons 5 and 6 together. Some fighting games (Rival Schools wants Button 5, Tekken wants Button 6) need those extra buttons, and this gives them to you without a 6-button layout.
 
+## Tate (vertical game) skins
+
+Vertical games like Galaga, 1942 or Ketsui are rotated upright by Manic EMU, but the game is stretched to fill the skin's screen. These skins have a tall 3:4 screen, so vertical games look the way they should. They work in portrait and landscape, and the controls stay clear of the Dynamic Island. For horizontal games, use the sets above.
+
+| Layout | Good for | Download these |
+|---|---|---|
+| **1 Button** | Galaga, Pac-Man, Dig Dug, Donkey Kong | `Tate 1 Button Zip` |
+| **2 Button** | 1942, Xevious, Raiden, Twin Cobra | `Tate 2 Button Zip` |
+| **3 Button** | Ketsui, Mushihimesama, Battle Garegga, Batsugun | `Tate 3 Button Zip` |
+| **4 Button** | Dai-Fukkatsu and other four-button shooters | `Tate 4 Button Zip` |
+
+It has the same 22 colorways: 88 skins in 12 zips. Each name comes as `... - Part 1.zip` and `... - Part 2.zip` (10 colorways each), plus `... - Part 3.zip` (Soft Light and Blackout).
+
 ## Button mapping
 
 Manic EMU's arcade core numbers the buttons like this:
@@ -90,7 +103,7 @@ A game that needs Buttons 1 to N needs every number from 1 to N present on the s
 
 ## The 20 colorways
 
-Plain (No Glow), Noir Mono, Synthwave Sunset, Rose Gold, Royal Blue, Vaporwave, Ultraviolet, Rainbow Bright, Sakura, Emerald, Cyber Teal, Crimson Classic, Classic Cabinet, Nightfall Purple, Hot Pink, Plain Noir, Completely Rainbow, Whiskey, Gunmetal, Blood & Bone. The Dynamic Island set also has Soft Light and Blackout.
+Plain (No Glow), Noir Mono, Synthwave Sunset, Rose Gold, Royal Blue, Vaporwave, Ultraviolet, Rainbow Bright, Sakura, Emerald, Cyber Teal, Crimson Classic, Classic Cabinet, Nightfall Purple, Hot Pink, Plain Noir, Completely Rainbow, Whiskey, Gunmetal, Blood & Bone. The Dynamic Island and Tate sets also have Soft Light and Blackout.
 
 ## Known issues
 
