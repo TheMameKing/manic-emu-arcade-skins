@@ -81,8 +81,9 @@ Vertical games like Galaga, 1942 or Ketsui are rotated upright by Manic EMU, but
 | **2 Button** | 1942, Xevious, Raiden, Twin Cobra | `Tate 2 Button Zip` |
 | **3 Button** | Ketsui, Mushihimesama, Battle Garegga, Batsugun | `Tate 3 Button Zip` |
 | **4 Button** | Dai-Fukkatsu and other four-button shooters | `Tate 4 Button Zip` |
+| **Twin Stick** | Smash TV style two-stick games | `Tate Twin Stick Zip` |
 
-It has the same 22 colorways: 88 skins in 12 zips. Each name comes as `... - Part 1.zip` and `... - Part 2.zip` (10 colorways each), plus `... - Part 3.zip` (Soft Light and Blackout).
+It has the same 22 colorways: 110 skins in 15 zips. Each name comes as `... - Part 1.zip` and `... - Part 2.zip` (10 colorways each), plus `... - Part 3.zip` (Soft Light and Blackout).
 
 ## Button mapping
 
