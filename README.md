@@ -2,7 +2,7 @@
 
 **[⬇ Download the skins (latest release)](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/latest)**
 
-Original set: [v1.0](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/V1.0) · Dynamic Island set: [v1.1](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.1) · Tate (vertical games): [v1.2](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.2)
+Original set: [v1.0](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/V1.0) · Dynamic Island set: [v1.1](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.1) · Tate (vertical games): [v1.2](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.2) · Left-Handed set: [v1.3](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.3)
 
 Original-art controller skins for **MAME / arcade** games in Manic EMU. 16 layouts, 20 colorways each: **320 skins in 32 zip files**. There is also a separate **Dynamic Island set** for iPhone 14 Pro and later, and a **Tate set** for vertical games (see below).
 
