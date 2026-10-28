@@ -10,6 +10,8 @@ All art is original. No real arcade characters, logos or game artwork appear on 
 
 ![All 20 colorways](arcade-skins-colorways.png)
 
+<img width="1200" height="427" alt="arcade-skins-soft-dark" src="https://github.com/user-attachments/assets/8996a6f2-7772-4819-917d-e448126bfe1b" />
+
 ![Every layout and screen size](arcade-skins-layouts.png)
 
 ## Quick start
@@ -47,7 +49,7 @@ On iPhones with a Dynamic Island, the island sits on the left or right edge in l
 - In landscape, controls stay out of the island zone on both sides. Portrait is unchanged.
 - Standard (non-Full Screen) skins have a slightly smaller game screen (about 6% smaller) to make room.
 - Names include "Dynamic Island", so they install next to the regular skins without clashing.
-- Placement is based on published phone specs and tested on an iPhone XR. If you try one on a Dynamic Island iPhone, a landscape screenshot would be very welcome.
+- Island placement is estimated from published phone specs. Tested on an iPhone XR and an iPhone 17 Pro. If you try one on another Dynamic Island iPhone, a landscape screenshot would be very welcome.
 
 It has 22 colorways: the same 20, plus **Soft Light** (off-white, no neon) and **Blackout** (dark body, dark buttons). That makes 352 skins in 48 zips.
 
@@ -73,6 +75,9 @@ Both are 4-button layouts. They look the same and can be installed side by side.
 
 ## Tate (vertical game) skins
 
+<img width="1290" height="1110" alt="arcade-skins-tate" src="https://github.com/user-attachments/assets/ef35598e-af77-4203-85e8-6c9b1e2a7436" />
+
+
 Vertical games like Galaga, 1942 or Ketsui are rotated upright by Manic EMU, but the game is stretched to fill the skin's screen. These skins have a tall 3:4 screen, so vertical games look the way they should. They work in portrait and landscape, and the controls stay clear of the Dynamic Island. For horizontal games, use the sets above.
 
 | Layout | Good for | Download these |
@@ -86,6 +91,8 @@ Vertical games like Galaga, 1942 or Ketsui are rotated upright by Manic EMU, but
 It has the same 22 colorways: 110 skins in 15 zips. Each name comes as `... - Part 1.zip` and `... - Part 2.zip` (10 colorways each), plus `... - Part 3.zip` (Soft Light and Blackout).
 
 ## Left-Handed set (mirrored layouts)
+
+<img width="1300" height="918" alt="arcade-skins-left-handed" src="https://github.com/user-attachments/assets/95936d6e-dda5-4518-af1c-012e030b76e3" />
 
 The stick is on the right, and the buttons are on the left, with Coin, Start and FF above them. The button mapping is the same as the regular skins. In landscape the controls stay clear of the Dynamic Island on both sides. Names include "Left-Handed", so they install next to the other sets.
 
@@ -124,6 +131,7 @@ A game that needs Buttons 1 to N needs every number from 1 to N present on the s
 ## The 20 colorways
 
 Plain (No Glow), Noir Mono, Synthwave Sunset, Rose Gold, Royal Blue, Vaporwave, Ultraviolet, Rainbow Bright, Sakura, Emerald, Cyber Teal, Crimson Classic, Classic Cabinet, Nightfall Purple, Hot Pink, Plain Noir, Completely Rainbow, Whiskey, Gunmetal, Blood & Bone. The Dynamic Island, Tate and Left-Handed sets also have Soft Light and Blackout.
+
 ## Known issues
 
 - 6 Button: Shadow Force does not work. Cause unknown.
