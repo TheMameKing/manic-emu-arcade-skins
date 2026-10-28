@@ -123,8 +123,7 @@ A game that needs Buttons 1 to N needs every number from 1 to N present on the s
 
 ## The 20 colorways
 
-Plain (No Glow), Noir Mono, Synthwave Sunset, Rose Gold, Royal Blue, Vaporwave, Ultraviolet, Rainbow Bright, Sakura, Emerald, Cyber Teal, Crimson Classic, Classic Cabinet, Nightfall Purple, Hot Pink, Plain Noir, Completely Rainbow, Whiskey, Gunmetal, Blood & Bone. The Dynamic Island and Tate sets also have Soft Light and Blackout.
-
+Plain (No Glow), Noir Mono, Synthwave Sunset, Rose Gold, Royal Blue, Vaporwave, Ultraviolet, Rainbow Bright, Sakura, Emerald, Cyber Teal, Crimson Classic, Classic Cabinet, Nightfall Purple, Hot Pink, Plain Noir, Completely Rainbow, Whiskey, Gunmetal, Blood & Bone. The Dynamic Island, Tate and Left-Handed sets also have Soft Light and Blackout.
 ## Known issues
 
 - 6 Button: Shadow Force does not work. Cause unknown.
