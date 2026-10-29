@@ -124,7 +124,7 @@ Colorways: Combo Gold, Combo Neon, Combo Ember. Download from the [Extras releas
 
 | Skin | Combo buttons | Tested |
 |---|---|---|
-| 4-Button Tekken-Rival Combo | 1+2, 3+4 | Rival Schools, Tekken |
+| 4-Button Tekken-Rival Combo | 1+2, 3+4 | Rival Schools, Tekken 3 |
 
 Combos differ from game to game, so skins made for a specific game are named after it and added over time.
 
