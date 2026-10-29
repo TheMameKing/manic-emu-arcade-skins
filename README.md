@@ -115,12 +115,12 @@ Each name comes as `... - Part 1.zip` and `... - Part 2.zip` (10 colorways each)
 
 Some fighting games use button combinations that are hard to press on a touch screen. Combo skins add labelled combo buttons next to the normal ones. They have their own three colorways, so they're easy to tell apart from the other sets.
 
-**4-Button Tekken-Rival Combo** (Dynamic Island, Standard): the 4 Button Tekken-Rival Fix layout, plus two combo buttons.
+**4-Button Tekken-Rival Combo** (Dynamic Island, Standard and Full Screen): the 4 Button Tekken-Rival Fix layout, plus two combo buttons.
 
 - **1+2**: presses the top-right and bottom-left buttons together. Tekken: grab. Rival Schools: special attack.
 - **3+4**: presses the two bottom buttons together. Tekken and Rival Schools: dodge.
 
-Colorways: Combo Gold, Combo Neon, Combo Ember. Download from the [Extras release](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/extras): `4-Button Tekken-Rival Combo Dynamic Island`.
+Colorways: Combo Gold, Combo Neon, Combo Ember. Download from the [Extras release](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/extras): `4-Button Tekken-Rival Combo Dynamic Island`, `4-Button Tekken-Rival Combo Dynamic Island Full Screen`
 
 | Skin | Combo buttons | What they do | Tested |
 |---|---|---|---|
