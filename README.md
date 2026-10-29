@@ -71,7 +71,7 @@ Each name comes as `... - Part 1.zip` and `... - Part 2.zip` (10 colorways each)
 Both are 4-button layouts. They look the same and can be installed side by side.
 
 - **Classic**: the bottom-left button is Button 2 only. Use this for most 4-button games.
-- **Tekken-Rival Fix**: the bottom-left button sends Button 2 **and** Buttons 5 and 6 together. Some fighting games (Rival Schools wants Button 5, Tekken wants Button 6) need those extra buttons, and this gives them to you without a 6-button layout.
+- **Tekken-Rival Fix**: the bottom-left button sends Button 2 **and** Buttons 5 and 6 together. Some fighting games (Rival Schools wants Button 5, Tekken 3 wants Button 6) need those extra buttons, and this gives them to you without a 6-button layout.
 
 ## Tate (vertical game) skins
 
