@@ -120,7 +120,7 @@ Some fighting games use button combinations that are hard to press on a touch sc
 - **1+2**: presses the two top buttons together.
 - **3+4**: presses the two bottom buttons together (the bottom-left button also sends the extra inputs from the Tekken-Rival Fix).
 
-Colorways: Combo Gold, Combo Neon, Combo Ember. Download from the [Extras release](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/extras) `4-Button Tekken-Rival Combo Dynamic Island`.
+Colorways: Combo Gold, Combo Neon, Combo Ember. Download from the [Extras release](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/extras): `4-Button Tekken-Rival Combo Dynamic Island`.
 
 | Skin | Combo buttons | Tested |
 |---|---|---|
