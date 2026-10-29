@@ -134,7 +134,7 @@ Plain (No Glow), Noir Mono, Synthwave Sunset, Rose Gold, Royal Blue, Vaporwave, 
 
 ## Known issues
 
-- 6 Button: Shadow Force does not work. Cause unknown.
+- 6 Button: Shadow Force 6 button is not confirmed, can’t find us version copy. 3 button works with world and Japan version
 
 ## For skin makers
 
