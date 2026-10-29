@@ -111,6 +111,25 @@ It covers two of the sets above: the **Dynamic Island set** (16 layouts, Standar
 
 Each name comes as `... - Part 1.zip` and `... - Part 2.zip` (10 colorways each), plus `... - Part 3.zip` (Soft Light and Blackout). **Twin Stick:** the movement stick is on the right and the fire stick on the left.
 
+## Combo skins (extras)
+
+Some fighting games use button combinations that are hard to press on a touch screen. Combo skins add labelled combo buttons next to the normal ones. They have their own three colorways, so they're easy to tell apart from the other sets.
+
+**4-Button Tekken-Rival Combo** (Dynamic Island, Standard): the 4 Button Tekken-Rival Fix layout, plus two combo buttons.
+
+- **1+2**: presses the two top buttons together.
+- **3+4**: presses the two bottom buttons together (the bottom-left button also sends the extra inputs from the Tekken-Rival Fix).
+
+Colorways: Combo Gold, Combo Neon, Combo Ember. Download `4-Button Tekken-Rival Combo Dynamic Island`.
+
+| Skin | Combo buttons | Tested |
+|---|---|---|
+| 4-Button Tekken-Rival Combo | 1+2, 3+4 | Rival Schools, Tekken |
+
+Combos differ from game to game, so skins made for a specific game are named after it and added over time.
+
+**Want a combo skin for a game that isn't listed?** [Open a combo request](../../issues/new?template=combo-request.md) with the game name and the combos you need.
+
 ## Button mapping
 
 Manic EMU's arcade core numbers the buttons like this:
