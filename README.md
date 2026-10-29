@@ -117,14 +117,14 @@ Some fighting games use button combinations that are hard to press on a touch sc
 
 **4-Button Tekken-Rival Combo** (Dynamic Island, Standard): the 4 Button Tekken-Rival Fix layout, plus two combo buttons.
 
-- **1+2**: presses the two top buttons together.
-- **3+4**: presses the two bottom buttons together (the bottom-left button also sends the extra inputs from the Tekken-Rival Fix).
+- **1+2**: presses the top-right and bottom-left buttons together. Tekken: grab. Rival Schools: special attack.
+- **3+4**: presses the two bottom buttons together. Tekken and Rival Schools: dodge.
 
 Colorways: Combo Gold, Combo Neon, Combo Ember. Download from the [Extras release](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/extras): `4-Button Tekken-Rival Combo Dynamic Island`.
 
-| Skin | Combo buttons | Tested |
-|---|---|---|
-| 4-Button Tekken-Rival Combo | 1+2, 3+4 | Rival Schools, Tekken 3 |
+| Skin | Combo buttons | What they do | Tested |
+|---|---|---|---|
+| 4-Button Tekken-Rival Combo | 1+2, 3+4 | Tekken 3: grab, dodge. Rival Schools: special attack, dodge | Rival Schools, Tekken 3 |
 
 Combos differ from game to game, so skins made for a specific game are named after it and added over time.
 
