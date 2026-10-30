@@ -2,9 +2,9 @@
 
 **[⬇ Download the skins (latest release)](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/latest)**
 
-Original set: [v1.0](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/V1.0) · Dynamic Island set: [v1.1](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.1) · Tate (vertical games): [v1.2](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.2) · Left-Handed set: [v1.3](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.3)
+Original set: [v1.0](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/V1.0) · Dynamic Island set: [v1.1](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.1) · Tate (vertical games): [v1.2](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.2) · Left-Handed set: [v1.3](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.3) · iPad set: [v1.4](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.4)
 
-Original-art controller skins for **MAME / arcade** games in Manic EMU. 16 layouts, 20 colorways each: **320 skins in 32 zip files**. There is also a separate **Dynamic Island set** for iPhone 14 Pro and later, a **Tate set** for vertical games and a **Left-Handed set** that mirrors the Dynamic Island and Tate layouts (see below).
+Original-art controller skins for **MAME / arcade** games in Manic EMU. 16 layouts, 20 colorways each: **320 skins in 32 zip files**. There is also a separate **Dynamic Island set** for iPhone 14 Pro and later, a **Tate set** for vertical games, a **Left-Handed set** that mirrors the Dynamic Island and Tate layouts, and an **iPad set** (see below).
 
 All art is original. No real arcade characters, logos or game artwork appear on any skin.
 
@@ -111,6 +111,44 @@ It covers two of the sets above: the **Dynamic Island set** (16 layouts, Standar
 
 Each name comes as `... - Part 1.zip` and `... - Part 2.zip` (10 colorways each), plus `... - Part 3.zip` (Soft Light and Blackout). **Twin Stick:** the movement stick is on the right and the fire stick on the left.
 
+## iPad set (Handheld and Tabletop)
+
+**For iPad only.** The iPad sends button inputs in a different order from the iPhone, so iPhone skins behave differently on an iPad, and these behave differently on an iPhone.
+
+These skins have a 4:3 screen on top and the controls in a panel below, in portrait and landscape. Download them from the [v1.4 release](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.4).
+
+| Handheld, portrait | Handheld, landscape |
+|---|---|
+| ![Street Fighter, Handheld portrait](images/ipad/handheld-portrait-sf.png) | ![Mortal Kombat, Handheld landscape](images/ipad/handheld-landscape-mortal-kombat.png) |
+
+| Tabletop, landscape | Twin Stick, landscape |
+|---|---|
+| ![Street Fighter, Tabletop landscape](images/ipad/tabletop-landscape-sf.png) | ![Smash TV, Twin Stick landscape](images/ipad/twin-stick-landscape.png) |
+
+- **Handheld**: smaller buttons, closer together and in the bottom-right corner, for holding the iPad.
+- **Tabletop**: bigger buttons with wider spacing, for when the iPad is lying flat.
+- **Twin Stick**: one set for both.
+- Buttons are numbered left to right: red is Button 1, orange is Button 2, and so on.
+- **6 Button Street Fighter**: top row punches, bottom row kicks. Use it for Street Fighter style fighters.
+- There is no Tekken-Rival Fix on iPad. The plain 4 Button works for Tekken and Rival Schools there.
+
+It has the same 22 colorways: 330 skins in 45 zips.
+
+| Layout | Download these |
+|---|---|
+| **1 Button** | `iPad 1 Button Handheld Zip` / `iPad 1 Button Tabletop Zip` |
+| **2 Button** | `iPad 2 Button Handheld Zip` / `iPad 2 Button Tabletop Zip` |
+| **3 Button** | `iPad 3 Button Handheld Zip` / `iPad 3 Button Tabletop Zip` |
+| **4 Button** | `iPad 4 Button Handheld Zip` / `iPad 4 Button Tabletop Zip` |
+| **5 Button** | `iPad 5 Button Handheld Zip` / `iPad 5 Button Tabletop Zip` |
+| **6 Button** | `iPad 6 Button Handheld Zip` / `iPad 6 Button Tabletop Zip` |
+| **6 Button Street Fighter** | `iPad 6 Button Street Fighter Handheld Zip` / `iPad 6 Button Street Fighter Tabletop Zip` |
+| **Twin Stick** | `iPad Twin Stick Zip` |
+
+Each name comes as `... - Part 1.zip` and `... - Part 2.zip` (10 colorways each), plus `... - Part 3.zip` (Soft Light and Blackout).
+
+**Tested on:** iPad mini (5th generation), iOS 15.6, Manic EMU 2.0.1. Other iPads should fit, but they're untested. If you try one, please [open an issue](../../issues) with a screenshot.
+
 ## Combo skins (extras)
 
 Some fighting games use button combinations that are hard to press on a touch screen. Combo skins add labelled combo buttons next to the normal ones. They have their own three colorways, so they're easy to tell apart from the other sets.
@@ -143,13 +181,15 @@ Manic EMU's arcade core numbers the buttons like this:
 | `l1` | Button 5 |
 | `r1` | Button 6 |
 
+This table describes the iPhone skins. The iPad skins send their inputs in a different order, but the buttons play the same: Button 1 on the left, then 2, 3 and so on.
+
 A game that needs Buttons 1 to N needs every number from 1 to N present on the skin, which is why 1-Button uses `b` and 3-Button uses `a`, `b` and `y`.
 
 **Twin Stick** has no center buttons. In Smash TV and Total Carnage, the right stick fires in 4 directions (the `x` / `y` / `a` / `b` inputs).
 
 ## The 20 colorways
 
-Plain (No Glow), Noir Mono, Synthwave Sunset, Rose Gold, Royal Blue, Vaporwave, Ultraviolet, Rainbow Bright, Sakura, Emerald, Cyber Teal, Crimson Classic, Classic Cabinet, Nightfall Purple, Hot Pink, Plain Noir, Completely Rainbow, Whiskey, Gunmetal, Blood & Bone. The Dynamic Island, Tate and Left-Handed sets also have Soft Light and Blackout.
+Plain (No Glow), Noir Mono, Synthwave Sunset, Rose Gold, Royal Blue, Vaporwave, Ultraviolet, Rainbow Bright, Sakura, Emerald, Cyber Teal, Crimson Classic, Classic Cabinet, Nightfall Purple, Hot Pink, Plain Noir, Completely Rainbow, Whiskey, Gunmetal, Blood & Bone. The Dynamic Island, Tate, Left-Handed and iPad sets also have Soft Light and Blackout.
 
 ## Known issues
 
@@ -157,7 +197,7 @@ Plain (No Glow), Noir Mono, Synthwave Sunset, Rose Gold, Royal Blue, Vaporwave, 
 
 ## For skin makers
 
-Each `.manicskin` is a zip containing `info.json`, PNG art and PDF button images. The layout lives in `info.json` under `representations.iphone.edgeToEdge.{portrait, landscape}`:
+Each `.manicskin` is a zip containing `info.json`, PNG art and PDF button images. The layout lives in `info.json` under `representations.iphone.edgeToEdge.{portrait, landscape}` (iPad skins use `representations.ipad.standard.{portrait, landscape}`):
 
 - `assets.large`: PNG with a transparent hole where the game screen goes
 - `items`: thumbsticks and buttons. Each button has an `inputs` list, and a button can send several at once (for example `["a", "l1", "r1"]`)
