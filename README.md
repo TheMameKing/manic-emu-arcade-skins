@@ -111,11 +111,11 @@ It covers two of the sets above: the **Dynamic Island set** (16 layouts, Standar
 
 Each name comes as `... - Part 1.zip` and `... - Part 2.zip` (10 colorways each), plus `... - Part 3.zip` (Soft Light and Blackout). **Twin Stick:** the movement stick is on the right and the fire stick on the left.
 
-## iPad set (Handheld and Tabletop)
+## iPad set (Handheld, Tabletop and Full Screen)
 
 **For iPad only.** The iPad sends button inputs in a different order from the iPhone, so iPhone skins behave differently on an iPad, and these behave differently on an iPhone.
 
-These skins have a 4:3 screen on top and the controls in a panel below, in portrait and landscape. Download them from the [v1.4 release](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.4).
+Handheld and Tabletop have a 4:3 screen on top with the controls in a panel below. Full Screen fills the whole iPad screen in landscape, with see-through controls on top. Download them from the [v1.4 release](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.4).
 
 | Handheld, portrait | Handheld, landscape |
 |---|---|
@@ -125,29 +125,34 @@ These skins have a 4:3 screen on top and the controls in a panel below, in portr
 |---|---|
 | ![Street Fighter, Tabletop landscape](images/ipad/tabletop-landscape-sf.png) | ![Smash TV, Twin Stick landscape](images/ipad/twin-stick-landscape.png) |
 
+| Full Screen, landscape |
+|---|
+| ![Golden Axe, Full Screen landscape](images/ipad/fullscreen-landscape-golden-axe.png) |
+
+- **Full Screen**: the game fills the whole iPad screen in landscape, with see-through controls on top. Same button layout as Handheld. Portrait is the same as Handheld.
 - **Handheld**: smaller buttons, closer together and in the bottom-right corner, for holding the iPad.
 - **Tabletop**: bigger buttons with wider spacing, for when the iPad is lying flat.
-- **Twin Stick**: one set for both.
+- **Twin Stick**: one set for Handheld and Tabletop, and a separate Full Screen version.
 - Buttons are numbered left to right: red is Button 1, orange is Button 2, and so on.
 - **6 Button Street Fighter**: top row punches, bottom row kicks. Use it for Street Fighter style fighters.
 - There is no Tekken-Rival Fix on iPad. The plain 4 Button works for Tekken and Rival Schools there.
 
-It has the same 22 colorways: 330 skins in 45 zips.
+It has the same 22 colorways: 506 skins in 69 zips.
 
 | Layout | Download these |
 |---|---|
-| **1 Button** | `iPad 1 Button Handheld Zip` / `iPad 1 Button Tabletop Zip` |
-| **2 Button** | `iPad 2 Button Handheld Zip` / `iPad 2 Button Tabletop Zip` |
-| **3 Button** | `iPad 3 Button Handheld Zip` / `iPad 3 Button Tabletop Zip` |
-| **4 Button** | `iPad 4 Button Handheld Zip` / `iPad 4 Button Tabletop Zip` |
-| **5 Button** | `iPad 5 Button Handheld Zip` / `iPad 5 Button Tabletop Zip` |
-| **6 Button** | `iPad 6 Button Handheld Zip` / `iPad 6 Button Tabletop Zip` |
-| **6 Button Street Fighter** | `iPad 6 Button Street Fighter Handheld Zip` / `iPad 6 Button Street Fighter Tabletop Zip` |
-| **Twin Stick** | `iPad Twin Stick Zip` |
+| **1 Button** | `iPad 1 Button Handheld Zip` / `iPad 1 Button Tabletop Zip` / `iPad 1 Button Full Screen Zip` |
+| **2 Button** | `iPad 2 Button Handheld Zip` / `iPad 2 Button Tabletop Zip` / `iPad 2 Button Full Screen Zip` |
+| **3 Button** | `iPad 3 Button Handheld Zip` / `iPad 3 Button Tabletop Zip` / `iPad 3 Button Full Screen Zip` |
+| **4 Button** | `iPad 4 Button Handheld Zip` / `iPad 4 Button Tabletop Zip` / `iPad 4 Button Full Screen Zip` |
+| **5 Button** | `iPad 5 Button Handheld Zip` / `iPad 5 Button Tabletop Zip` / `iPad 5 Button Full Screen Zip` |
+| **6 Button** | `iPad 6 Button Handheld Zip` / `iPad 6 Button Tabletop Zip` / `iPad 6 Button Full Screen Zip` |
+| **6 Button Street Fighter** | `iPad 6 Button Street Fighter Handheld Zip` / `iPad 6 Button Street Fighter Tabletop Zip` / `iPad 6 Button Street Fighter Full Screen Zip` |
+| **Twin Stick** | `iPad Twin Stick Zip` / `iPad Twin Stick Full Screen Zip` |
 
 Each name comes as `... - Part 1.zip` and `... - Part 2.zip` (10 colorways each), plus `... - Part 3.zip` (Soft Light and Blackout).
 
-**Tested on:** iPad mini (5th generation), iOS 15.6, Manic EMU 2.0.1. Other iPads should fit, but they're untested. If you try one, please [open an issue](../../issues) with a screenshot.
+**Tested on:** iPad mini (5th generation), iOS 15.6, Manic EMU 2.0.1. Other iPads should fit, but they're untested. If you try one, please [open an issue](../../issues) with a screenshot. Full Screen was checked in Street Fighter, Golden Axe, Rival Schools, 1942, Breakers Revenge, Contra, Ghost and Goblins, Joust, Mortal Kombat, Pang, Street Fighter 2 and championship edition, Simpsons, Tekken 3, Turf Masters and Waku Waku 7 
 
 ## Combo skins (extras)
 
