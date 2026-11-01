@@ -152,7 +152,9 @@ It has the same 22 colorways: 506 skins in 69 zips.
 
 Each name comes as `... - Part 1.zip` and `... - Part 2.zip` (10 colorways each), plus `... - Part 3.zip` (Soft Light and Blackout).
 
-**Tested on:** iPad mini (5th generation), iOS 15.6, Manic EMU 2.0.1. Other iPads should fit, but they're untested. If you try one, please [open an issue](../../issues) with a screenshot. Full Screen was checked in Street Fighter, Golden Axe, Rival Schools, 1942, Breakers Revenge, Contra, Ghost and Goblins, Joust, Mortal Kombat, Pang, Street Fighter 2 and championship edition, Simpsons, Tekken 3, Turf Masters and Waku Waku 7 
+**Tested on:** iPad mini (5th generation), iOS 15.6, Manic EMU 2.0.1. Other iPads should fit, but they're untested. If you try one, please [open an issue](../../issues) with a screenshot.
+
+**Full Screen tested with:** 1942, Breakers Revenge, Contra, Ghosts 'n Goblins, Golden Axe, Joust, Mortal Kombat, Pang, Rival Schools, The Simpsons, Street Fighter II (and Champion Edition), Tekken 3, Turf Masters and Waku Waku 7.
 
 ## Combo skins (extras)
 
