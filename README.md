@@ -196,7 +196,7 @@ A game that needs Buttons 1 to N needs every number from 1 to N present on the s
 
 ![Button order](button-order.png)
 
-Button roles vary by game. For example, in Golden Axe the middle button on a phone 3 button skin is attack and the left is jump. If a button does something unexpected, check the game's controller menu in Manic EMU, since the same button number can mean different things in different games.
+Button roles vary by game. For example, in Golden Axe the middle button on a phone 3 button skin is attack and the left is jump, while in Turf Masters the left button aims left, the middle shoots, and the right aims right. If a button does something unexpected, check the game's controller menu in Manic EMU, since the same button number can mean different things in different games.
 
 **Prefer a sequential button layout?**
 The button order follows Manic EMU's arcade mapping (see the Button order diagram above). If you'd rather have a plain Button 1, 2, 3 from left to right in every layout, open an [issue](../../issues) and let me know. If enough people ask, I'll consider an alternative set.
