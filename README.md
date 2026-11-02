@@ -133,7 +133,7 @@ Handheld and Tabletop have a 4:3 screen on top with the controls in a panel belo
 - **Handheld**: smaller buttons, closer together and in the bottom-right corner, for holding the iPad.
 - **Tabletop**: bigger buttons with wider spacing, for when the iPad is lying flat.
 - **Twin Stick**: one set for Handheld and Tabletop, and a separate Full Screen version.
-- 1, 2 and 3 button layouts: Button 1 is on the left, then 2 and 3. 4 and 6 button layouts follow the Button order diagram below.
+- **Button order**: On iPad, the 1, 2 and 3 button layouts run Button 1, 2, 3 from left to right. On iPhone, the 2 button layout is Button 2, 1 and the 3 button layout is Button 2, 1, 3. The 4, 5 and 6 button layouts follow the Button order diagram below on both.
 - **6 Button Street Fighter**: top row punches, bottom row kicks. Use it for Street Fighter style fighters.
 - There is no Tekken-Rival Fix on iPad. The plain 4 Button works for Tekken and Rival Schools there.
 
@@ -196,13 +196,18 @@ A game that needs Buttons 1 to N needs every number from 1 to N present on the s
 
 ![Button order](button-order.png)
 
+Button roles vary by game. For example, in Golden Axe the middle button on a phone 3 button skin is attack and the left is jump. If a button does something unexpected, check the game's controller menu in Manic EMU, since the same button number can mean different things in different games.
+
+**Prefer a sequential button layout?**
+The button order follows Manic EMU's arcade mapping (see the Button order diagram above). If you'd rather have a plain Button 1, 2, 3 from left to right in every layout, open an [issue](../../issues) and let me know. If enough people ask, I'll consider an alternative set.
+
 ## The 20 colorways
 
 Plain (No Glow), Noir Mono, Synthwave Sunset, Rose Gold, Royal Blue, Vaporwave, Ultraviolet, Rainbow Bright, Sakura, Emerald, Cyber Teal, Crimson Classic, Classic Cabinet, Nightfall Purple, Hot Pink, Plain Noir, Completely Rainbow, Whiskey, Gunmetal, Blood & Bone. The Dynamic Island, Tate, Left-Handed and iPad sets also have Soft Light and Blackout.
 
 ## Known issues
 
-- 6 Button: Shadow Force 6 button is not confirmed, can’t find us version copy. 3 button works with world and Japan version
+- 6 Button: Shadow Force 6 button is not confirmed, I can’t find a US version to test. 3 button works with world and Japan version
 
 ## For skin makers
 
