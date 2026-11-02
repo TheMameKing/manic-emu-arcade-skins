@@ -133,7 +133,7 @@ Handheld and Tabletop have a 4:3 screen on top with the controls in a panel belo
 - **Handheld**: smaller buttons, closer together and in the bottom-right corner, for holding the iPad.
 - **Tabletop**: bigger buttons with wider spacing, for when the iPad is lying flat.
 - **Twin Stick**: one set for Handheld and Tabletop, and a separate Full Screen version.
-- Buttons are numbered left to right: red is Button 1, orange is Button 2, and so on.
+- 1, 2 and 3 button layouts: Button 1 is on the left, then 2 and 3. 4 and 6 button layouts follow the Button order diagram below.
 - **6 Button Street Fighter**: top row punches, bottom row kicks. Use it for Street Fighter style fighters.
 - There is no Tekken-Rival Fix on iPad. The plain 4 Button works for Tekken and Rival Schools there.
 
@@ -188,11 +188,13 @@ Manic EMU's arcade core numbers the buttons like this:
 | `l1` | Button 5 |
 | `r1` | Button 6 |
 
-This table describes the iPhone skins. The iPad skins send their inputs in a different order, but the buttons play the same: Button 1 on the left, then 2, 3 and so on.
+This table describes the iPhone skins. The iPad skins send their inputs in a different order, but the buttons play the same as on the phone. See the diagram below for the layout.
 
 A game that needs Buttons 1 to N needs every number from 1 to N present on the skin, which is why 1-Button uses `b` and 3-Button uses `a`, `b` and `y`.
 
 **Twin Stick** has no center buttons. In Smash TV and Total Carnage, the right stick fires in 4 directions (the `x` / `y` / `a` / `b` inputs).
+
+![Button order](button-order.png)
 
 ## The 20 colorways
 
