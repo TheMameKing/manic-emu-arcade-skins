@@ -2,13 +2,13 @@
 
 **[⬇ Download the skins (latest release)](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/latest)**
 
-Original set: [v1.0](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/V1.0) · Dynamic Island set: [v1.1](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.1) · Tate (vertical games): [v1.2](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.2) · Left-Handed set: [v1.3](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.3) · iPad set: [v1.4](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.4)
+Original set: [v1.0](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/V1.0) · Dynamic Island set: [v1.1](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.1) · Tate (vertical games): [v1.2](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.2) · Left-Handed set: [v1.3](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.3) · iPad set: [v1.4](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.4) · D-Pad set: [v1.5](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.5)
 
-Original-art controller skins for **MAME / arcade** games in Manic EMU. 16 layouts, 20 colorways each: **320 skins in 32 zip files**. There is also a separate **Dynamic Island set** for iPhone 14 Pro and later, a **Tate set** for vertical games, a **Left-Handed set** that mirrors the Dynamic Island and Tate layouts, and an **iPad set** (see below).
+Original-art controller skins for **MAME / arcade** games in Manic EMU. 16 layouts, 22 colorways each: **352 skins in 48 zip files**. There is also a separate **Dynamic Island set** for iPhone 14 Pro and later, a **Tate set** for vertical games, a **Left-Handed set** that mirrors the Dynamic Island and Tate layouts, and an **iPad set** and a **D-Pad set** (see below).
 
 All art is original. No real arcade characters, logos or game artwork appear on any skin.
 
-![All 20 colorways](arcade-skins-colorways.png)
+![20 original colorways](arcade-skins-colorways.png)
 
 <img width="1200" height="427" alt="arcade-skins-soft-dark" src="https://github.com/user-attachments/assets/8996a6f2-7772-4819-917d-e448126bfe1b" />
 
@@ -22,11 +22,11 @@ All art is original. No real arcade characters, logos or game artwork appear on 
 
 ## Which zip do I need?
 
-Every layout comes in two looks and two parts:
+Every layout comes in two looks and three parts:
 
 - **Normal** ("Pro"): the controls sit around the game screen.
 - **Full Screen**: the game fills the screen, and in landscape the buttons are drawn see-through on top of it.
-- **Part 1 / Part 2**: the 20 colorways are split across two zips of 10, so grab both parts for the full set.
+- **Part 1 / Part 2 / Part 3**: the 22 colorways are split across three zips of up to 10, so grab all parts for the full set.
 
 | Layout | What it has | Download these |
 |---|---|---|
@@ -39,7 +39,7 @@ Every layout comes in two looks and two parts:
 | **6 Button** | Buttons 1-6 | `6 Button Zip` / `6 Button Full Screen Zip` |
 | **Twin Stick** | Two thumbsticks, no center buttons | `Twin Stick Zip` / `Twin Stick Full Screen Zip` |
 
-Each name above comes as `... - Part 1.zip` and `... - Part 2.zip`.
+Each name above comes as `... - Part 1.zip` and `... - Part 2.zip` (10 colorways each), plus `... - Part 3.zip` (Soft Light and Blackout).
 
 ## Dynamic Island set (iPhone 14 Pro and later)
 
@@ -156,6 +156,45 @@ Each name comes as `... - Part 1.zip` and `... - Part 2.zip` (10 colorways each)
 
 **Full Screen tested with:** 1942, Breakers Revenge, Contra, Ghosts 'n Goblins, Golden Axe, Joust, Mortal Kombat, Pang, Rival Schools, The Simpsons, Street Fighter II (and Champion Edition), Tekken 3, Turf Masters and Waku Waku 7.
 
+## D-Pad set (alternative to the joystick)
+
+**For iPhone. There is no iPad D-pad set yet.**
+
+Same layouts, same button mapping and same colorways as the regular skins, but the joystick is replaced by a **D-pad** (up, down, left, right, with diagonals). A D-pad gives precise 4 and 8 direction input for fighting games (Street Fighter, Tekken), Pac-Man style games and anything where you don't want a stray up (jump) while mashing buttons. The D-pad is drawn in each colorway's accent color, so it is easy to tell from the joystick skins. Download them from the [v1.5 release](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.5).
+
+It comes in two flavors, each with Normal and Full Screen looks:
+
+- **Original**: for "notch" iPhones. 22 colorways.
+- **Dynamic Island**: controls kept clear of the island. 22 colorways.
+
+Layouts: 1, 2, 3, 4 (Classic and Tekken-Rival Fix), 5 and 6 Button. There is no Twin Stick D-pad set.
+
+| Original, Full Screen landscape | Dynamic Island, Full Screen landscape |
+|---|---|
+| ![Street Fighter II, D-pad, Original Full Screen landscape](images/dpad/original-fullscreen-street-fighter-2.png) | ![Darkstalkers, D-pad, Dynamic Island Full Screen landscape](images/dpad/dynamic-island-fullscreen-darkstalkers.png) |
+
+| Portrait |
+|---|
+| ![Darkstalkers, D-pad, portrait](images/dpad/portrait-darkstalkers.png) |
+
+Portrait looks the same in Normal and Full Screen.
+
+That makes 616 skins in 84 zips (308 in 42 zips for Original, 308 in 42 zips for Dynamic Island).
+
+| Layout | Original | Dynamic Island |
+|---|---|---|
+| **1 Button** | `1-Button D-Pad Zip` / `1-Button D-Pad Full Screen Zip` | `1-Button D-Pad Dynamic Island Zip` / `... Full Screen Zip` |
+| **2 Button** | `2-Button D-Pad Zip` / `2-Button D-Pad Full Screen Zip` | `2-Button D-Pad Dynamic Island Zip` / `... Full Screen Zip` |
+| **3 Button** | `3-Button D-Pad Zip` / `3-Button D-Pad Full Screen Zip` | `3-Button D-Pad Dynamic Island Zip` / `... Full Screen Zip` |
+| **4 Button Classic** | `4-Button Classic D-Pad Zip` / `... Full Screen Zip` | `4-Button Classic D-Pad Dynamic Island Zip` / `... Full Screen Zip` |
+| **4 Button Tekken-Rival Fix** | `4-Button Tekken-Rival Fix D-Pad Zip` / `... Full Screen Zip` | `4-Button Tekken-Rival Fix D-Pad Dynamic Island Zip` / `... Full Screen Zip` |
+| **5 Button** | `5-Button D-Pad Zip` / `5-Button D-Pad Full Screen Zip` | `5-Button D-Pad Dynamic Island Zip` / `... Full Screen Zip` |
+| **6 Button** | `6-Button D-Pad Zip` / `6-Button D-Pad Full Screen Zip` | `6-Button D-Pad Dynamic Island Zip` / `... Full Screen Zip` |
+
+Each name comes as `... - Part 1.zip` and `... - Part 2.zip` (10 colorways each), plus `... - Part 3.zip` (Soft Light and Blackout).
+
+**Tested on:** iPhone XR and iPhone 17 Pro, Manic EMU 2.0.1
+
 ## Combo skins (extras)
 
 Some fighting games use button combinations that are hard to press on a touch screen. Combo skins add labelled combo buttons next to the normal ones. They have their own three colorways, so they're easy to tell apart from the other sets.
@@ -201,9 +240,9 @@ Button roles vary by game. For example, in Golden Axe the middle button on a pho
 **Prefer a sequential button layout?**
 The button order follows Manic EMU's arcade mapping (see the Button order diagram above). If you'd rather have a plain Button 1, 2, 3 from left to right in every layout, open an [issue](../../issues) and let me know. If enough people ask, I'll consider an alternative set.
 
-## The 20 colorways
+## The 22 colorways
 
-Plain (No Glow), Noir Mono, Synthwave Sunset, Rose Gold, Royal Blue, Vaporwave, Ultraviolet, Rainbow Bright, Sakura, Emerald, Cyber Teal, Crimson Classic, Classic Cabinet, Nightfall Purple, Hot Pink, Plain Noir, Completely Rainbow, Whiskey, Gunmetal, Blood & Bone. The Dynamic Island, Tate, Left-Handed and iPad sets also have Soft Light and Blackout.
+Plain (No Glow), Noir Mono, Synthwave Sunset, Rose Gold, Royal Blue, Vaporwave, Ultraviolet, Rainbow Bright, Sakura, Emerald, Cyber Teal, Crimson Classic, Classic Cabinet, Nightfall Purple, Hot Pink, Plain Noir, Completely Rainbow, Whiskey, Gunmetal, Blood & Bone, plus **Soft Light** (off-white, no neon) and **Blackout** (dark body, dark buttons). All sets have all 22.
 
 ## Known issues
 
@@ -214,9 +253,10 @@ Plain (No Glow), Noir Mono, Synthwave Sunset, Rose Gold, Royal Blue, Vaporwave, 
 Each `.manicskin` is a zip containing `info.json`, PNG art and PDF button images. The layout lives in `info.json` under `representations.iphone.edgeToEdge.{portrait, landscape}` (iPad skins use `representations.ipad.standard.{portrait, landscape}`):
 
 - `assets.large`: PNG with a transparent hole where the game screen goes
-- `items`: thumbsticks and buttons. Each button has an `inputs` list, and a button can send several at once (for example `["a", "l1", "r1"]`)
+- `items`: thumbsticks, D-pads and buttons. Each button has an `inputs` list, and a button can send several at once (for example `["a", "l1", "r1"]`)
 - `mappingSize` and `screens[].outputFrame`: size and screen position
 - `translucent`: `true` for Full Screen landscape, where buttons are drawn over the game
+- D-pad items (D-Pad set) use an `inputs` object instead of a list: `{"up": "up", "down": "down", "left": "left", "right": "right"}`, with `asset.normal` pointing to the D-pad image (`dpad.pdf`)
 
 ## License
 
