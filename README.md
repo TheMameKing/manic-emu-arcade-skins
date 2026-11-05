@@ -2,13 +2,13 @@
 
 **[⬇ Download the skins (latest release)](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/latest)**
 
-Original set: [v1.0](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/V1.0) · Dynamic Island set: [v1.1](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.1) · Tate (vertical games): [v1.2](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.2) · Left-Handed set: [v1.3](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.3) · iPad set: [v1.4](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.4) · D-Pad set: [v1.5](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.5)· Starter Pack set: [Starter-pack](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/Starter-Packs)
+Original set: [v1.0](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/V1.0) · Dynamic Island set: [v1.1](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.1) · Tate (vertical games): [v1.2](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.2) · Left-Handed set: [v1.3](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.3) · iPad set: [v1.4](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.4) · D-Pad set: [v1.5](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.5) · Starter Pack set: [Starter-pack](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/Starter-Packs)
 
-Original-art controller skins for **MAME / arcade** games in Manic EMU. 16 layouts, 22 colorways each: **352 skins in 48 zip files**. There is also a separate **Dynamic Island set** for iPhone 14 Pro and later, a **Tate set** for vertical games, a **Left-Handed set** that mirrors the Dynamic Island and Tate layouts, and an **iPad set** and a **D-Pad set** (see below).
+Original-art controller skins for **MAME / arcade** games in Manic EMU. 16 layouts, 22 colorways each: **352 skins in 48 zip files**. There is also a separate **Dynamic Island set** for iPhone 14 Pro and later, a **Tate set** for vertical games, a **Left-Handed set** that mirrors the Dynamic Island and Tate layouts, and an **iPad set**, a **D-Pad set** (including a Tate D-Pad set), and **Starter Packs** with one zip per set (see below).
 
 All art is original. No real arcade characters, logos or game artwork appear on any skin.
 
-![20 original colorways](arcade-skins-colorways.png)
+![First 20 colorways](arcade-skins-colorways.png)
 
 <img width="1200" height="427" alt="arcade-skins-soft-dark" src="https://github.com/user-attachments/assets/8996a6f2-7772-4819-917d-e448126bfe1b" />
 
@@ -19,6 +19,14 @@ All art is original. No real arcade characters, logos or game artwork appear on 
 1. Open the **[Releases](../../releases)** page and download the zips you want.
 2. Unzip them (on iPhone, tap the zip in the Files app). Each zip holds up to 10 `.manicskin` files.
 3. Import the `.manicskin` files into Manic EMU with its skin import option, then pick the skin for your arcade games.
+
+## Starter Packs (Nightfall Purple)
+
+Not sure where to start? Each Starter Pack is one zip with every layout of a set in our flagship color, Nightfall Purple. They are copies of the same skins in the full sets, so nothing changes if you add a full set later.
+
+Packs: Original (16), Dynamic Island (16), Left-Handed (21, includes the Left-Handed Tate layouts), Tate (5), iPad (23, in 2 parts), D-Pad Original (14), D-Pad Dynamic Island (14).
+
+Download from the [Starter Packs release](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/Starter-Packs). To install, tap Assign Skin, New Skin, Open File, pick the pack zip and confirm. If that doesn't work, unzip it in the Files app first and select the .manicskin files instead.
 
 ## Which zip do I need?
 
@@ -90,6 +98,8 @@ Vertical games like Galaga, 1942 or Ketsui are rotated upright by Manic EMU, but
 
 It has the same 22 colorways: 110 skins in 15 zips. Each name comes as `... - Part 1.zip` and `... - Part 2.zip` (10 colorways each), plus `... - Part 3.zip` (Soft Light and Blackout).
 
+**Prefer a D-pad?** There is a Tate D-pad version of these layouts for fast-turn games like Pac-Man and 1942: 1-4 Button, 22 colorways each, 88 skins in 12 zips. iPhone only; no Twin Stick, Left-Handed or iPad versions. See [Tate D-Pad](#tate-d-pad-set-iphone) in the D-Pad section.
+
 ## Left-Handed set (mirrored layouts)
 
 <img width="1300" height="918" alt="arcade-skins-left-handed" src="https://github.com/user-attachments/assets/95936d6e-dda5-4518-af1c-012e030b76e3" />
@@ -160,14 +170,14 @@ Each name comes as `... - Part 1.zip` and `... - Part 2.zip` (10 colorways each)
 
 **For iPhone. There is no iPad D-pad set yet.**
 
-Same layouts, same button mapping and same colorways as the regular skins, but the joystick is replaced by a **D-pad** (up, down, left, right, with diagonals). A D-pad gives precise 4 and 8 direction input for fighting games (Street Fighter, Tekken), Pac-Man style games and anything where you don't want a stray up (jump) while mashing buttons. The D-pad is drawn in each colorway's accent color, so it is easy to tell from the joystick skins. Download them from the [v1.5 release](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.5).
+Same layouts, same button mapping and same colorways as the regular skins, but the joystick is replaced by a **D-pad** (up, down, left, right, with diagonals). A D-pad gives precise 4 and 8 direction input for fighting games (Street Fighter, Tekken), Pac-Man style games and anything where you don't want a stray up (jump) while mashing buttons. The D-pad is drawn in each colorway's accent color, so it is easy to tell from the joystick skins. There is also a Tate D-pad set, described below. Download all the D-pad skins from the [v1.5 release](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.5).
 
 It comes in two flavors, each with Normal and Full Screen looks:
 
 - **Original**: for "notch" iPhones. 22 colorways.
 - **Dynamic Island**: controls kept clear of the island. 22 colorways.
 
-Layouts: 1, 2, 3, 4 (Classic and Tekken-Rival Fix), 5 and 6 Button. There is no Twin Stick D-pad set.
+For Original and Dynamic Island: layouts 1, 2, 3, 4 (Classic and Tekken-Rival Fix), 5 and 6 Button. There is no Twin Stick D-pad set.
 
 | Original, Full Screen landscape | Dynamic Island, Full Screen landscape |
 |---|---|
@@ -194,6 +204,21 @@ That makes 616 skins in 84 zips (308 in 42 zips for Original, 308 in 42 zips for
 Each name comes as `... - Part 1.zip` and `... - Part 2.zip` (10 colorways each), plus `... - Part 3.zip` (Soft Light and Blackout).
 
 **Tested on:** iPhone XR and iPhone 17 Pro, Manic EMU 2.0.1
+
+### Tate D-Pad Set (iPhone)
+
+A D-pad version of the Tate (vertical) skins, built for games where fast turns matter, like Pac-Man, 1942 and other vertical shooters and mazes. The accent-colored cross replaces the stick, and the buttons keep the same order as the stick Tate skins.
+
+**What's included**
+- Tate 1, 2, 3 and 4 Button, each in 22 colorways (88 skins)
+- 12 zips: "Tate N Button D-Pad Zip - Part 1 / 2 / 3". Parts 1 and 2 hold the colorways, and Part 3 holds Soft Light and Blackout.
+- iPhone only. No Twin Stick, Left-Handed or iPad versions of these yet.
+
+8-way D-pad: diagonals work, so it handles fast turns and diagonal movement smoothly.
+
+Tested on iPhone XR with Manic EMU 2.0.1.
+
+Download from the [v1.5 release](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.5), with the other D-pad skins.
 
 ## Combo skins (extras)
 
