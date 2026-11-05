@@ -123,7 +123,7 @@ Each name comes as `... - Part 1.zip` and `... - Part 2.zip` (10 colorways each)
 
 ## iPad set (Handheld, Tabletop and Full Screen)
 
-**For iPad only.** The iPad sends button inputs in a different order from the iPhone, so iPhone skins behave differently on an iPad, and these behave differently on an iPhone.
+**For iPad only.** On an iPad, an iPhone skin looks squished and some buttons may not send the right inputs, even though Manic 2.0.2 lets iPads load iPhone skins. Use these skins on iPad and the other sets on iPhone.
 
 Handheld and Tabletop have a 4:3 screen on top with the controls in a panel below. Full Screen fills the whole iPad screen in landscape, with see-through controls on top. Download them from the [v1.4 release](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.4).
 
@@ -162,7 +162,7 @@ It has the same 22 colorways: 506 skins in 69 zips.
 
 Each name comes as `... - Part 1.zip` and `... - Part 2.zip` (10 colorways each), plus `... - Part 3.zip` (Soft Light and Blackout).
 
-**Tested on:** iPad mini (5th generation), iOS 15.6, Manic EMU 2.0.1. Other iPads should fit, but they're untested. If you try one, please [open an issue](../../issues) with a screenshot.
+**Tested on:** iPad mini (5th generation), iOS 15.6, Manic EMU 2.0.1 and 2.0.2. Other iPads should fit, but they're untested. If you try one, please [open an issue](../../issues) with a screenshot.
 
 **Full Screen tested with:** 1942, Breakers Revenge, Contra, Ghosts 'n Goblins, Golden Axe, Joust, Mortal Kombat, Pang, Rival Schools, The Simpsons, Street Fighter II (and Champion Edition), Tekken 3, Turf Masters and Waku Waku 7.
 
@@ -220,7 +220,13 @@ Tested on iPhone XR with Manic EMU 2.0.1.
 
 Download from the [v1.5 release](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.5), with the other D-pad skins.
 
-## Combo skins (extras)
+For Pac-Man style games with no action buttons, see Tate D-Pad Only in the [Extras](#extras) section.
+
+## Extras
+
+Special-purpose skins that don't belong to the main sets. They're in the [Extras release](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/extras).
+
+### Combo skins
 
 Some fighting games use button combinations that are hard to press on a touch screen. Combo skins add labelled combo buttons next to the normal ones. They have their own three colorways, so they're easy to tell apart from the other sets.
 
@@ -238,6 +244,15 @@ Colorways: Combo Gold, Combo Neon, Combo Ember. Download from the [Extras releas
 Combos differ from game to game, so skins made for a specific game are named after it and added over time.
 
 **Want a combo skin for a game that isn't listed?** [Open a combo request](../../issues/new?template=combo-request.md) with the game name and the combos you need.
+
+### Tate D-Pad Only (iPhone)
+
+For vertical games that need no action buttons, like Pac-Man and Ms. Pac-Man. These skins have one large D-pad and the system controls (Coin, Start, FF, Load, Save, menu), with no buttons. In portrait the D-pad sits centered under the screen, so either hand can use it. In landscape it is on the left, in the same place as the Tate D-pad skins.
+
+- 22 colorways, 22 skins in 3 zips: `Tate D-Pad Only Zip - Part 1 / 2 / 3` (Part 3 is Soft Light and Blackout).
+- 8-way D-pad, iPhone only. For games that need a fire button, use the Tate D-Pad set above.
+
+Tested on iPhone XR with Manic EMU 2.0.1.
 
 ## Button mapping
 
