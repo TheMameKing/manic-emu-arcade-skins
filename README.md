@@ -1,4 +1,4 @@
-# Arcade Skins for Manic EMU
+# Arcade Skins for Manic EMU *Hot FIX INCOMING FOR MANIC 2.0.2 New Button Order Later today. They'll be a new release
 
 **[⬇ Download the skins (latest release)](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/latest)**
 
