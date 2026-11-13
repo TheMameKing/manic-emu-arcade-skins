@@ -1,7 +1,7 @@
 # Arcade Skins for Manic EMU
 
 > **Quick heads-up on Manic EMU 2.0.2:** 
-> I didn't see the 2.0.1 → 2.0.2 button mapping change coming, and reorganizing a project this size on top of the patches I just pushed is a massive undertaking for a solo hobby project. Bear with me while I figure out the best way to restructure this page!
+> I didn't see the 2.0.1 → 2.0.2 button mapping change coming, and reorganizing a project this size on top of the patches I just pushed is a massive undertaking for a solo hobby project. Bear with me while I figure out the best way to restructure this page.
 > 
 > * **Need the 2.0.2 button mappings right away?** They're already up on my [DeltaStyles page (TheMameKing)](https://deltastyles.com/user/3027-TheMameKing).
 > * **What's happening here:** Nothing is being deleted. I may just rearrange things once I decide on a new layout, and I'll upload the updated skins here as soon as it's sorted. Thanks for your patience.
