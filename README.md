@@ -1,4 +1,4 @@
-# Arcade Skins for Manic EMU *Hot FIX INCOMING FOR MANIC'S 2.0.2 New Button Order Later today. They'll be a new release. if you want a new version of the starter packs go to deltastyles while you wait for me to fix the GitHub with the new controls for manic 2.0.2
+# Arcade Skins for Manic EMU. I will update and add the new skins when i figure out how I'm going to go about the new button mapping change from Manic 2.0.1 to 2.0.2, If you want the new button mapping go to my DeltaStyles page (TheMameKing) it's on there. Nothing is getting deleted from here I may rearrange but idk how Im going to change the layout yet.
 
 **[⬇ Download the skins (latest release)](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/latest)**
 
