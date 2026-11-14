@@ -1,13 +1,14 @@
 # Arcade Skins for Manic EMU
 
-> **Quick heads-up on the page layout and info about the change:** 
-- Sets for Manic Emu v2.0.1 have been moved to their mirrored Legacy release.
-- The Sets for Manic Emu v2.0.2+ with the button mapping change are now in the regular release section [v1.0-v1.6](https://github.com/TheMameKing/manic-emu-arcade-skins/releases?page=2)
-- The Only Difference between 2.0.1 and 2.0.2 sets is the button mapping, Manic 2.0.2 update changed the button inputs so I patched the old sets with the updated order, now every updated set with will run 123 456 left to right top to bottom. The legacy sets uses Manic Emu's old order so games would play with punches on top and kicks on bottom so if you are on manic 2.0.1 because sideloading or some reason use the Legacy set. If your on Manic Emu 2.0.2 or higher use the regular version releases not the ones named Legacy. It matters which version you are on because the wrong set and wrong version number will give you scrambled inputs.
-- Since the button mapping changed the new sets lost tekken fix because now it is not needed, I checked all the games it was needed for before the update and with Manic's new mapping they are not needed anymore.
--  Twin stick games across all sets work on both version's if you have the Legacy versions they are identical to the 2.0.2 versions because the update only affected buttons not sticks.
-- iPad didn't have a problem with the new button mapping because the iPad and iPhones had different mapping in Manic's own code to begin with and i followed their button mapping and had a special set for street fighter, when they changed the input order it matched with what i had already set so it made all the sets now run 123, 456 left to right top to bottom. But it did affect the street fighter set because of the special mapping I put to get it to run 123456, so street fighter iPad got moved to legacy by it's self because its the only one that really changed. So all iPad users use the regular release.
-- The Readme and the release page's info is still not updated all the way yet, I will do it soon and make a new Legacy section and move the outdated info there.
+Quick heads-up on the page layout and the 2.0.2 change:
+
+- Using Manic EMU 2.0.2 or newer? Use the regular releases (v1.0 to v1.6), the ones without “Legacy” in the name.
+- Using Manic EMU 2.0.1 or earlier (for example a sideloaded copy)? Use the Legacy releases. They’re the old sets, unchanged.
+- What changed: only the button numbering. Manic 2.0.2 changed the button inputs, so I patched every set to match. In the updated sets the buttons now read 1, 2, 3 on the top row and 4, 5, 6 below, left to right (right to left on the left-handed sets). The Legacy sets use the old numbering, where Button 1 is at the bottom right. Using the wrong set for your version gives scrambled inputs.
+- Tekken-Rival Fix is retired. With the new numbering, the regular 4 Button works for Tekken and Rival Schools in my testing. The old Tekken-Rival Fix skins are still in the Legacy releases for 2.0.1.
+- Twin Stick skins work on both versions. In my testing they play the same, and the Legacy copies are identical.
+- iPad skins already numbered their buttons in reading order, so every iPad set works on both versions. The one exception is the iPad Street Fighter set, which used a special order and now plays scrambled on 2.0.2, so it’s in Legacy only. iPad users should use the regular releases.
+- The README and release pages are still being updated. I’ll add a Legacy section and move the outdated info there.
 
 
 **[⬇ Download the skins (latest release)](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/latest)**
