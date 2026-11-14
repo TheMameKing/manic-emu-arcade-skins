@@ -7,7 +7,7 @@ Quick heads-up on the page layout and the 2.0.2 change:
 - What changed: only the button numbering. Manic 2.0.2 changed the button inputs, so I patched every set to match. In the updated sets the buttons now read 1, 2, 3 on the top row and 4, 5, 6 below, left to right (right to left on the left-handed sets). The Legacy sets use the old numbering, where Button 1 is at the bottom right. Using the wrong set for your version gives scrambled inputs.
 - Tekken-Rival Fix is retired. With the new numbering, the regular 4 Button works for Tekken and Rival Schools in my testing. The old Tekken-Rival Fix skins are still in the Legacy releases for 2.0.1.
 - Twin Stick skins work on both versions. In my testing they play the same, and the Legacy copies are identical.
-- iPad skins already numbered their buttons in reading order, so every iPad set works on both versions. The one exception is the iPad Street Fighter set, which used a special order and now plays scrambled on 2.0.2, so it’s in Legacy only. iPad users should use the regular releases.
+- iPad skins: All iPad sets work on both Manic EMU versions, with one exception: the iPad Street Fighter set uses a special button order and is only compatible with the Legacy mapping. iPad users should use the regular releases for all other layouts.
 - The README and release pages are still being updated. I’ll add a Legacy section and move the outdated info there.
 - The Links below will take you to the page you need for both 2.0.2 [new sets] and to 2.0.1 [Legacy sets]
 
