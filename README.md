@@ -15,7 +15,7 @@ Quick heads-up on the page layout and the 2.0.2 change:
 
 | Sets | Manic EMU 2.0.2 or newer| Manic EMU 2.0.1 and earlier |
 |---|---|---|
-| **Original set** | [v1.0](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/V1.0) |  [Legacy-v1.0](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/Legacy-V1.0) |
+| **Original set** | [v1.0](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/V1.0) |  [Legacy-v1.0](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/Legacy-v1.0) |
 | **Dynamic Island** | [v1.1](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.1) |[Legacy-v1.1](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/Legacy-v1.1)  |
 | **Tate (vertical games)** | [v1.2](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.2) |  [Legacy-v1.2](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/Legacy-v1.2) |
 | **Left-Handed set** |  [v1.3](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.3) | [Legacy-v1.3](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/Legacy-v1.3)|
