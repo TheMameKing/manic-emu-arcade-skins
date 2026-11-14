@@ -1,4 +1,4 @@
-# Arcade Skins for Manic EMU
+# Arcade Skins for Manic EMU (Middle of swapping skins over give it a min or 2 after i update before downloading so im sure its the right file, ill remove this once I'm done)
 
 > **Quick heads-up on Manic EMU 2.0.2:** 
 > I didn't see the 2.0.1 → 2.0.2 button mapping change coming, and reorganizing a project this size on top of the patches I just pushed is a massive undertaking for a solo hobby project. Bear with me while I figure out the best way to restructure this page.
