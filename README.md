@@ -46,7 +46,7 @@ All art is original. No real arcade characters, logos or game artwork appear on 
 
 Not sure where to start? Each Starter Pack is one zip with every layout of a set in our flagship color, Nightfall Purple. They are copies of the same skins in the full sets, so nothing changes if you add a full set later.
 
-Packs: Original (14), Dynamic Island (14), Left-Handed (14), Tate (5), iPad (20), D-Pad Original (12), D-Pad Dynamic Island (12), Tate D-Pad (5), D-Pad Left-Handed (19, includes the Tate D-Pad layouts and Tate D-Pad Only).
+Packs: Original (14), Dynamic Island (14), Left-Handed (14), Tate (5), iPad (20), D-Pad Original (12), D-Pad Dynamic Island (12), Tate D-Pad (5), D-Pad Left-Handed (12), Tate Left-Handed (5), Tate D-Pad Left-Handed (5), iPad Tate (4)
 
 Download from the [Starter Packs release](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/Starter-Packs). To install, tap Assign Skin, New Skin, Open File, pick the pack zip and confirm. If that doesn't work, unzip it in the Files app first and select the .manicskin files instead. On older iOS versions you may need to unzip first.
 
@@ -260,10 +260,9 @@ Special-purpose skins and extra styles that don't belong to the main sets. They'
 
 Some fighting games use button combinations that are hard to press on a touch screen. Combo skins add labelled combo buttons next to the normal ones. They have their own three colorways, so they're easy to tell apart from the other sets.
 
-Colorways: Combo Gold, Combo Neon, Combo Ember. 6 skins in 2 zips. Download from the [Extras release](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/extras):
+They will be brought back once i start mapping out the button combos
 
 Combos differ from game to game, so skins made for a specific game are named after it and added over time.
-
 **Want a combo skin for a game that isn't listed?** [Open a combo request](../../issues/new?template=combo-request.md) with the game name and the combos you need.
 
 ### Tate D-Pad Only (iPhone)
