@@ -394,7 +394,7 @@ A game that needs Buttons 1 to N needs every number from 1 to N present on the s
 
 **Twin Stick** has no center buttons. In Smash TV and Total Carnage, the right stick fires in 4 directions (the `x` / `y` / `a` / `b` inputs).
 
-![Button order](button-order.png)
+![Button order](Legacy-button-order.png)
 
 Button roles vary by game. For example, in Golden Axe the middle button on a phone 3 button skin is attack and the left is jump, while in Turf Masters the left button aims left, the middle shoots, and the right aims right. If a button does something unexpected, check the game's controller menu in Manic EMU, since the same button number can mean different things in different games.
 
@@ -407,7 +407,7 @@ Some fighting games use button combinations that are hard to press on a touch sc
 - **1+2**: presses the top-right and bottom-left buttons together. Tekken: grab. Rival Schools: special attack.
 - **3+4**: presses the two bottom buttons together. Tekken and Rival Schools: dodge.
 
-Colorways: Combo Gold, Combo Neon, Combo Ember. 6 skins in 2 zips. Download from the [Extras release](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/extras): `4-Button Tekken-Rival Combo Dynamic Island`, `4-Button Tekken-Rival Combo Dynamic Island Full Screen`
+Colorways: Combo Gold, Combo Neon, Combo Ember. 6 skins in 2 zips. Download from the [Extras release](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/Legacy-Extras): `4-Button Tekken-Rival Combo Dynamic Island`, `4-Button Tekken-Rival Combo Dynamic Island Full Screen`
 
 | Skin | Combo buttons | What they do | Tested |
 |---|---|---|---|
