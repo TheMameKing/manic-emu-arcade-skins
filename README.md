@@ -360,7 +360,7 @@ Both are 4-button layouts. They look the same and can be installed side by side.
 | Dynamic Island | `4-Button Tekken-Rival Fix Dynamic Island Zip` / `... Full Screen Zip` | Legacy-v1.1 |
 | D-Pad | `4-Button Tekken-Rival Fix D-Pad Zip` / `... Dynamic Island Zip` (each with a Full Screen version) | Legacy-v1.5 |
 | Left-Handed | `4-Button Tekken-Rival Fix Dynamic Island Left-Handed Zip` / `... Full Screen Left-Handed Zip` | Legacy-v1.3 |
-| **4 Button Classic** | `4-Button Tekken-Rival Fix D-Pad Dynamic Island Left-Handed Zip` / `... Full Screen Left-Handed Zip` | Legacy-v1.6 |
+| Left-Handed D-Pad | `4-Button Tekken-Rival Fix D-Pad Dynamic Island Left-Handed Zip` / `... Full Screen Left-Handed Zip` | Legacy-v1.6 |
 
 ## iPad 6 Button Street Fighter (Legacy only)
 
