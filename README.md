@@ -335,70 +335,42 @@ Plain (No Glow), Noir Mono, Synthwave Sunset, Rose Gold, Royal Blue, Vaporwave, 
 
 - 6 Button: Shadow Force 6 button is not confirmed, I can’t find a US version to test. 3 button works with world and Japan version
 
-# Legacy
+# Legacy (Manic EMU 2.0.1 and earlier)
 
-## Which zip do I need?
+These are the original sets with the old button numbering, unchanged. On 2.0.2 or newer, use the regular sections above.
 
-Every layout comes in two looks and three parts:
+Every set uses the **same layouts and zip names** as the sections above. Take them from the matching Legacy release in the table at the top of this page. Only the differences are listed here.
 
-- **Normal** ("Pro"): the controls sit around the game screen.
-- **Full Screen**: the game fills the screen, and in landscape the buttons are drawn see-through on top of it.
-- **Part 1 / Part 2 / Part 3**: the 22 colorways are split across three zips of up to 10, so grab all parts for the full set.
+## Old button numbering
 
-| Layout | What it has | Download these |
-|---|---|---|
-| **1 Button** | Button 1 | `1 Button Zip` / `1 Button Full Screen Zip` |
-| **2 Button** | Buttons 1-2 | `2 Button Zip` / `2 Button Full Screen Zip` |
-| **3 Button** | Buttons 1-3 | `3 Button Zip` / `3 Button Full Screen Zip` |
-| **4 Button Classic** | Buttons 1-4 | `4 Button Classic Zip` / `4 Button Classic Full Screen Zip` |
-| **4 Button Tekken-Rival Fix** | Buttons 1-4, plus extra inputs on the bottom-left button (see below) | `4 Button Tekken-Rival Fix Zip` / `4 Button Tekken-Rival Fix Full Screen Zip` |
-| **5 Button** | Buttons 1-5 | `5 Button Zip` / `5 Button Full Screen Zip` |
-| **6 Button** | Buttons 1-6 | `6 Button Zip` / `6 Button Full Screen Zip` |
-| **Twin Stick** | Two thumbsticks, no center buttons | `Twin Stick Zip` / `Twin Stick Full Screen Zip` |
+On the Legacy sets Button 1 is at the bottom right. A 6 Button skin reads 4 3 5 on the top row and 2 1 6 below. The skin inputs are the same as in [Button mapping](#button-mapping); only where each input sits on the skin is different.
 
-Dynamic Island Has Dynamic Island In its zip name, Left-Handed has Left-Handed in name
+![Button order](Legacy-button-order.png)
 
-Each name above comes as `... - Part 1.zip` and `... - Part 2.zip` (10 colorways each), plus `... - Part 3.zip` (Soft Light and Blackout).
-That Makes 352 skins in 48 zips
-## Classic or Tekken-Rival Fix?
+## Tekken-Rival Fix (Legacy only)
 
 Both are 4-button layouts. They look the same and can be installed side by side.
 
 - **Classic**: the bottom-left button is Button 2 only. Use this for most 4-button games.
 - **Tekken-Rival Fix**: the bottom-left button sends Button 2 **and** Buttons 5 and 6 together. Some fighting games (Rival Schools wants Button 5, Tekken 3 wants Button 6) need those extra buttons, and this gives them to you without a 6-button layout.
 
-## iPad
-- **6 Button Street Fighter**: top row punches, bottom row kicks. Use it for Street Fighter style fighters.
-- There is no Tekken-Rival Fix on iPad. The plain 4 Button works for Tekken and Rival Schools there.
-| **6 Button Street Fighter** | `iPad 6 Button Street Fighter Handheld Zip` / `iPad 6 Button Street Fighter Tabletop Zip` / `iPad 6 Button Street Fighter Full Screen Zip` |
+| Set | Zips | Release |
+|---|---|---|
+| Original | `4 Button Tekken-Rival Fix Zip` / `... Full Screen Zip` | Legacy-v1.0 |
+| Dynamic Island | `4-Button Tekken-Rival Fix Dynamic Island Zip` / `... Full Screen Zip` | Legacy-v1.1 |
+| D-Pad | `4-Button Tekken-Rival Fix D-Pad Zip` / `... Dynamic Island Zip` (each with a Full Screen version) | Legacy-v1.5 |
+| Left-Handed | `4-Button Tekken-Rival Fix Dynamic Island Left-Handed Zip` / `... Full Screen Left-Handed Zip` | Legacy-v1.3 |
+| **4 Button Classic** | `4-Button Tekken-Rival Fix D-Pad Dynamic Island Left-Handed Zip` / `... Full Screen Left-Handed Zip` | Legacy-v1.6 |
 
-## Left-Handed D-Pad
-| **4 Button Tekken-Rival Fix** | `4-Button Tekken-Rival Fix D-Pad Zip` / `... Full Screen Zip` | `4-Button Tekken-Rival Fix D-Pad Dynamic Island Zip` / `... Full Screen Zip` |
+## iPad 6 Button Street Fighter (Legacy only)
 
-## Button mapping
+Top row punches, bottom row kicks. It only works with the old mapping.
 
-Manic EMU's arcade core numbers the buttons like this:
-
-| Skin input | Arcade button |
+| Layout | Download these |
 |---|---|
-| `b` | Button 1 |
-| `a` | Button 2 |
-| `y` | Button 3 |
-| `x` | Button 4 |
-| `l1` | Button 5 |
-| `r1` | Button 6 |
+| **6 Button Street Fighter** | `iPad 6 Button Street Fighter Handheld Zip` / `... Tabletop Zip` / `... Full Screen Zip` |
 
-This table describes the iPhone skins. The iPad skins send their inputs in a different order, but the buttons play the same as on the phone. See the diagram below for the layout.
-
-A game that needs Buttons 1 to N needs every number from 1 to N present on the skin, which is why 1-Button uses `b` and 3-Button uses `a`, `b` and `y`.
-
-**Twin Stick** has no center buttons. In Smash TV and Total Carnage, the right stick fires in 4 directions (the `x` / `y` / `a` / `b` inputs).
-
-![Button order](Legacy-button-order.png)
-
-Button roles vary by game. For example, in Golden Axe the middle button on a phone 3 button skin is attack and the left is jump, while in Turf Masters the left button aims left, the middle shoots, and the right aims right. If a button does something unexpected, check the game's controller menu in Manic EMU, since the same button number can mean different things in different games.
-
-### Combo skins
+## Tekken-Rival combo skins
 
 Some fighting games use button combinations that are hard to press on a touch screen. Combo skins add labelled combo buttons next to the normal ones. They have their own three colorways, so they're easy to tell apart from the other sets.
 
@@ -414,6 +386,7 @@ Colorways: Combo Gold, Combo Neon, Combo Ember. 6 skins in 2 zips. Download from
 | 4-Button Tekken-Rival Combo | 1+2, 3+4 | Tekken 3: grab, dodge. Rival Schools: special attack, dodge | Rival Schools, Tekken 3 |
 
 Combos differ from game to game, so skins made for a specific game are named after it and added over time.
+
 
 ## For skin makers
 
