@@ -24,7 +24,7 @@ Quick heads-up on the page layout and the 2.0.2 change:
 | **Extras** | [Extras](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/extras) |[Legacy-Extras](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/Legacy-Extras) |
 | **Starter Packs** | [Starter-pack](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/Starter-Packs) | [Legacy-Starter-pack](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/Legacy-Starter-Packs) |
 
-Original-art controller skins for **MAME / arcade** games in Manic EMU. 14 layouts, 22 colorways each: **308 skins in 42 zip files**. There is also a separate **Dynamic Island set** for iPhone 14 Pro and later, a **Tate set** for vertical games, a **Left-Handed set** that mirrors the Dynamic Island and Tate layouts, and an **iPad set**, a **D-Pad set** (including a Tate D-Pad set and a Left-Handed D-Pad set), and **Starter Packs** with one zip per set (see below).
+Original-art controller skins for **MAME / arcade** games in Manic EMU. 14 layouts, 22 colorways each: **308 skins in 42 zip files**. There is also a separate **Dynamic Island set** for iPhone 14 Pro and later, a **Tate set** for vertical games, a **Left-Handed set** that mirrors the Dynamic Island and Tate layouts, and an **iPad set** (with an **iPad Tate set** for vertical games), a **D-Pad set** (including a Tate D-Pad set and a Left-Handed D-Pad set), and **Starter Packs** with one zip per set (see below).
 
 All art is original. No real arcade characters, logos or game artwork appear on any skin.
 
@@ -102,7 +102,7 @@ Each name comes as `... - Part 1.zip` and `... - Part 2.zip` (10 colorways each)
 <img width="1290" height="1110" alt="arcade-skins-tate" src="https://github.com/user-attachments/assets/ef35598e-af77-4203-85e8-6c9b1e2a7436" />
 
 
-Vertical games like Galaga, 1942 or Ketsui are rotated upright by Manic EMU, but the game is stretched to fill the skin's screen. These skins have a tall 3:4 screen, so vertical games look the way they should. They work in portrait and landscape, and the controls stay clear of the Dynamic Island. For horizontal games, use the sets above.
+Vertical games like Galaga, 1942 or Ketsui are rotated upright by Manic EMU, but the game is stretched to fill the skin's screen. These skins have a tall 3:4 screen, so vertical games look the way they should. They work in portrait and landscape, and the controls stay clear of the Dynamic Island. For horizontal games, use the sets above. **On an iPad, use the [iPad Tate set](#ipad-tate-set).**
 
 | Layout | Good for | Download these |
 |---|---|---|
@@ -140,7 +140,7 @@ Each name comes as `... - Part 1.zip` and `... - Part 2.zip` (10 colorways each)
 
 ## iPad set (Handheld, Tabletop and Full Screen)
 
-**For iPad only.** On an iPad, an iPhone skin looks squished and some buttons may not send the right inputs, even though Manic 2.0.2 lets iPads load iPhone skins. Use these skins on iPad and the other sets on iPhone.
+**For iPad only.** On an iPad, an iPhone skin looks squished and some buttons may not send the right inputs, even though Manic 2.0.2 lets iPads load iPhone skins. Use these skins on iPad and the other sets on iPhone. For vertical games on iPad, see the [iPad Tate set](#ipad-tate-set).
 
 Handheld and Tabletop have a 4:3 screen on top with the controls in a panel below. Full Screen fills the whole iPad screen in landscape, with see-through controls on top. Download them from the [v1.4 release](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.4).
 
@@ -179,6 +179,24 @@ Each name comes as `... - Part 1.zip` and `... - Part 2.zip` (10 colorways each)
 **Tested on:** iPad mini (5th generation), iOS 15.6, Manic EMU 2.0.1 and 2.0.2. Other iPads should fit, but they're untested. If you try one, please [open an issue](../../issues) with a screenshot.
 
 **Full Screen tested with:** 1942, Breakers Revenge, Contra, Ghosts 'n Goblins, Golden Axe, Joust, Mortal Kombat, Pang, Rival Schools, The Simpsons, Street Fighter II (and Champion Edition), Tekken 3, Turf Masters and Waku Waku 7.
+
+## iPad Tate set
+
+A Tate (vertical game) version for iPad. Like the iPhone Tate skins, it has a tall 3:4 screen, so vertical games like Galaga, 1942 or Ketsui aren't stretched. **For iPad only**; on iPhone use the [Tate set](#tate-vertical-game-skins).
+
+- 1, 2, 3 and 4 Button layouts. There is no Twin Stick version.
+- It has the same 22 colorways: 88 skins in 12 zips.
+
+| Layout | Download these |
+|---|---|
+| **1 Button** | `iPad Tate 1 Button Zip` |
+| **2 Button** | `iPad Tate 2 Button Zip` |
+| **3 Button** | `iPad Tate 3 Button Zip` |
+| **4 Button** | `iPad Tate 4 Button Zip` |
+
+Each name comes as `... - Part 1.zip` and `... - Part 2.zip` (10 colorways each), plus `... - Part 3.zip` (Soft Light and Blackout). Download them from the [v1.4 release](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.4).
+
+Tested on a iPad mini 5th gen with Manic Emu 2.0.2
 
 ## D-Pad set (alternative to the joystick)
 
@@ -229,7 +247,7 @@ A D-pad version of the Tate (vertical) skins, built for games where fast turns m
 
 8-way D-pad: diagonals work, so it handles fast turns and diagonal movement smoothly.
 
-Tested on iPhone XR with Manic EMU 2.0.1. and 2.0.2
+Tested on iPhone XR with Manic EMU 2.0.1 and 2.0.2
 
 Download from the [v1.5 release](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.5), with the other D-pad skins.
 
@@ -260,9 +278,10 @@ Special-purpose skins and extra styles that don't belong to the main sets. They'
 
 Some fighting games use button combinations that are hard to press on a touch screen. Combo skins add labelled combo buttons next to the normal ones. They have their own three colorways, so they're easy to tell apart from the other sets.
 
-They will be brought back once i start mapping out the button combos
+They will be brought back once I start mapping out the button combos
 
 Combos differ from game to game, so skins made for a specific game are named after it and added over time.
+
 **Want a combo skin for a game that isn't listed?** [Open a combo request](../../issues/new?template=combo-request.md) with the game name and the combos you need.
 
 ### Tate D-Pad Only (iPhone)
@@ -274,7 +293,7 @@ Big D-pad skins for vertical games with no action buttons, like Pac-Man and Ms. 
 - 8-way D-pad. iPhone only.
 - Need a fire button? Use the Tate D-Pad set in the [v1.5 release](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.5) or the Tate D-Pad Left-Handed set in [v1.6](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.6).
 
-Tested on iPhone XR with Manic EMU 2.0.1. and 2.0.2.
+Tested on iPhone XR with Manic EMU 2.0.1 and 2.0.2.
 
 ### Twin Stick Balanced
 
@@ -316,6 +335,8 @@ Manic EMU's arcade core numbers the buttons like this:
 
 This table describes the iPhone skins. The iPad skins send their inputs in a different order, but the buttons play the same as on the phone. See the diagram below for the layout.
 
+In the current sets the buttons read 1, 2, 3 on the top row and 4, 5, 6 below, left to right (right to left on the left-handed sets). The Legacy sets number them differently; see [Old button numbering](#old-button-numbering).
+
 A game that needs Buttons 1 to N needs every number from 1 to N present on the skin, which is why 1-Button uses `b` and 3-Button uses `a`, `b` and `y`.
 
 **Twin Stick** has no center buttons. In Smash TV and Total Carnage, the right stick fires in 4 directions (the `x` / `y` / `a` / `b` inputs).
@@ -333,6 +354,20 @@ Plain (No Glow), Noir Mono, Synthwave Sunset, Rose Gold, Royal Blue, Vaporwave, 
 
 - 6 Button: Shadow Force 6 button is not confirmed, I can’t find a US version to test. 3 button works with world and Japan version
 
+## For skin makers
+
+Each `.manicskin` is a zip containing `info.json`, PNG art and PDF button images. The layout lives in `info.json` under `representations.iphone.edgeToEdge.{portrait, landscape}` (iPad skins use `representations.ipad.standard.{portrait, landscape}`):
+
+- `assets.large`: PNG with a transparent hole where the game screen goes
+- `items`: thumbsticks, D-pads and buttons. Each button has an `inputs` list, and a button can send several at once (for example `["a", "l1", "r1"]`)
+- `mappingSize` and `screens[].outputFrame`: size and screen position
+- `translucent`: `true` for Full Screen landscape, where buttons are drawn over the game
+- D-pad items (D-Pad set) use an `inputs` object instead of a list: `{"up": "up", "down": "down", "left": "left", "right": "right"}`, with `asset.normal` pointing to the D-pad image (`dpad.pdf`)
+
+## License
+
+Made by **TheMameKing** and released under **CC BY 4.0** (see [LICENSE](LICENSE)). You can share and adapt the skins, including commercially, as long as you give credit.
+
 # Legacy (Manic EMU 2.0.1 and earlier)
 
 These are the original sets with the old button numbering, unchanged. On 2.0.2 or newer, use the regular sections above.
@@ -347,7 +382,7 @@ On the Legacy sets Button 1 is at the bottom right. A 6 Button skin reads 4 3 5 
 
 ## Tekken-Rival Fix (Legacy only)
 
-Both are 4-button layouts. They look the same and can be installed side by side.
+There are two 4-button layouts (Classic & Tekken-Rival Fix). They look the same and can be installed side by side.
 
 - **Classic**: the bottom-left button is Button 2 only. Use this for most 4-button games.
 - **Tekken-Rival Fix**: the bottom-left button sends Button 2 **and** Buttons 5 and 6 together. Some fighting games (Rival Schools wants Button 5, Tekken 3 wants Button 6) need those extra buttons, and this gives them to you without a 6-button layout.
@@ -377,25 +412,10 @@ Some fighting games use button combinations that are hard to press on a touch sc
 - **1+2**: presses the top-right and bottom-left buttons together. Tekken: grab. Rival Schools: special attack.
 - **3+4**: presses the two bottom buttons together. Tekken and Rival Schools: dodge.
 
-Colorways: Combo Gold, Combo Neon, Combo Ember. 6 skins in 2 zips. Download from the [Extras release](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/Legacy-Extras): `4-Button Tekken-Rival Combo Dynamic Island`, `4-Button Tekken-Rival Combo Dynamic Island Full Screen`
+Colorways: Combo Gold, Combo Neon, Combo Ember. 6 skins in 2 zips. Download from the [Legacy-Extras release](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/Legacy-Extras): `4-Button Tekken-Rival Combo Dynamic Island`, `4-Button Tekken-Rival Combo Dynamic Island Full Screen`
 
 | Skin | Combo buttons | What they do | Tested |
 |---|---|---|---|
 | 4-Button Tekken-Rival Combo | 1+2, 3+4 | Tekken 3: grab, dodge. Rival Schools: special attack, dodge | Rival Schools, Tekken 3 |
 
 Combos differ from game to game, so skins made for a specific game are named after it and added over time.
-
-
-## For skin makers
-
-Each `.manicskin` is a zip containing `info.json`, PNG art and PDF button images. The layout lives in `info.json` under `representations.iphone.edgeToEdge.{portrait, landscape}` (iPad skins use `representations.ipad.standard.{portrait, landscape}`):
-
-- `assets.large`: PNG with a transparent hole where the game screen goes
-- `items`: thumbsticks, D-pads and buttons. Each button has an `inputs` list, and a button can send several at once (for example `["a", "l1", "r1"]`)
-- `mappingSize` and `screens[].outputFrame`: size and screen position
-- `translucent`: `true` for Full Screen landscape, where buttons are drawn over the game
-- D-pad items (D-Pad set) use an `inputs` object instead of a list: `{"up": "up", "down": "down", "left": "left", "right": "right"}`, with `asset.normal` pointing to the D-pad image (`dpad.pdf`)
-
-## License
-
-Made by **TheMameKing** and released under **CC BY 4.0** (see [LICENSE](LICENSE)). You can share and adapt the skins, including commercially, as long as you give credit.
