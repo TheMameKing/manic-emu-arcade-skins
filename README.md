@@ -322,7 +322,7 @@ A game that needs Buttons 1 to N needs every number from 1 to N present on the s
 
 **Twin Stick** has no center buttons. In Smash TV and Total Carnage, the right stick fires in 4 directions (the `x` / `y` / `a` / `b` inputs).
 
-![Button order](button-order.png)
+![Button order](button-order-v2.png)
 
 Button roles vary by game. For example, in Golden Axe the middle button on a phone 3 button skin is attack and the left is jump, while in Turf Masters the left button aims left, the middle shoots, and the right aims right. If a button does something unexpected, check the game's controller menu in Manic EMU, since the same button number can mean different things in different games.
 
