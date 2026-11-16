@@ -67,7 +67,6 @@ Every layout comes in two looks and three parts:
 | **2 Button** | Buttons 1-2 | `2 Button Zip` / `2 Button Full Screen Zip` |
 | **3 Button** | Buttons 1-3 | `3 Button Zip` / `3 Button Full Screen Zip` |
 | **4 Button Classic** | Buttons 1-4 | `4 Button Classic Zip` / `4 Button Classic Full Screen Zip` |
-| **4 Button Tekken-Rival Fix** | Buttons 1-4, plus extra inputs on the bottom-left button (see below) | `4 Button Tekken-Rival Fix Zip` / `4 Button Tekken-Rival Fix Full Screen Zip` |
 | **5 Button** | Buttons 1-5 | `5 Button Zip` / `5 Button Full Screen Zip` |
 | **6 Button** | Buttons 1-6 | `6 Button Zip` / `6 Button Full Screen Zip` |
 | **Twin Stick** | Two thumbsticks, no center buttons | `Twin Stick Zip` / `Twin Stick Full Screen Zip` |
@@ -78,13 +77,13 @@ Each name above comes as `... - Part 1.zip` and `... - Part 2.zip` (10 colorways
 
 On iPhones with a Dynamic Island, the island sits on the left or right edge in landscape and can cover controls. This separate set moves the controls clear of it. **If your phone has an older notch or no island, use the regular skins above.**
 
-- Same 8 layouts, same button mapping, and the same Normal and Full Screen looks.
+- Same 7 layouts, same button mapping, and the same Normal and Full Screen looks.
 - In landscape, controls stay out of the island zone on both sides. Portrait is unchanged.
 - Standard (non-Full Screen) skins have a slightly smaller game screen (about 6% smaller) to make room.
 - Names include "Dynamic Island", so they install next to the regular skins without clashing.
 - Island placement is estimated from published phone specs. Tested on an iPhone XR and an iPhone 17 Pro. If you try one on another Dynamic Island iPhone, a landscape screenshot would be very welcome.
 
-It has 22 colorways: the same 20, plus **Soft Light** (off-white, no neon) and **Blackout** (dark body, dark buttons). That makes 352 skins in 48 zips.
+It has 22 colorways: the same 20, plus **Soft Light** (off-white, no neon) and **Blackout** (dark body, dark buttons). That makes 308 skins in 42 zips.
 
 | Layout | Download these |
 |---|---|
@@ -92,19 +91,12 @@ It has 22 colorways: the same 20, plus **Soft Light** (off-white, no neon) and *
 | **2 Button** | `2-Button Dynamic Island Zip` / `2-Button Dynamic Island Full Screen Zip` |
 | **3 Button** | `3-Button Dynamic Island Zip` / `3-Button Dynamic Island Full Screen Zip` |
 | **4 Button Classic** | `4-Button Classic Dynamic Island Zip` / `4-Button Classic Dynamic Island Full Screen Zip` |
-| **4 Button Tekken-Rival Fix** | `4-Button Tekken-Rival Fix Dynamic Island Zip` / `4-Button Tekken-Rival Fix Dynamic Island Full Screen Zip` |
 | **5 Button** | `5-Button Dynamic Island Zip` / `5-Button Dynamic Island Full Screen Zip` |
 | **6 Button** | `6-Button Dynamic Island Zip` / `6-Button Dynamic Island Full Screen Zip` |
 | **Twin Stick** | `Twin Stick Dynamic Island Zip` / `Twin Stick Dynamic Island Full Screen Zip` |
 
 Each name comes as `... - Part 1.zip` and `... - Part 2.zip` (10 colorways each), plus `... - Part 3.zip` (Soft Light and Blackout).
 
-## Classic or Tekken-Rival Fix?
-
-Both are 4-button layouts. They look the same and can be installed side by side.
-
-- **Classic**: the bottom-left button is Button 2 only. Use this for most 4-button games.
-- **Tekken-Rival Fix**: the bottom-left button sends Button 2 **and** Buttons 5 and 6 together. Some fighting games (Rival Schools wants Button 5, Tekken 3 wants Button 6) need those extra buttons, and this gives them to you without a 6-button layout.
 
 ## Tate (vertical game) skins
 
@@ -131,7 +123,7 @@ It has the same 22 colorways: 110 skins in 15 zips. Each name comes as `... - Pa
 
 The stick is on the right, and the buttons are on the left, with Coin, Start and FF above them. The button mapping is the same as the regular skins. In landscape the controls stay clear of the Dynamic Island on both sides. Names include "Left-Handed", so they install next to the other sets.
 
-It covers two of the sets above: the **Dynamic Island set** (16 layouts, Standard and Full Screen) and the **Tate set**. It has the same 22 colorways: 462 skins in 63 zips.
+It covers two of the sets above: the **Dynamic Island set** (14 layouts, Standard and Full Screen) and the **Tate set**. It has the same 22 colorways: 418 skins in 57 zips.
 
 Looking for a left-handed D-pad? See the [Left-Handed D-Pad set](#left-handed-d-pad-set-iphone), which is a separate release.
 
@@ -141,7 +133,6 @@ Looking for a left-handed D-pad? See the [Left-Handed D-Pad set](#left-handed-d-
 | **2 Button** | `2-Button Dynamic Island Left-Handed Zip` / `... Full Screen Left-Handed Zip` | `Tate 2 Button Left-Handed Zip` |
 | **3 Button** | `3-Button Dynamic Island Left-Handed Zip` / `... Full Screen Left-Handed Zip` | `Tate 3 Button Left-Handed Zip` |
 | **4 Button Classic** | `4-Button Classic Dynamic Island Left-Handed Zip` / `... Full Screen Left-Handed Zip` | `Tate 4 Button Left-Handed Zip` |
-| **4 Button Tekken-Rival Fix** | `4-Button Tekken-Rival Fix Dynamic Island Left-Handed Zip` / `... Full Screen Left-Handed Zip` | not available |
 | **5 Button** | `5-Button Dynamic Island Left-Handed Zip` / `... Full Screen Left-Handed Zip` | not available |
 | **6 Button** | `6-Button Dynamic Island Left-Handed Zip` / `... Full Screen Left-Handed Zip` | not available |
 | **Twin Stick** | `Twin Stick Dynamic Island Left-Handed Zip` / `... Full Screen Left-Handed Zip` | `Tate Twin Stick Left-Handed Zip` |
@@ -170,11 +161,9 @@ Handheld and Tabletop have a 4:3 screen on top with the controls in a panel belo
 - **Handheld**: smaller buttons, closer together and in the bottom-right corner, for holding the iPad.
 - **Tabletop**: bigger buttons with wider spacing, for when the iPad is lying flat.
 - **Twin Stick**: one set for Handheld and Tabletop, and a separate Full Screen version.
-- **Button order**: On iPad, the 1, 2 and 3 button layouts run Button 1, 2, 3 from left to right. On iPhone, the 2 button layout is Button 2, 1 and the 3 button layout is Button 2, 1, 3. The 4, 5 and 6 button layouts follow the Button order diagram below on both.
-- **6 Button Street Fighter**: top row punches, bottom row kicks. Use it for Street Fighter style fighters.
-- There is no Tekken-Rival Fix on iPad. The plain 4 Button works for Tekken and Rival Schools there.
+- **Button order**: The Buttons Run 123 456 top left to bottom right on all sets.
 
-It has the same 22 colorways: 506 skins in 69 zips.
+It has the same 22 colorways: 440 skins in 60 zips.
 
 | Layout | Download these |
 |---|---|
@@ -184,7 +173,6 @@ It has the same 22 colorways: 506 skins in 69 zips.
 | **4 Button** | `iPad 4 Button Handheld Zip` / `iPad 4 Button Tabletop Zip` / `iPad 4 Button Full Screen Zip` |
 | **5 Button** | `iPad 5 Button Handheld Zip` / `iPad 5 Button Tabletop Zip` / `iPad 5 Button Full Screen Zip` |
 | **6 Button** | `iPad 6 Button Handheld Zip` / `iPad 6 Button Tabletop Zip` / `iPad 6 Button Full Screen Zip` |
-| **6 Button Street Fighter** | `iPad 6 Button Street Fighter Handheld Zip` / `iPad 6 Button Street Fighter Tabletop Zip` / `iPad 6 Button Street Fighter Full Screen Zip` |
 | **Twin Stick** | `iPad Twin Stick Zip` / `iPad Twin Stick Full Screen Zip` |
 
 Each name comes as `... - Part 1.zip` and `... - Part 2.zip` (10 colorways each), plus `... - Part 3.zip` (Soft Light and Blackout).
@@ -216,7 +204,7 @@ For Original and Dynamic Island: layouts 1, 2, 3, 4 (Classic and Tekken-Rival Fi
 
 Portrait looks the same in Normal and Full Screen.
 
-That makes 616 skins in 84 zips (308 in 42 zips for Original, 308 in 42 zips for Dynamic Island).
+That makes 528 skins in 72 zips (264 in 36 zips for Original, 264 in 36 zips for Dynamic Island).
 
 | Layout | Original | Dynamic Island |
 |---|---|---|
@@ -224,7 +212,6 @@ That makes 616 skins in 84 zips (308 in 42 zips for Original, 308 in 42 zips for
 | **2 Button** | `2-Button D-Pad Zip` / `2-Button D-Pad Full Screen Zip` | `2-Button D-Pad Dynamic Island Zip` / `... Full Screen Zip` |
 | **3 Button** | `3-Button D-Pad Zip` / `3-Button D-Pad Full Screen Zip` | `3-Button D-Pad Dynamic Island Zip` / `... Full Screen Zip` |
 | **4 Button Classic** | `4-Button Classic D-Pad Zip` / `... Full Screen Zip` | `4-Button Classic D-Pad Dynamic Island Zip` / `... Full Screen Zip` |
-| **4 Button Tekken-Rival Fix** | `4-Button Tekken-Rival Fix D-Pad Zip` / `... Full Screen Zip` | `4-Button Tekken-Rival Fix D-Pad Dynamic Island Zip` / `... Full Screen Zip` |
 | **5 Button** | `5-Button D-Pad Zip` / `5-Button D-Pad Full Screen Zip` | `5-Button D-Pad Dynamic Island Zip` / `... Full Screen Zip` |
 | **6 Button** | `6-Button D-Pad Zip` / `6-Button D-Pad Full Screen Zip` | `6-Button D-Pad Dynamic Island Zip` / `... Full Screen Zip` |
 
@@ -261,7 +248,6 @@ It covers the **Dynamic Island** style (Standard and Full Screen) and the **Tate
 | **2 Button** | `2-Button D-Pad Dynamic Island Left-Handed Zip` / `... Full Screen Left-Handed Zip` | `Tate 2-Button D-Pad Left-Handed Zip` |
 | **3 Button** | `3-Button D-Pad Dynamic Island Left-Handed Zip` / `... Full Screen Left-Handed Zip` | `Tate 3-Button D-Pad Left-Handed Zip` |
 | **4 Button Classic** | `4-Button Classic D-Pad Dynamic Island Left-Handed Zip` / `... Full Screen Left-Handed Zip` | `Tate 4-Button D-Pad Left-Handed Zip` |
-| **4 Button Tekken-Rival Fix** | `4-Button Tekken-Rival Fix D-Pad Dynamic Island Left-Handed Zip` / `... Full Screen Left-Handed Zip` | not available |
 | **5 Button** | `5-Button D-Pad Dynamic Island Left-Handed Zip` / `... Full Screen Left-Handed Zip` | not available |
 | **6 Button** | `6-Button D-Pad Dynamic Island Left-Handed Zip` / `... Full Screen Left-Handed Zip` | not available |
 
@@ -275,16 +261,7 @@ Special-purpose skins and extra styles that don't belong to the main sets. They'
 
 Some fighting games use button combinations that are hard to press on a touch screen. Combo skins add labelled combo buttons next to the normal ones. They have their own three colorways, so they're easy to tell apart from the other sets.
 
-**4-Button Tekken-Rival Combo** (Dynamic Island, Standard and Full Screen): the 4 Button Tekken-Rival Fix layout, plus two combo buttons.
-
-- **1+2**: presses the top-right and bottom-left buttons together. Tekken: grab. Rival Schools: special attack.
-- **3+4**: presses the two bottom buttons together. Tekken and Rival Schools: dodge.
-
-Colorways: Combo Gold, Combo Neon, Combo Ember. 6 skins in 2 zips. Download from the [Extras release](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/extras): `4-Button Tekken-Rival Combo Dynamic Island`, `4-Button Tekken-Rival Combo Dynamic Island Full Screen`
-
-| Skin | Combo buttons | What they do | Tested |
-|---|---|---|---|
-| 4-Button Tekken-Rival Combo | 1+2, 3+4 | Tekken 3: grab, dodge. Rival Schools: special attack, dodge | Rival Schools, Tekken 3 |
+Colorways: Combo Gold, Combo Neon, Combo Ember. 6 skins in 2 zips. Download from the [Extras release](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/extras):
 
 Combos differ from game to game, so skins made for a specific game are named after it and added over time.
 
@@ -349,8 +326,6 @@ A game that needs Buttons 1 to N needs every number from 1 to N present on the s
 
 Button roles vary by game. For example, in Golden Axe the middle button on a phone 3 button skin is attack and the left is jump, while in Turf Masters the left button aims left, the middle shoots, and the right aims right. If a button does something unexpected, check the game's controller menu in Manic EMU, since the same button number can mean different things in different games.
 
-**Prefer a sequential button layout?**
-The button order follows Manic EMU's arcade mapping (see the Button order diagram above). If you'd rather have a plain Button 1, 2, 3 from left to right in every layout, open an [issue](../../issues) and let me know. If enough people ask, I'll consider an alternative set.
 
 ## The 22 colorways
 
@@ -359,6 +334,86 @@ Plain (No Glow), Noir Mono, Synthwave Sunset, Rose Gold, Royal Blue, Vaporwave, 
 ## Known issues
 
 - 6 Button: Shadow Force 6 button is not confirmed, I can’t find a US version to test. 3 button works with world and Japan version
+
+# Legacy
+
+## Which zip do I need?
+
+Every layout comes in two looks and three parts:
+
+- **Normal** ("Pro"): the controls sit around the game screen.
+- **Full Screen**: the game fills the screen, and in landscape the buttons are drawn see-through on top of it.
+- **Part 1 / Part 2 / Part 3**: the 22 colorways are split across three zips of up to 10, so grab all parts for the full set.
+
+| Layout | What it has | Download these |
+|---|---|---|
+| **1 Button** | Button 1 | `1 Button Zip` / `1 Button Full Screen Zip` |
+| **2 Button** | Buttons 1-2 | `2 Button Zip` / `2 Button Full Screen Zip` |
+| **3 Button** | Buttons 1-3 | `3 Button Zip` / `3 Button Full Screen Zip` |
+| **4 Button Classic** | Buttons 1-4 | `4 Button Classic Zip` / `4 Button Classic Full Screen Zip` |
+| **4 Button Tekken-Rival Fix** | Buttons 1-4, plus extra inputs on the bottom-left button (see below) | `4 Button Tekken-Rival Fix Zip` / `4 Button Tekken-Rival Fix Full Screen Zip` |
+| **5 Button** | Buttons 1-5 | `5 Button Zip` / `5 Button Full Screen Zip` |
+| **6 Button** | Buttons 1-6 | `6 Button Zip` / `6 Button Full Screen Zip` |
+| **Twin Stick** | Two thumbsticks, no center buttons | `Twin Stick Zip` / `Twin Stick Full Screen Zip` |
+
+Dynamic Island Has Dynamic Island In its zip name, Left-Handed has Left-Handed in name
+
+Each name above comes as `... - Part 1.zip` and `... - Part 2.zip` (10 colorways each), plus `... - Part 3.zip` (Soft Light and Blackout).
+That Makes 352 skins in 48 zips
+## Classic or Tekken-Rival Fix?
+
+Both are 4-button layouts. They look the same and can be installed side by side.
+
+- **Classic**: the bottom-left button is Button 2 only. Use this for most 4-button games.
+- **Tekken-Rival Fix**: the bottom-left button sends Button 2 **and** Buttons 5 and 6 together. Some fighting games (Rival Schools wants Button 5, Tekken 3 wants Button 6) need those extra buttons, and this gives them to you without a 6-button layout.
+
+## iPad
+- **6 Button Street Fighter**: top row punches, bottom row kicks. Use it for Street Fighter style fighters.
+- There is no Tekken-Rival Fix on iPad. The plain 4 Button works for Tekken and Rival Schools there.
+| **6 Button Street Fighter** | `iPad 6 Button Street Fighter Handheld Zip` / `iPad 6 Button Street Fighter Tabletop Zip` / `iPad 6 Button Street Fighter Full Screen Zip` |
+
+## Left-Handed D-Pad
+| **4 Button Tekken-Rival Fix** | `4-Button Tekken-Rival Fix D-Pad Zip` / `... Full Screen Zip` | `4-Button Tekken-Rival Fix D-Pad Dynamic Island Zip` / `... Full Screen Zip` |
+
+## Button mapping
+
+Manic EMU's arcade core numbers the buttons like this:
+
+| Skin input | Arcade button |
+|---|---|
+| `b` | Button 1 |
+| `a` | Button 2 |
+| `y` | Button 3 |
+| `x` | Button 4 |
+| `l1` | Button 5 |
+| `r1` | Button 6 |
+
+This table describes the iPhone skins. The iPad skins send their inputs in a different order, but the buttons play the same as on the phone. See the diagram below for the layout.
+
+A game that needs Buttons 1 to N needs every number from 1 to N present on the skin, which is why 1-Button uses `b` and 3-Button uses `a`, `b` and `y`.
+
+**Twin Stick** has no center buttons. In Smash TV and Total Carnage, the right stick fires in 4 directions (the `x` / `y` / `a` / `b` inputs).
+
+![Button order](button-order.png)
+
+Button roles vary by game. For example, in Golden Axe the middle button on a phone 3 button skin is attack and the left is jump, while in Turf Masters the left button aims left, the middle shoots, and the right aims right. If a button does something unexpected, check the game's controller menu in Manic EMU, since the same button number can mean different things in different games.
+
+### Combo skins
+
+Some fighting games use button combinations that are hard to press on a touch screen. Combo skins add labelled combo buttons next to the normal ones. They have their own three colorways, so they're easy to tell apart from the other sets.
+
+**4-Button Tekken-Rival Combo** (Dynamic Island, Standard and Full Screen): the 4 Button Tekken-Rival Fix layout, plus two combo buttons.
+
+- **1+2**: presses the top-right and bottom-left buttons together. Tekken: grab. Rival Schools: special attack.
+- **3+4**: presses the two bottom buttons together. Tekken and Rival Schools: dodge.
+
+Colorways: Combo Gold, Combo Neon, Combo Ember. 6 skins in 2 zips. Download from the [Extras release](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/extras): `4-Button Tekken-Rival Combo Dynamic Island`, `4-Button Tekken-Rival Combo Dynamic Island Full Screen`
+
+| Skin | Combo buttons | What they do | Tested |
+|---|---|---|---|
+| 4-Button Tekken-Rival Combo | 1+2, 3+4 | Tekken 3: grab, dodge. Rival Schools: special attack, dodge | Rival Schools, Tekken 3 |
+
+Combos differ from game to game, so skins made for a specific game are named after it and added over time.
 
 ## For skin makers
 
