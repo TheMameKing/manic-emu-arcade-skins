@@ -35,12 +35,14 @@ All art is original. No real arcade characters, logos or game artwork appear on 
 ![Every layout and screen size](arcade-skins-layouts.png)
 
 ## Quick start
- Installing from GitHub
+   Installing from GitHub
 1. Download the zips you want.
-2. Share the zip to Manic EMU from the Files app. When the ZIP File Handling screen appears, select the zip and tap Confirm. Or, inside Manic EMU, tap Assign Skin → New Skin → Open File, pick the zip and confirm.
+2. In the Files app, share the zip to Manic EMU. When the ZIP File Handling screen appears, select the zip and tap Confirm.
 3. Pick the skin for your arcade games.
 
-**If a zip won't import** (some older iOS versions): tap it in Files to unzip it, then select one or more `.manicskin` files and share them to Manic EMU, or pick them with Open File.
+**Prefer to install single skins, or the share doesn't work?** Tap the zip in Files to unzip it, then do either of these:
+- select one or more `.manicskin` files and share them to Manic EMU, or
+- in Manic EMU, tap Assign Skin → New Skin → Open File and pick the `.manicskin` files. Open File only accepts `.manicskin` files, not zips.
 
 
 ## Starter Packs (Nightfall Purple)
