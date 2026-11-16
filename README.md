@@ -257,7 +257,7 @@ For Pac-Man style games with no action buttons, see Tate D-Pad Only (left- and r
 
 The D-pad skins mirrored for left-handed play: the D-pad is on the right and the buttons are on the left, with the same button mapping and 22 colorways as the right-handed D-pad set. Start then FF, and Load then Save, run left to right across the top, as in the other sets. Every skin includes the invisible overshoot arms.
 
-It covers the **Dynamic Island** style (Standard and Full Screen) and the **Tate D-Pad** layouts. There is no Original (notch) version of the left-handed D-pad yet, no Twin Stick, and no iPad version. That makes **396 skins in 54 zips** (18 layouts). Download them from the [v1.6 release](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.6).
+It covers the **Dynamic Island** style (Standard and Full Screen) and the **Tate D-Pad** layouts. There is no Original (notch) version of the left-handed D-pad yet, no Twin Stick, and no iPad version. That makes **352 skins in 48 zips** (18 layouts). Download them from the [v1.6 release](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.6).
 
 | Layout | Dynamic Island | Tate |
 |---|---|---|
