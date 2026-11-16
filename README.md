@@ -4,7 +4,7 @@ Quick heads-up on the page layout and the 2.0.2 change:
 
 - Using Manic EMU 2.0.2 or newer? Use the regular releases (v1.0 to v1.6), the ones without “Legacy” in the name.
 - Using Manic EMU 2.0.1 or earlier (for example a sideloaded copy)? Use the Legacy releases. They’re the old sets, unchanged.
-- What changed: only the button numbering. Manic 2.0.2 changed the button inputs, so I patched every set to match. In the updated sets the buttons now read 1, 2, 3 on the top row and 4, 5, 6 below, left to right (right to left on the left-handed sets). The Legacy sets use the old numbering, where Button 1 is at the bottom right. Using the wrong set for your version gives scrambled inputs.
+- What changed: only the button numbering. Manic 2.0.2 changed the button inputs, so I patched every set to match. In the updated sets the buttons now read 1, 2, 3 on the top row and 4, 5, 6 below, left to right (right to left on the left-handed sets). The Legacy sets use the old numbering, which is laid out differently and can vary by game. Using the wrong set for your version gives scrambled inputs
 - Tekken-Rival Fix is retired. With the new numbering, the regular 4 Button works for Tekken and Rival Schools in my testing. The old Tekken-Rival Fix skins are still in the Legacy releases for 2.0.1.
 - Twin Stick skins work on both versions. In my testing they play the same, and the Legacy copies are identical.
 - iPad skins: All iPad sets work on both Manic EMU versions, with one exception: the iPad Street Fighter set uses a special button order and is only compatible with the Legacy mapping. iPad users should use the regular releases for all other layouts.
@@ -35,15 +35,12 @@ All art is original. No real arcade characters, logos or game artwork appear on 
 ![Every layout and screen size](arcade-skins-layouts.png)
 
 ## Quick start
+ Installing from GitHub
+1. Download the zips you want.
+2. Share the zip to Manic EMU from the Files app. When the ZIP File Handling screen appears, select the zip and tap Confirm. Or, inside Manic EMU, tap Assign Skin → New Skin → Open File, pick the zip and confirm.
+3. Pick the skin for your arcade games.
 
-Installing from GitHub:
-
-1.  Download the zips you want and open them in the Files app.
-2.  Part 1, 2 and 3 zips: tap the zip to unzip it, then open one or more of the .manicskin files and share them to Manic EMU (or use Assign Skin,      New Skin, Open File in Manic and pick them).
-3.  Starter Packs: these can be imported straight from the zip. Share the zip to Manic EMU, and when the ZIP File Handling screen appears, select      the zip and tap Confirm.
-4.  Then pick the skin for your arcade games.
-
-Easier: the same sets are on DeltaStyles, where you can install a pack in a few taps.
+**If a zip won't import** (some older iOS versions): tap it in Files to unzip it, then select one or more `.manicskin` files and share them to Manic EMU, or pick them with Open File.
 
 
 ## Starter Packs (Nightfall Purple)
@@ -379,9 +376,8 @@ Every set uses the **same layouts and zip names** as the sections above. Take th
 
 ## Old button numbering
 
-On the Legacy sets Button 1 is at the bottom right. A 6 Button skin reads 4 3 5 on the top row and 2 1 6 below. The skin inputs are the same as in [Button mapping](#button-mapping); only where each input sits on the skin is different.
-
-![Button order](Legacy-button-order.png)
+The Legacy skins use Manic EMU’s old button numbering, which is different from the current order and can differ from game to game. They were built for 2.0.1 and earlier and play correctly there. On 2.0.2 or newer the buttons come out in the wrong places, so use the current sets instead. For example, on 2.0.1 the 3 Button layout plays as jump, attack, magic in Golden Axe, while on 2.0.2 the updated 3 Button skin plays attack, jump, magic from left to right.
+![layout of the old skins on 2.0.2](Legacy-button-order.png)
 
 ## Tekken-Rival Fix (Legacy only)
 
