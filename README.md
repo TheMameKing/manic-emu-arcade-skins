@@ -8,9 +8,9 @@ Quick heads-up on the page layout and the 2.0.2 change:
 - Tekken-Rival Fix is retired. With the new numbering, the regular 4 Button works for Tekken and Rival Schools in my testing. The old Tekken-Rival Fix skins are still in the Legacy releases for 2.0.1.
 - Twin Stick skins work on both versions. In my testing they play the same, and the Legacy copies are identical.
 - iPad skins: All iPad sets work on both Manic EMU versions, with one exception: the iPad Street Fighter set uses a special button order and is only compatible with the Legacy mapping. iPad users should use the regular releases for all other layouts.
-- The Links below will take you to the page you need for both 2.0.2 [new sets] and to 2.0.1 [Legacy sets]
+- The links below will take you to the page you need for both 2.0.2 [new sets] and to 2.0.1 [Legacy sets]
 
-**[⬇ Download the skins (latest release)](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/latest)**
+ **[⬇ Download the skins from the table below ⬇]**
 
 | Sets | Manic EMU 2.0.2 or newer| Manic EMU 2.0.1 and earlier |
 |---|---|---|
@@ -22,7 +22,7 @@ Quick heads-up on the page layout and the 2.0.2 change:
 | **D-Pad set** | [v1.5](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.5) | [Legacy-v1.5](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/Legacy-v1.5) |
 | **Left-Handed D-Pad set** | [v1.6](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.6) | [Legacy-v1.6](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/Legacy-v1.6) |
 | **Extras** | [Extras](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/extras) |[Legacy-Extras](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/Legacy-Extras) |
-| **Starter Packs** | [Starter-pack](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/Starter-Packs) | [Legacy-Starter-pack](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/Legacy-Starter-Packs) |
+| **Starter Packs** | [Starter-Pack](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/Starter-Packs) | [Legacy-Starter-Pack](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/Legacy-Starter-Packs) |
 
 Original-art controller skins for **MAME / arcade** games in Manic EMU. 14 layouts, 22 colorways each: **308 skins in 42 zip files**. There is also a separate **Dynamic Island set** for iPhone 14 Pro and later, a **Tate set** for vertical games, a **Left-Handed set** that mirrors the Dynamic Island and Tate layouts, and an **iPad set** (with an **iPad Tate set** for vertical games), a **D-Pad set** (including a Tate D-Pad set and a Left-Handed D-Pad set), and **Starter Packs** with one zip per set (see below).
 
@@ -36,10 +36,14 @@ All art is original. No real arcade characters, logos or game artwork appear on 
 
 ## Quick start
 
-1. Open the **[Releases](../../releases)** page and download the zips you want.
-2. Unzip them (on iPhone, tap the zip in the Files app). Each zip holds up to 10 `.manicskin` files.
-3. Import the `.manicskin` files into Manic EMU with its assign skin button, then pick the skin for your arcade games. You can also share the zip from iPhone/iPad's files app to Manic Emu.
-4. If you Share a zip from the files app to Manic Emu, when the ZIP File Handling screen pops up select the .zip and hit Confirm and it will install
+Installing from GitHub:
+
+1.  Download the zips you want and open them in the Files app.
+2.  Part 1, 2 and 3 zips: tap the zip to unzip it, then open one or more of the .manicskin files and share them to Manic EMU (or use Assign Skin,      New Skin, Open File in Manic and pick them).
+3.  Starter Packs: these can be imported straight from the zip. Share the zip to Manic EMU, and when the ZIP File Handling screen appears, select      the zip and tap Confirm.
+4.  Then pick the skin for your arcade games.
+
+Easier: the same sets are on DeltaStyles, where you can install a pack in a few taps.
 
 
 ## Starter Packs (Nightfall Purple)
@@ -194,9 +198,9 @@ A Tate (vertical game) version for iPad. Like the iPhone Tate skins, it has a ta
 | **3 Button** | `iPad Tate 3 Button Zip` |
 | **4 Button** | `iPad Tate 4 Button Zip` |
 
-Each name comes as `... - Part 1.zip` and `... - Part 2.zip` (10 colorways each), plus `... - Part 3.zip` (Soft Light and Blackout). Download them from the [v1.4 release](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.4).
+Each name comes as `... - Part 1.zip` and `... - Part 2.zip` (10 colorways each), plus `... - Part 3.zip` (Soft Light and Blackout). Download them from the [v1.7 release](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.7).
 
-Tested on a iPad mini 5th gen with Manic Emu 2.0.2
+Tested on an iPad mini 5th gen with Manic Emu 2.0.2
 
 ## D-Pad set (alternative to the joystick)
 
