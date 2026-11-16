@@ -257,7 +257,7 @@ For Pac-Man style games with no action buttons, see Tate D-Pad Only (left- and r
 
 The D-pad skins mirrored for left-handed play: the D-pad is on the right and the buttons are on the left, with the same button mapping and 22 colorways as the right-handed D-pad set. Start then FF, and Load then Save, run left to right across the top, as in the other sets. Every skin includes the invisible overshoot arms.
 
-It covers the **Dynamic Island** style (Standard and Full Screen) and the **Tate D-Pad** layouts. There is no Original (notch) version of the left-handed D-pad yet, no Twin Stick, and no iPad version. That makes **352 skins in 48 zips** (18 layouts). Download them from the [v1.6 release](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.6).
+It covers the **Dynamic Island** style (Standard and Full Screen) and the **Tate D-Pad** layouts. There is no Original (notch) version of the left-handed D-pad yet, no Twin Stick, and no iPad version. That makes **352 skins in 48 zips** (16 layouts). Download them from the [v1.6 release](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.6).
 
 | Layout | Dynamic Island | Tate |
 |---|---|---|
@@ -333,7 +333,7 @@ Manic EMU's arcade core numbers the buttons like this:
 | `l1` | Button 5 |
 | `r1` | Button 6 |
 
-This table describes the iPhone skins. The iPad skins send their inputs in a different order, but the buttons play the same as on the phone. See the diagram below for the layout.
+This table applies to every current set, iPhone and iPad.
 
 In the current sets the buttons read 1, 2, 3 on the top row and 4, 5, 6 below, left to right (right to left on the left-handed sets). The Legacy sets number them differently; see [Old button numbering](#old-button-numbering).
 
@@ -343,8 +343,7 @@ A game that needs Buttons 1 to N needs every number from 1 to N present on the s
 
 ![Button order](button-order-v2.png)
 
-Button roles vary by game. For example, in Golden Axe the middle button on a phone 3 button skin is attack and the left is jump, while in Turf Masters the left button aims left, the middle shoots, and the right aims right. If a button does something unexpected, check the game's controller menu in Manic EMU, since the same button number can mean different things in different games.
-
+Button roles vary by game. For example, in Golden Axe Button 1 is attack, Button 2 is jump and Button 3 is magic. If a button does something unexpected, check the game’s controller menu in Manic EMU, since the same button number can mean different things in different games.
 
 ## The 22 colorways
 
