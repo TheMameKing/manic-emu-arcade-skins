@@ -36,28 +36,56 @@ All art is original. No real arcade characters, logos or game artwork appear on 
 ![Every layout and screen size](images/layouts/arcade-skins-layouts.png)
 
 ## Installing from GitHub
-  
-1. Download the zips you want.
-2. In the Files app, long press the zip, tap Share, then choose Manic EMU.
-3. The ZIP File Handling screen appears. Tap the zip so the red check mark is on, then tap Confirm. The check mark is what unzips the skins. If you skip it, Manic imports the zip as a game instead of as skins.
-4. In Manic EMU, assign the skin to your arcade games.
-<details>
-<summary>Zip File Handling</summary>
 
-<img src="images/install/Press-and-Hold.PNG" width="300" alt="Files app Zip selecting"><img src="images/install/Share.jpg" width="300" alt="Click Share">
-<img src="images/install/Select-Manic.jpg" width="300" alt="Select Manic"><img src="images/install/Zip-File-Handling.png" width="300" alt="Zip File Handling"><
+1. Download the zips you want.
+2. In the Files app, **press and hold** the zip, tap **Share**, then choose **Manic EMU**.
+3. The **ZIP File Handling** screen appears. **Tap the zip so the red check mark is on**, then tap **Confirm**. The check mark is what unzips the skins. If you skip it, Manic imports the zip as a game instead of as skins.
+4. In Manic EMU, assign the skin to your arcade games.
+
+<details>
+<summary><b>Show me with pictures</b></summary>
+
+<br>
+
+**1. Press and hold the zip you want to install.**
+
+<img src="images/install/press-and-hold.png" width="260" alt="The Files app with a zip file, ready to press and hold">
+
+**2. Tap Share.**
+
+<img src="images/install/share.png" width="260" alt="The press-and-hold menu with the Share button highlighted">
+
+**3. Select Manic EMU.**
+
+<img src="images/install/select-manic.png" width="260" alt="The share sheet with the Manic EMU icon highlighted">
+
+**4. Tap the zip so the red check mark is on, then tap Confirm.**
+
+<img src="images/install/zip-handling.png" width="260" alt="The ZIP File Handling screen with the zip checked and the Confirm button below it">
 
 </details>
-Imported a zip as a game by mistake? Manic saves the zip with your games instead of unzipping it, and no skins are installed. Just import it again with the red check mark on. To tidy up the leftover zip, delete it from the games list or open the Files app and go to On My iPhone (or On My iPad) → Manic EMU → Datas. Search for the name of the zip you imported, and delete that one only. The other zips in this folder are your games.
-<details><summary>Imported a zip as a game by mistake?</summary> <img src="images/install/Manic-EMU-Files.jpg" width="300" alt="Datas location in files"><img src="images/install/Wrong-import.PNG" width="300" alt="Skin among game zips"></details>
 
-Prefer to install single skins, or the share doesn’t work? Tap the zip in Files to unzip it, then use any of these:
+**Imported a zip as a game by mistake?** Manic saves the zip with your games instead of unzipping it if you don't select it in the ZIP File Handling screen, and no skins are installed. Just import it again with the red check mark on. To tidy up the leftover zip, search in Manic EMU's main menu where you select games and it will be in the list. It can also be found by opening the **Files** app and go to **On My iPhone (or On My iPad) → Manic EMU → Datas**. Search for the name of the zip you imported, and delete that one only. The other zips in this folder are your games. It can also be found in the games list where you select games in Manic Emu.
 
-- One skin: tap the .manicskin file. It opens in Manic EMU and imports right away, and a pop-up confirms “skin imported” and lists the skin.
-- Several skins: long press a .manicskin file, choose Select, pick the ones you want, then tap Share and choose Manic EMU.
-- From inside Manic EMU: tap Assign Skin → New Skin → Open File and pick the .manicskin files. Open File only accepts .manicskin files, not zips.
+<details>
+<summary><b>Show me where the leftover zip is</b></summary>
 
-Easier option: the same sets are on [DeltaStyles](https://deltastyles.com/user/3027-themameking), where you can install a pack in a few taps.
+<br>
+
+<img src="images/installed-wrong/with-games.png" width="260" alt="The Skin zip in the games list that shouldn't be there, outlined in red">
+<img src="images/installed-wrong/datas.jpg" width="260" alt="The Datas folder in Files with a skin zip in the list, outlined in red">
+<img src="images/installed-wrong/with-files.png" width="260" alt="The Skin zip in Datas folder that shouldn't be there, outlined in red">
+
+
+</details>
+
+**Prefer to install single skins, or the share doesn't work?** Tap the zip in Files to unzip it, then use any of these:
+
+* **One skin:** tap the `.manicskin` file. It opens in Manic EMU and imports right away, and a pop-up confirms "skin imported" and lists the skin.
+* **Several skins:** press and hold a `.manicskin` file, choose **Select**, pick the ones you want, then tap **Share** and choose **Manic EMU**.
+* **From inside Manic EMU:** tap **Assign Skin → New Skin → Open File** and pick the `.manicskin` files. Open File only accepts `.manicskin` files, not zips.
+
+**Easier option:** the same sets are on [DeltaStyles](YOUR-DELTASTYLES-PAGE-LINK), where you can install a pack in a few taps.
 
 ## Starter Packs (Nightfall Purple)
 
