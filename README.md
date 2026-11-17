@@ -2,13 +2,13 @@
 
 Quick heads-up on the page layout and the 2.0.2 change:
 
-- Using Manic EMU 2.0.2 or newer? Use the regular releases (v1.0 to v1.6), the ones without “Legacy” in the name.
+- Using Manic EMU 2.0.2 or newer? Use the regular releases (v1.0 to v1.7), the ones without “Legacy” in the name.
 - Using Manic EMU 2.0.1 or earlier (for example a sideloaded copy)? Use the Legacy releases. They’re the old sets, unchanged.
 - What changed: only the button numbering. Manic 2.0.2 changed the button inputs, so I patched every set to match. In the updated sets the buttons now read 1, 2, 3 on the top row and 4, 5, 6 below, left to right (right to left on the left-handed sets). The Legacy sets use the old numbering, which is laid out differently and can vary by game. Using the wrong set for your version gives scrambled inputs
 - Tekken-Rival Fix is retired. With the new numbering, the regular 4 Button works for Tekken and Rival Schools in my testing. The old Tekken-Rival Fix skins are still in the Legacy releases for 2.0.1.
 - Twin Stick skins work on both versions. In my testing they play the same, and the Legacy copies are identical.
 - iPad skins: All iPad sets work on both Manic EMU versions, with one exception: the iPad Street Fighter set uses a special button order and is only compatible with the Legacy mapping. iPad users should use the regular releases for all other layouts.
-- The links below will take you to the page you need for both 2.0.2 [new sets] and to 2.0.1 [Legacy sets]
+- Use the table below to find the correct downloads for your version of Manic EMU
 
  **[⬇ Download the skins from the table below ⬇]**
 
@@ -65,7 +65,7 @@ All art is original. No real arcade characters, logos or game artwork appear on 
 
 </details>
 
-**Imported a zip as a game by mistake?** Manic saves the zip with your games instead of unzipping it if you don't select it in the ZIP File Handling screen, and no skins are installed. Just import it again with the red check mark on. To tidy up the leftover zip, search in Manic EMU's main menu where you select games and it will be in the list. It can also be found by opening the **Files** app and go to **On My iPhone (or On My iPad) → Manic EMU → Datas**. Search for the name of the zip you imported, and delete that one only. The other zips in this folder are your games. It can also be found in the games list where you select games in Manic Emu.
+**Imported a zip as a game by mistake?** Manic saves the zip with your games instead of unzipping it if you don't select it in the ZIP File Handling screen, and no skins are installed. Just import it again with the red check mark on. To tidy up the leftover zip, search in Manic EMU's main menu where you select games and it will be in the list. It can also be found by opening the **Files** app and go to **On My iPhone (or On My iPad) → Manic EMU → Datas**. Search for the name of the zip you imported, and delete that one only. The other zips in this folder are your games.
 
 <details>
 <summary><b>Show me where the leftover zip is</b></summary>
