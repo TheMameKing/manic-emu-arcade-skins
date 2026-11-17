@@ -35,15 +35,22 @@ All art is original. No real arcade characters, logos or game artwork appear on 
 ![Every layout and screen size](arcade-skins-layouts.png)
 
 ## Quick start
-   Installing from GitHub
+  Installing from GitHub
 1. Download the zips you want.
-2. In the Files app, share the zip to Manic EMU. When the ZIP File Handling screen appears, select the zip and tap Confirm.
-3. Pick the skin for your arcade games.
+2. In the Files app, long press the zip, tap Share, then choose Manic EMU.
+3. The ZIP File Handling screen appears. Tap the zip so the red check mark is on, then tap Confirm. The check mark is what unzips the skins. If you skip it, Manic imports the zip as a game instead of as skins.
+4. In Manic EMU, assign the skin to your arcade games.
 
-**Prefer to install single skins, or the share doesn't work?** Tap the zip in Files to unzip it, then do either of these:
-- select one or more `.manicskin` files and share them to Manic EMU, or
-- in Manic EMU, tap Assign Skin → New Skin → Open File and pick the `.manicskin` files. Open File only accepts `.manicskin` files, not zips.
+Imported a zip as a game by mistake? Delete that entry from your game list and try again with the check mark on. 
+- Don't see the skin in your game list? Manic saves the zip with your games instead of unzipping it. To remove it, open the Files app and go to On My iPhone → Manic EMU → Datas. The zip is in the list there, so delete it. Then import it again with the red check mark on.
 
+Prefer to install single skins, or the share doesn’t work? Tap the zip in Files to unzip it, then use any of these:
+
+- One skin: tap the .manicskin file. It opens in Manic EMU and imports right away, and a pop-up confirms “skin imported” and lists the skin.
+- Several skins: long press a .manicskin file, choose Select, pick the ones you want, then tap Share and choose Manic EMU.
+- From inside Manic EMU: tap Assign Skin → New Skin → Open File and pick the .manicskin files. Open File only accepts .manicskin files, not zips.
+
+Easier option: the same sets are on [DeltaStyles](https://deltastyles.com/user/3027-themameking), where you can install a pack in a few taps.
 
 ## Starter Packs (Nightfall Purple)
 
