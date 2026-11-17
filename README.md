@@ -59,7 +59,8 @@ Not sure where to start? Each Starter Pack is one zip with every layout of a set
 
 Packs: Original (14), Dynamic Island (14), Left-Handed (14), Tate (5), iPad (20), D-Pad Original (12), D-Pad Dynamic Island (12), Tate D-Pad (5), D-Pad Left-Handed (12), Tate Left-Handed (5), Tate D-Pad Left-Handed (5), iPad Tate (4)
 
-Download from the [Starter Packs release](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/Starter-Packs). To install follow the steps here [Installing from GitHub](#installing-from-github)
+Download from the [Starter Packs release](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/Starter-Packs). 
+To install: follow the steps in [Installing from GitHub](#installing-from-github). Starter Packs are zips, so share the zip to Manic EMU and tap the zip on the ZIP File Handling screen so the red check mark is on before you tap Confirm.
 
 Starter Packs for the Extras styles are available on DeltaStyles only. The full Extras zips are in the [Extras release](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/extras).
 
