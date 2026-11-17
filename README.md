@@ -23,7 +23,7 @@ Quick heads-up on the page layout and the 2.0.2 change:
 | **Left-Handed D-Pad set** | [v1.6](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.6) | [Legacy-v1.6](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/Legacy-v1.6) |
 | **Extras** | [Extras](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/extras) |[Legacy-Extras](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/Legacy-Extras) |
 | **Starter Packs** | [Starter-Pack](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/Starter-Packs) | [Legacy-Starter-Pack](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/Legacy-Starter-Packs) |
-| **iPad Tate** | [v1.7](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.6) | N/A |
+| **iPad Tate** | [v1.7](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.7) | N/A |
 
 Original-art controller skins for **MAME / arcade** games in Manic EMU. 14 layouts, 22 colorways each: **308 skins in 42 zip files**. There is also a separate **Dynamic Island set** for iPhone 14 Pro and later, a **Tate set** for vertical games, a **Left-Handed set** that mirrors the Dynamic Island and Tate layouts, and an **iPad set** (with an **iPad Tate set** for vertical games), a **D-Pad set** (including a Tate D-Pad set and a Left-Handed D-Pad set), and **Starter Packs** with one zip per set (see below).
 
