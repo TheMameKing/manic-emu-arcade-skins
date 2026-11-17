@@ -43,7 +43,7 @@ All art is original. No real arcade characters, logos or game artwork appear on 
 4. In Manic EMU, assign the skin to your arcade games.
 
 Imported a zip as a game by mistake? Delete that entry from your game list and try again with the check mark on. 
-- Don't see the skin in your game list? Manic saves the zip with your games instead of unzipping it. To remove it, open the Files app and go to On My iPhone → Manic EMU → Datas. The zip is in the list there, so delete it. Then import it again with the red check mark on.
+- Don't see the skin in your game list? Manic saves the zip with your games instead of unzipping it. To remove it, open the Files app and go to On My iPhone → Manic EMU → Datas. Search for the name of the zip you imported, and delete that one only. The other zips in this folder are your games. Then import it again with the red check mark on.
 
 Prefer to install single skins, or the share doesn’t work? Tap the zip in Files to unzip it, then use any of these:
 
