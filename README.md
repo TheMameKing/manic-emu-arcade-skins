@@ -29,7 +29,7 @@ Original-art controller skins for **MAME / arcade** games in Manic EMU. 14 layou
 
 All art is original. No real arcade characters, logos or game artwork appear on any skin.
 
-![First 20 colorways](arcade-skins-colorways.png)
+![First 20 colorways](images/colorways/arcade-skins-colorways.png)
 
 <img width="1200" height="427" alt="arcade-skins-soft-dark" src="https://github.com/user-attachments/assets/8996a6f2-7772-4819-917d-e448126bfe1b" />
 
