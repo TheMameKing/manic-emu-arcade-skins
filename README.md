@@ -44,7 +44,8 @@ All art is original. No real arcade characters, logos or game artwork appear on 
 <details>
 <summary>Zip File Handling</summary>
 
-<img src="images/install/Zip-File-Handling.PNG" width="300" alt="ZIP File Handling screen with the zip checked">
+<img src="images/install/Press-and-Hold.PNG" width="300" alt="Files app Zip selecting"><img src="images/install/Share.jpg" width="300" alt="Click Share">
+<img src="images/install/Select-Manic.jpg" width="300" alt="Select Manic"><img src="images/install/Zip-File-Handling.png" width="300" alt="Zip File Handling"><
 
 </details>
 Imported a zip as a game by mistake? Manic saves the zip with your games instead of unzipping it, and no skins are installed. Just import it again with the red check mark on. To tidy up the leftover zip, delete it from the games list or open the Files app and go to On My iPhone (or On My iPad) → Manic EMU → Datas. Search for the name of the zip you imported, and delete that one only. The other zips in this folder are your games.
