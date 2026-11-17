@@ -85,7 +85,7 @@ All art is original. No real arcade characters, logos or game artwork appear on 
 * **Several skins:** press and hold a `.manicskin` file, choose **Select**, pick the ones you want, then tap **Share** and choose **Manic EMU**.
 * **From inside Manic EMU:** tap **Assign Skin → New Skin → Open File** and pick the `.manicskin` files. Open File only accepts `.manicskin` files, not zips.
 
-**Easier option:** the same sets are on [DeltaStyles](YOUR-DELTASTYLES-PAGE-LINK), where you can install a pack in a few taps.
+**Easier option:** the same sets are on [DeltaStyles](https://deltastyles.com/user/3027-themameking), where you can install a pack in a few taps.
 
 ## Starter Packs (Nightfall Purple)
 
