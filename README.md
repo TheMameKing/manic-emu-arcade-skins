@@ -31,9 +31,9 @@ All art is original. No real arcade characters, logos or game artwork appear on 
 
 ![First 20 colorways](images/colorways/arcade-skins-colorways.png)
 
-<img width="1200" height="427" alt="arcade-skins-soft-dark" src="https://github.com/user-attachments/assets/8996a6f2-7772-4819-917d-e448126bfe1b" />
+<img width="1200" height="427" alt="arcade-skins-soft-dark" src="images/colorways/arcade-skins-soft-dark.png" />
 
-![Every layout and screen size](arcade-skins-layouts.png)
+![Every layout and screen size](images/layouts/arcade-skins-layouts.png)
 
 ## Installing from GitHub
   
@@ -359,7 +359,7 @@ A game that needs Buttons 1 to N needs every number from 1 to N present on the s
 
 **Twin Stick** has no center buttons. In Smash TV and Total Carnage, the right stick fires in 4 directions (the `x` / `y` / `a` / `b` inputs).
 
-![Button order](button-order-v2.png)
+![Button order](images/button-mapping/button-order-v2.png)
 
 Button roles vary by game. For example, in Golden Axe Button 1 is attack, Button 2 is jump and Button 3 is magic. If a button does something unexpected, check the game’s controller menu in Manic EMU, since the same button number can mean different things in different games.
 
@@ -394,7 +394,7 @@ Every set uses the **same layouts and zip names** as the sections above. Take th
 ## Old button numbering
 
 The Legacy skins use Manic EMU’s old button numbering, which is different from the current order and can differ from game to game. They were built for 2.0.1 and earlier and play correctly there. On 2.0.2 or newer the buttons come out in the wrong places, so use the current sets instead. For example, on 2.0.1 the 3 Button layout plays as jump, attack, magic in Golden Axe, while on 2.0.2 the updated 3 Button skin plays attack, jump, magic from left to right.
-![layout of the old skins on 2.0.2](Legacy-button-order.png)
+![layout of the old skins on 2.0.2](images/button-mapping/legacy-button-order.png)
 
 ## Tekken-Rival Fix (Legacy only)
 
