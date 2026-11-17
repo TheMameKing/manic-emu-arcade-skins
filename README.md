@@ -34,8 +34,8 @@ All art is original. No real arcade characters, logos or game artwork appear on 
 
 ![Every layout and screen size](arcade-skins-layouts.png)
 
-## Quick start
-  Installing from GitHub
+## Installing from GitHub
+  
 1. Download the zips you want.
 2. In the Files app, long press the zip, tap Share, then choose Manic EMU.
 3. The ZIP File Handling screen appears. Tap the zip so the red check mark is on, then tap Confirm. The check mark is what unzips the skins. If you skip it, Manic imports the zip as a game instead of as skins.
@@ -58,7 +58,7 @@ Not sure where to start? Each Starter Pack is one zip with every layout of a set
 
 Packs: Original (14), Dynamic Island (14), Left-Handed (14), Tate (5), iPad (20), D-Pad Original (12), D-Pad Dynamic Island (12), Tate D-Pad (5), D-Pad Left-Handed (12), Tate Left-Handed (5), Tate D-Pad Left-Handed (5), iPad Tate (4)
 
-Download from the [Starter Packs release](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/Starter-Packs). To install, tap Assign Skin, New Skin, Open File, pick the pack zip and confirm. If that doesn't work, unzip it in the Files app first and select the .manicskin files instead. On older iOS versions you may need to unzip first.
+Download from the [Starter Packs release](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/Starter-Packs). To install follow the steps here [Installing from GitHub](#installing-from-github)
 
 Starter Packs for the Extras styles are available on DeltaStyles only. The full Extras zips are in the [Extras release](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/extras).
 
