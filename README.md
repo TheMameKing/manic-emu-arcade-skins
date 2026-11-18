@@ -77,7 +77,7 @@ All art is original. No real arcade characters, logos or game artwork appear on 
 
 **2. On the import page tap files.**
 
-<img src="images/install/import-page.png" width="260" alt="Tap multiple zips to select them">
+<img src="images/install/import-page-manic.png" width="260" alt="Tap multiple zips to select them">
 
 **3. Tap the zips you want installed, then tap open.**
 
