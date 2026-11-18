@@ -65,6 +65,34 @@ All art is original. No real arcade characters, logos or game artwork appear on 
 
 </details>
 
+
+<details>
+<summary><b>Show me multiple zips with pictures</b></summary>
+
+<br>
+
+**1. Go to the import page and tap files.**
+
+<img src="images/install/import-page.png" width="260" alt="Manic EMU import page">
+
+**2. Tap the zips you want installed, then tap open.**
+
+<img src="images/install/multi-zip.png" width="260" alt="Tap multiple zips to select them">
+
+**3. Tap the zips so they are marked then confrim.**
+
+<img src="images/install/zip-file-handling-multi.png" width="260" alt="Tap the zips so they are marked then confirm">
+
+**4. Skins imported **
+
+<img src="images/install/imported.PNG" width="260" alt="skins imported">
+
+</details>
+
+
+
+
+
 **Imported a zip as a game by mistake?** Manic saves the zip with your games instead of unzipping it if you don't select it in the ZIP File Handling screen, and no skins are installed. Just import it again with the red check mark on. To tidy up the leftover zip, search in Manic EMU's main menu where you select games and it will be in the list. It can also be found by opening the **Files** app and go to **On My iPhone (or On My iPad) → Manic EMU → Datas**. Search for the name of the zip you imported, and delete that one only. The other zips in this folder are your games.
 
 <details>
