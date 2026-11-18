@@ -71,21 +71,21 @@ All art is original. No real arcade characters, logos or game artwork appear on 
 
 <br>
 
-**1. Go to the import page and tap files.**
+**1. Tap the import page at the bottom.**
 
-<img src="images/install/import-page.png" width="260" alt="Manic EMU import page">
+<img src="images/install/manic-emu-main-menu.png" width="260" alt="Manic EMU import page">
 
-**2. Tap the zips you want installed, then tap open.**
+**2. On the import page tap files.**
 
-<img src="images/install/multi-zip.png" width="260" alt="Tap multiple zips to select them">
+<img src="images/install/import-page.png" width="260" alt="Tap multiple zips to select them">
 
-**3. Tap the zips so they are marked then confrim.**
+**3. Tap the zips you want installed, then tap open.**
 
-<img src="images/install/zip-file-handling-multi.png" width="260" alt="Tap the zips so they are marked then confirm">
+<img src="images/install/multi-zip.png" width="260" alt="Tap the zips so they are marked then confirm">
 
-**4. Skins imported **
+**4. Tap the zips so they are marked then confrim.**
 
-<img src="images/install/imported.PNG" width="260" alt="skins imported">
+<img src="images/install/zip-file-handling-multi.png" width="260" alt="skins imported">
 
 </details>
 
