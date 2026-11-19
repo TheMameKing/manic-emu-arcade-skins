@@ -273,6 +273,27 @@ Each name comes as `... - Part 1.zip` and `... - Part 2.zip` (10 colorways each)
 
 Tested on an iPad mini 5th gen with Manic Emu 2.0.2
 
+## iPad D-Pad set
+
+A D-pad version of the iPad skins: the same layouts as the [iPad set](#ipad-set), with a D-pad in place of the joystick. **For iPad only**; on iPhone use the [D-Pad set](#d-pad-set-alternative-to-the-joystick).
+
+- Handheld, Tabletop and Full Screen styles, each in 1, 2, 3, 4, 5 and 6 Button layouts. There is no Twin Stick version, and it is right-handed only for now.
+- It has the same 22 colorways: 396 skins in 54 zips.
+- The D-pad has invisible extra touch area around it, so a sliding thumb doesn't lose its direction.
+
+| Layout | Handheld | Tabletop | Full Screen |
+|---|---|---|---|
+| **1 Button** | `iPad 1 Button Handheld D-Pad Zip` | `iPad 1 Button Tabletop D-Pad Zip` | `iPad 1 Button Full Screen D-Pad Zip` |
+| **2 Button** | `iPad 2 Button Handheld D-Pad Zip` | `iPad 2 Button Tabletop D-Pad Zip` | `iPad 2 Button Full Screen D-Pad Zip` |
+| **3 Button** | `iPad 3 Button Handheld D-Pad Zip` | `iPad 3 Button Tabletop D-Pad Zip` | `iPad 3 Button Full Screen D-Pad Zip` |
+| **4 Button** | `iPad 4 Button Handheld D-Pad Zip` | `iPad 4 Button Tabletop D-Pad Zip` | `iPad 4 Button Full Screen D-Pad Zip` |
+| **5 Button** | `iPad 5 Button Handheld D-Pad Zip` | `iPad 5 Button Tabletop D-Pad Zip` | `iPad 5 Button Full Screen D-Pad Zip` |
+| **6 Button** | `iPad 6 Button Handheld D-Pad Zip` | `iPad 6 Button Tabletop D-Pad Zip` | `iPad 6 Button Full Screen D-Pad Zip` |
+
+Each name comes as `... - Part 1.zip` and `... - Part 2.zip` (10 colorways each), plus `... - Part 3.zip` (Soft Light and Blackout). Download them from the [v1.8 release](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.8).
+
+Tested on an iPad mini 5th gen with Manic Emu 2.0.2. If you try it on another iPad, I'd love to hear how it fits: [feedback link].
+
 ## D-Pad set (alternative to the joystick)
 
 **For iPhone. There is no iPad D-pad set yet.**
