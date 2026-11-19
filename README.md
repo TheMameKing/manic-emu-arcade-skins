@@ -292,11 +292,11 @@ A D-pad version of the iPad skins: the same layouts as the iPad set, with a D-pa
 
 Each name comes as `... - Part 1.zip` and `... - Part 2.zip` (10 colorways each), plus `... - Part 3.zip` (Soft Light and Blackout). Download them from the [v1.8 release](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.8).
 
-Tested on an iPad mini 5th gen with Manic Emu 2.0.2. If you try it on another iPad, I'd love to hear how it fits: [feedback link].
+Tested on an iPad mini 5th gen with Manic Emu 2.0.2.
 
 ## D-Pad set (alternative to the joystick)
 
-**For iPhone. There is no iPad D-pad set yet.**
+**For iPhone.**
 
 Same layouts, same button mapping and same colorways as the regular skins, but the joystick is replaced by a **D-pad** (up, down, left, right, with diagonals). A D-pad gives precise 4 and 8 direction input for fighting games (Street Fighter, Tekken), Pac-Man style games and anything where you don't want a stray up (jump) while mashing buttons. The D-pad is drawn in each colorway's accent color, so it is easy to tell from the joystick skins. Every D-pad skin includes invisible overshoot arms: slide off the pad in a straight line and the direction stays held. There is also a Tate D-pad set and a Left-Handed D-pad set, described below. Download all the D-pad skins from the [v1.5 release](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.5).
 
