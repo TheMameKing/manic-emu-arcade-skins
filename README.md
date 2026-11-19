@@ -275,7 +275,7 @@ Tested on an iPad mini 5th gen with Manic Emu 2.0.2
 
 ## iPad D-Pad set
 
-A D-pad version of the iPad skins: the same layouts as the [iPad set](#ipad-set), with a D-pad in place of the joystick. **For iPad only**; on iPhone use the [D-Pad set](#d-pad-set-alternative-to-the-joystick).
+A D-pad version of the iPad skins: the same layouts as the iPad set, with a D-pad in place of the joystick. **For iPad only**; on iPhone use the [D-Pad set](#d-pad-set-alternative-to-the-joystick).
 
 - Handheld, Tabletop and Full Screen styles, each in 1, 2, 3, 4, 5 and 6 Button layouts. There is no Twin Stick version, and it is right-handed only for now.
 - It has the same 22 colorways: 396 skins in 54 zips.
