@@ -350,23 +350,25 @@ Download from the [v1.5 release](https://github.com/TheMameKing/manic-emu-arcade
 
 For Pac-Man style games with no action buttons, see Tate D-Pad Only (left- and right-handed) in the [Extras](#extras) section.
 
+
 ### Left-Handed D-Pad Set (iPhone)
 
 The D-pad skins mirrored for left-handed play: the D-pad is on the right and the buttons are on the left, with the same button mapping and 22 colorways as the right-handed D-pad set. Start then FF, and Load then Save, run left to right across the top, as in the other sets. Every skin includes the invisible overshoot arms.
 
-It covers the **Dynamic Island** style (Standard and Full Screen) and the **Tate D-Pad** layouts. There is no Original (notch) version of the left-handed D-pad yet, no Twin Stick, and no iPad version. That makes **352 skins in 48 zips** (16 layouts). Download them from the [v1.6 release](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.6).
+It covers the **Original (notch)** style (Pro and Full Screen), the **Dynamic Island** style (Standard and Full Screen) and the **Tate D-Pad** layouts. There is no Twin Stick in the D-pad sets and no iPad version of the left-handed D-pad yet. That makes **616 skins in 84 zips** (28 layouts):
+- **Dynamic Island and Tate:** 352 skins in 48 zips, in the [v1.6 release](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.6).
+- **Original (notch):** 264 skins in 36 zips, in the [v1.9 release](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.9).
 
-| Layout | Dynamic Island | Tate |
-|---|---|---|
-| **1 Button** | `1-Button D-Pad Dynamic Island Left-Handed Zip` / `... Full Screen Left-Handed Zip` | `Tate 1-Button D-Pad Left-Handed Zip` |
-| **2 Button** | `2-Button D-Pad Dynamic Island Left-Handed Zip` / `... Full Screen Left-Handed Zip` | `Tate 2-Button D-Pad Left-Handed Zip` |
-| **3 Button** | `3-Button D-Pad Dynamic Island Left-Handed Zip` / `... Full Screen Left-Handed Zip` | `Tate 3-Button D-Pad Left-Handed Zip` |
-| **4 Button Classic** | `4-Button Classic D-Pad Dynamic Island Left-Handed Zip` / `... Full Screen Left-Handed Zip` | `Tate 4-Button D-Pad Left-Handed Zip` |
-| **5 Button** | `5-Button D-Pad Dynamic Island Left-Handed Zip` / `... Full Screen Left-Handed Zip` | not available |
-| **6 Button** | `6-Button D-Pad Dynamic Island Left-Handed Zip` / `... Full Screen Left-Handed Zip` | not available |
+| Layout | Original (notch), v1.9 | Dynamic Island, v1.6 | Tate, v1.6 |
+|---|---|---|---|
+| **1 Button** | `1-Button D-Pad Pro Left-Handed Zip` / `1-Button D-Pad Full Screen Left-Handed Zip` | `1-Button D-Pad Dynamic Island Left-Handed Zip` / `... Full Screen Left-Handed Zip` | `Tate 1-Button D-Pad Left-Handed Zip` |
+| **2 Button** | `2-Button D-Pad Pro ...` / `... Full Screen ...` | `2-Button D-Pad Dynamic Island Left-Handed Zip` / `... Full Screen Left-Handed Zip` | `Tate 2-Button D-Pad Left-Handed Zip` |
+| **3 Button** | `3-Button D-Pad Pro ...` / `... Full Screen ...` | `3-Button D-Pad Dynamic Island Left-Handed Zip` / `... Full Screen Left-Handed Zip` | `Tate 3-Button D-Pad Left-Handed Zip` |
+| **4 Button Classic** | `4-Button Classic D-Pad Pro ...` / `... Full Screen ...` | `4-Button Classic D-Pad Dynamic Island Left-Handed Zip` / `... Full Screen Left-Handed Zip` | `Tate 4-Button D-Pad Left-Handed Zip` |
+| **5 Button** | `5-Button D-Pad Pro ...` / `... Full Screen ...` | `5-Button D-Pad Dynamic Island Left-Handed Zip` / `... Full Screen Left-Handed Zip` | not available |
+| **6 Button** | `6-Button D-Pad Pro ...` / `... Full Screen ...` | `6-Button D-Pad Dynamic Island Left-Handed Zip` / `... Full Screen Left-Handed Zip` | not available |
 
 Each name comes as `... - Part 1.zip` and `... - Part 2.zip` (10 colorways each), plus `... - Part 3.zip` (Soft Light and Blackout). For left-handed Pac-Man style games with no buttons, see Tate D-Pad Only in the [Extras](#extras) section.
-
 ## Extras
 
 Special-purpose skins and extra styles that don't belong to the main sets. They're in the [Extras release](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/extras).
