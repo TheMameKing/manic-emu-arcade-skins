@@ -121,12 +121,12 @@ All art is original. No real arcade characters, logos or game artwork appear on 
 
 Not sure where to start? Each Starter Pack is one zip with every layout of a set in our flagship color, Nightfall Purple. They are copies of the same skins in the full sets, so nothing changes if you add a full set later.
 
-Packs: Original (14), Dynamic Island (14), Left-Handed (14), Tate (5), iPad (20), D-Pad Original (12), D-Pad Dynamic Island (12), Tate D-Pad (5), D-Pad Left-Handed (12), Tate Left-Handed (5), Tate D-Pad Left-Handed (5), iPad Tate (4)
+Packs: Original (14), Dynamic Island (14), Left-Handed (14), Tate (5), iPad (20), D-Pad Original (12), D-Pad Dynamic Island (12), Tate D-Pad (5), D-Pad Left-Handed (12), Tate Left-Handed (5), Tate D-Pad Left-Handed (5), iPad Tate (4), Left-Handed Notch D-Pad (12 skins), Left-Handed Notch (14 skins)
 
 Download from the [Starter Packs release](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/Starter-Packs). 
 To install: follow the steps in [Installing from GitHub](#installing-from-github). Starter Packs are zips, so share the zip to Manic EMU and tap the zip on the ZIP File Handling screen so the red check mark is on before you tap Confirm.
 
-Starter Packs for the Extras styles are available on DeltaStyles only. The full Extras zips are in the [Extras release](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/extras).
+If you want a larger selection of Starter Packs head to [DeltaStyles](https://deltastyles.com/user/3027-themameking) to grab different colorways that are on there to accommodate 1 tap installs for easier access while trying to play through Manic EMU. It has all the same colorways as this GitHub just bundled for easier install.
 
 ## Which zip do I need?
 
