@@ -14,16 +14,16 @@ Quick heads-up on the page layout and the 2.0.2 change:
 
 | Sets | Manic EMU 2.0.2 or newer| Manic EMU 2.0.1 and earlier |
 |---|---|---|
-| **Original set (Notch)** | [v1.0](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/V1.0) |  [Legacy-v1.0](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/Legacy-v1.0) |
-| **Dynamic Island** | [v1.1](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.1) |[Legacy-v1.1](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/Legacy-v1.1)  |
-| **Tate (vertical games)** | [v1.2](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.2) |  [Legacy-v1.2](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/Legacy-v1.2) |
+| **Original set (Notch Joystick)** | [v1.0](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/V1.0) |  [Legacy-v1.0](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/Legacy-v1.0) |
+| **Dynamic Island (Joystick)** | [v1.1](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.1) |[Legacy-v1.1](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/Legacy-v1.1)  |
+| **Tate (vertical games Joystick)** | [v1.2](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.2) |  [Legacy-v1.2](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/Legacy-v1.2) |
 | **Left-Handed set (Dynamic Island & Tate Joystick)** |  [v1.3](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.3) | [Legacy-v1.3](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/Legacy-v1.3)|
-| **iPad set** | [v1.4](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.4) | [Legacy-v1.4](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/Legacy-v1.4) |
+| **iPad set (Joystick)** | [v1.4](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.4) | [Legacy-v1.4](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/Legacy-v1.4) |
 | **D-Pad set (Notch & Dynamic & Tate D-Pad)** | [v1.5](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.5) | [Legacy-v1.5](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/Legacy-v1.5) |
 | **Left-Handed D-Pad set (Dynamic Island & Tate D-Pad)** | [v1.6](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.6) | [Legacy-v1.6](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/Legacy-v1.6) |
 | **Extras** | [Extras](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/extras) |[Legacy-Extras](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/Legacy-Extras) |
 | **Starter Packs** | [Starter-Pack](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/Starter-Packs) | [Legacy-Starter-Pack](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/Legacy-Starter-Packs) |
-| **iPad Tate** | [v1.7](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.7) | N/A |
+| **iPad Tate (Joystick)** | [v1.7](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.7) | N/A |
 | **iPad D-Pad** | [v1.8](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.8) | N/A | 
 | **Left-Handed Notch (D-Pad & Joystick)** | [v1.9](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.9) | N/A |
 
