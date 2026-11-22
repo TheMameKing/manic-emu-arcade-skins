@@ -2,7 +2,7 @@
 
 Quick heads-up on the page layout and the 2.0.2 change:
 
-- Using Manic EMU 2.0.2 or newer? Use the regular releases [v1.0 to v1.8](https://github.com/TheMameKing/manic-emu-arcade-skins/releases?page=2), the ones without “Legacy” in the name.
+- Using Manic EMU 2.0.2 or newer? Use the regular releases [v1.0 to v1.9](https://github.com/TheMameKing/manic-emu-arcade-skins/releases?page=2), the ones without “Legacy” in the name.
 - Using Manic EMU 2.0.1 or earlier (for example a sideloaded copy)? Use the Legacy releases. They’re the old sets, unchanged.
 - What changed: only the button numbering. Manic 2.0.2 changed the button inputs, so I patched every set to match. In the updated sets the buttons now read 1, 2, 3 on the top row and 4, 5, 6 below, left to right (right to left on the left-handed sets). The Legacy sets use the old numbering, which is laid out differently and can vary by game. Using the wrong set for your version gives scrambled inputs
 - Tekken-Rival Fix is retired. With the new numbering, the regular 4 Button works for Tekken and Rival Schools in my testing. The old Tekken-Rival Fix skins are still in the Legacy releases for 2.0.1.
