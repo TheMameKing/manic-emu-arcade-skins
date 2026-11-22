@@ -376,10 +376,17 @@ Special-purpose skins and extra styles that don't belong to the main sets. They'
 ### Combo skins
 
 Some fighting games use button combinations that are hard to press on a touch screen. Combo skins add labelled combo buttons next to the normal ones. They have their own three colorways, so they're easy to tell apart from the other sets.
-
-They will be brought back once I start mapping out the button combos
-
 Combos differ from game to game, so skins made for a specific game are named after it and added over time.
+
+
+### Tekken 3 - Rival Schools Combo
+- Labeled "4-Button (D-Pad) Tekken-Rival combo"
+- tekken 3 (1+2) is grab for all characters, and (3+4) varies between characters some will have a extra move others will use the same basic attack
+-  In rival schools (1+2) is the special move and (3+4_ is dodge for all characters
+- other games that use 4 button inputs may also gain extra moves with the combo buttons like Kabuki Klash and Waku Waku 7 some characters gain extra moves.
+- Colorways: Combo Gold, Combo Neon, Combo Ember. 12 skins in 4 zips
+- It comes in Joystick and D-Pad
+
 
 **Want a combo skin for a game that isn't listed?** [Open a combo request](../../issues/new?template=combo-request.md) with the game name and the combos you need.
 
