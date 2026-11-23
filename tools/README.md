@@ -26,6 +26,10 @@ Running `contact_sheet.py` over a folder of skins writes numbered pictures to `c
 
 ![sample sheet](images/showcase_compact.png)
 
+![more examples](images/contact_sheet_cmd.png)
+
+![another contact sheet](images/blackout_softlight_contact_sheet.png)
+
 <details>
 <summary><b>More Sheet Examples </b></summary>
 
@@ -56,9 +60,4 @@ Running `contact_sheet.py` over a folder of skins writes numbered pictures to `c
 <img src="images/sheet_06.png" width="1000" alt="Sheet 6">
 
 </details>
-
-
-![more examples](images/contact_sheet_cmd.png)
-
-![another contact sheet](images/blackout_softlight_contact_sheet.png)
 Released under the MIT License, provided as-is with no warranty. The skins themselves are CC BY 4.0.
