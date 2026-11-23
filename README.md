@@ -198,7 +198,7 @@ It has the same 22 colorways: 110 skins in 15 zips. Each name comes as `... - Pa
 
 The stick is on the right, and the buttons are on the left, with Coin, Start and FF above them. The button mapping is the same as the regular skins. In landscape the controls stay clear of the Dynamic Island on both sides. Names include "Left-Handed", so they install next to the other sets.
 
-It covers two of the sets above: the **Dynamic Island set** (14 layouts, Standard and Full Screen) and the **Tate set**. It has the same 22 colorways: 418 skins in 57 zips.
+It covers all of the sets above: the **Dynamic Island set** (14 layouts, Standard and Full Screen) and the **Tate set**. It has the same 22 colorways: 418 skins in 57 zips and the **Original (Notch) set** (14 layouts, Standard and Full Screen)
 
 Looking for a left-handed D-pad? See the [Left-Handed D-Pad set](#left-handed-d-pad-set-iphone), which is a separate release.
 
