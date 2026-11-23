@@ -15,8 +15,18 @@ python check_skin.py my_skins_folder
 python contact_sheet.py my_skins_folder --colours "Blackout,Soft Light"
 ```
 
-Run either with `--help` for all options.
+Run either with `--help` for all options. For a mixed folder (different layouts and colours), add `--compact` to `contact_sheet.py` to leave out empty slots.
+
+## Preview
+Running `contact_sheet.py` over a folder of skins writes numbered pictures to `contact_sheets/`:
+
+![contact_sheet.py output in a terminal](images/Showcase_cmd.png)
+
+![sample sheet](images/showcase_compact.png).
 
 These tools are generic. They do not know the naming, colour or button-count rules of any particular collection.
 
+![more examples](images/contact_sheet_cmd.png)
+
+![another contact sheet](images/blackout_softlight_contact_sheet.png)
 Released under the MIT License, provided as-is with no warranty. The skins themselves are CC BY 4.0.
