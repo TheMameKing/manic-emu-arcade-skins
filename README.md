@@ -469,6 +469,8 @@ Each `.manicskin` is a zip containing `info.json`, PNG art and PDF button images
 - `translucent`: `true` for Full Screen landscape, where buttons are drawn over the game
 - D-pad items (D-Pad set) use an `inputs` object instead of a list: `{"up": "up", "down": "down", "left": "left", "right": "right"}`, with `asset.normal` pointing to the D-pad image (`dpad.pdf`)
 
+There is also a [tools](tools) folder that has 2 stripped down versions of my skin checkers that you can use on your collections
+
 ## License
 
 Made by **TheMameKing** and released under **CC BY 4.0** (see [LICENSE](LICENSE)). You can share and adapt the skins, including commercially, as long as you give credit.
