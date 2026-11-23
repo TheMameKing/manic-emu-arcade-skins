@@ -15,16 +15,48 @@ python check_skin.py my_skins_folder
 python contact_sheet.py my_skins_folder --colours "Blackout,Soft Light"
 ```
 
-Run either with `--help` for all options. For a mixed folder (different layouts and colours), add `--compact` to `contact_sheet.py` to leave out empty slots.
+Run either with `--help` for all options. For a mixed folder (different layouts and colours), add `--compact` to `contact_sheet.py` to leave out empty slots. 
+
+These tools are generic. They do not know the naming, colour or button-count rules of any particular collection.
 
 ## Preview
 Running `contact_sheet.py` over a folder of skins writes numbered pictures to `contact_sheets/`:
 
 ![contact_sheet.py output in a terminal](images/Showcase_cmd.png)
 
-![sample sheet](images/showcase_compact.png).
+![sample sheet](images/showcase_compact.png)
 
-These tools are generic. They do not know the naming, colour or button-count rules of any particular collection.
+<details>
+<summary><b>More Sheet Examples </b></summary>
+
+<br> 
+
+**Sheet 1**
+
+<img src="images/sheet_01.png" width="1000" alt="sheet above split into 6 sheets for better view">
+
+**Sheet 2**
+
+<img src="images/sheet_02.png" width="1000" alt="sheet 2">
+
+**Sheet 3**
+
+<img src="images/sheet_03.png" width="1000" alt="sheet 3">
+
+**Sheet 4**
+
+<img src="images/sheet_04.png" width="1000" alt="Sheet 4">
+
+**Sheet 5**
+
+<img src="images/sheet_05.png" width="1000" alt="Sheet 5">
+
+**Sheet 6**
+
+<img src="images/sheet_06.png" width="1000" alt="Sheet 6">
+
+</details>
+
 
 ![more examples](images/contact_sheet_cmd.png)
 
