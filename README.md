@@ -85,7 +85,7 @@ All art is original. No real arcade characters, logos or game artwork appear on 
 
 <img src="images/install/multi-zip.png" width="260" alt="Tap the zips so they are marked then confirm">
 
-**4. Tap the zips so they are marked then confrim.**
+**4. Tap the zips so they are marked then confirm.**
 
 <img src="images/install/zip-file-handling-multi.png" width="260" alt="skins imported">
 
