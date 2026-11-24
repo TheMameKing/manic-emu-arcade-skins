@@ -7,6 +7,7 @@ Two small helper scripts for people making Manic EMU controller skins. They only
 | `check_skin.py` | Sanity check: valid zip, `info.json`, every referenced file present, inputs, canvas bounds, duplicate identifiers. |
 | `contact_sheet.py` | Draws skins into pictures so you can compare layouts and colours by eye (phones and iPads). |
 | `FORMAT_NOTES.md` | Notes on the skin format and the button numbering. |
+| `contact_sheet_easy.py` | Same as contact_sheet.py, but simplified to run all colors every time unless specified otherwise. |
 
 Both need Python 3 and Pillow (`pip install pillow`). `contact_sheet.py` draws the real button artwork if you also install PyMuPDF (`pip install pymupdf`); without it the artwork is drawn as outlines.
 
