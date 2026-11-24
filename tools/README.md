@@ -14,6 +14,7 @@ Both need Python 3 and Pillow (`pip install pillow`). `contact_sheet.py` draws t
 ```
 python check_skin.py my_skins_folder
 python contact_sheet.py my_skins_folder --colours "Blackout,Soft Light"
+python contact_sheet_easy.py .
 ```
 
 Run either with `--help` for all options. For a mixed folder (different layouts and colours), add `--compact` to `contact_sheet.py` to leave out empty slots. 
