@@ -4,7 +4,7 @@ Quick heads-up on the page layout and the 2.0.2 change:
 
 - Using Manic EMU 2.0.2 or newer? Use the regular releases [v1.0 to v1.11](https://github.com/TheMameKing/manic-emu-arcade-skins/releases?page=2), the ones without “Legacy” in the name.
 - Using Manic EMU 2.0.1 or earlier (for example a sideloaded copy)? Use the Legacy releases. They’re the old sets, unchanged.
-- What changed: only the button numbering. Manic 2.0.2 changed the button inputs, so I patched every set to match. In the updated sets the buttons now read 1, 2, 3 on the top row and 4, 5, 6 below, left to right (right to left on the left-handed sets). The Legacy sets use the old numbering, which is laid out differently and can vary by game. Using the wrong set for your version gives scrambled inputs
+- What changed: only the button numbering. Manic 2.0.2 changed the button inputs, so I patched every set to match. In the updated sets the buttons now read 1, 2, 3 on the top row and 4, 5, 6 below, left to right (right to left on the left-handed sets). The Legacy sets use the old numbering, which is laid out differently and can vary by game. Using the wrong set for your version gives scrambled inputs.
 - Tekken-Rival Fix is retired. With the new numbering, the regular 4 Button works for Tekken and Rival Schools in my testing. The old Tekken-Rival Fix skins are still in the Legacy releases for 2.0.1.
 - Twin Stick skins work on both versions. In my testing they play the same, and the Legacy copies are identical.
 - iPad skins: All iPad sets work on both Manic EMU versions, with one exception: the iPad Street Fighter set uses a special button order and is only compatible with the Legacy mapping. iPad users should use the regular releases for all other layouts.
@@ -23,13 +23,13 @@ Quick heads-up on the page layout and the 2.0.2 change:
 | **Left-Handed D-Pad set (Dynamic Island & Tate D-Pad)** | [v1.6](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.6) | [Legacy-v1.6](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/Legacy-v1.6) |
 | **Extras** | [Extras](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/extras) |[Legacy-Extras](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/Legacy-Extras) |
 | **Starter Packs** | [Starter-Pack](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/Starter-Packs) | [Legacy-Starter-Pack](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/Legacy-Starter-Packs) |
-| **iPad Tate (Joystick)** | [v1.7](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.7) | N/A |
+| **iPad Tate (Joystick & D-Pad)** | [v1.7](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.7) | N/A |
 | **iPad D-Pad** | [v1.8](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.8) | N/A | 
 | **Left-Handed Notch (D-Pad & Joystick)** | [v1.9](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.9) | N/A |
-| **Left-Handed iPad (Joystick & Tate)** | [v1.10](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.10) | N/A |
-| **Left-Handed iPad D-Pad & Tate D-Pad)** | [v1.11](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.11) | N/A |
+| **Left-Handed iPad (Joystick, Twin Stick & Tate)** | [v1.10](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.10) | N/A |
+| **Left-Handed iPad D-Pad (D-Pad & Tate D-Pad)** | [v1.11](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.11) | N/A |
 
-Original-art controller skins for **MAME / arcade** games in Manic EMU. 14 layouts, 22 colorways each: **308 skins in 42 zip files**. There is also a separate **Dynamic Island set** for iPhone 14 Pro and later, a **Tate set** for vertical games, a **Left-Handed set** that mirrors the Dynamic Island and Tate layouts, and an **iPad set** (with an **iPad Tate set** for vertical games and a iPad D-Pad Set), a **D-Pad set** (including a Tate D-Pad set and a Left-Handed D-Pad set), and **Starter Packs** with one zip per set (see below).
+Original-art controller skins for **MAME / arcade** games in Manic EMU. 14 layouts, 22 colorways each: **308 skins in 42 zip files**. There is also a separate **Dynamic Island set** for iPhone 14 Pro and later, a **Tate set** for vertical games, a **Left-Handed set** that mirrors the Dynamic Island and Tate layouts, and an **iPad set** (with an **iPad Tate set** for vertical games, an **iPad D-Pad set**, and left-handed versions of all of them), a **D-Pad set** (including a Tate D-Pad set and a Left-Handed D-Pad set), and **Starter Packs** with one zip per set (see below).
 
 All art is original. No real arcade characters, logos or game artwork appear on any skin.
 
@@ -117,13 +117,13 @@ All art is original. No real arcade characters, logos or game artwork appear on 
 * **Several skins:** press and hold a `.manicskin` file, choose **Select**, pick the ones you want, then tap **Share** and choose **Manic EMU**.
 * **From inside Manic EMU:** tap **Assign Skin → New Skin → Open File** and pick the `.manicskin` files. Open File only accepts `.manicskin` files, not zips.
 
-**Easier option:** the same sets are on [DeltaStyles](https://deltastyles.com/user/3027-themameking), where you can install a pack in a few taps.
+**Easier option:** Starter Packs of the same sets are on [DeltaStyles](https://deltastyles.com/user/3027-themameking), where you can install a pack in a few taps.
 
 ## Starter Packs (Nightfall Purple)
 
 Not sure where to start? Each Starter Pack is one zip with every layout of a set in our flagship color, Nightfall Purple. They are copies of the same skins in the full sets, so nothing changes if you add a full set later.
 
-Packs: Original (14), Dynamic Island (14), Left-Handed (14), Tate (5), iPad (20), D-Pad Original (12), D-Pad Dynamic Island (12), Tate D-Pad (5), D-Pad Left-Handed (12), Tate Left-Handed (5), Tate D-Pad Left-Handed (5), iPad Tate (4), Left-Handed Notch D-Pad (12 skins), Left-Handed Notch (14 skins)
+Packs: Original (14), Dynamic Island (14), Left-Handed (14), Tate (5), Tate D-Pad (5), iPad (20), D-Pad Original (12), D-Pad Dynamic Island (12), D-Pad Left-Handed (12), iPad D-Pad (18), Left-Handed Notch (14), Left-Handed Tate (5), iPad Tate (4), Left-Handed Notch D-Pad (12), Left-Handed D-Pad Tate (5), iPad Tate D-Pad (4), Left-Handed iPad (20), Left-Handed iPad D-Pad (18), Left-Handed iPad Tate (4), Left-Handed iPad Tate D-Pad (4)
 
 Download from the [Starter Packs release](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/Starter-Packs). 
 To install: follow the steps in [Installing from GitHub](#installing-from-github). Starter Packs are zips, so share the zip to Manic EMU and tap the zip on the ZIP File Handling screen so the red check mark is on before you tap Confirm.
@@ -192,7 +192,7 @@ Vertical games like Galaga, 1942 or Ketsui are rotated upright by Manic EMU, but
 
 It has the same 22 colorways: 110 skins in 15 zips. Each name comes as `... - Part 1.zip` and `... - Part 2.zip` (10 colorways each), plus `... - Part 3.zip` (Soft Light and Blackout).
 
-**Prefer a D-pad?** There is a Tate D-pad version of these layouts for fast-turn games like Pac-Man and 1942: 1-4 Button, 22 colorways each, 88 skins in 12 zips. iPhone only; no Twin Stick or iPad versions. A left-handed version is in the [Left-Handed D-Pad set](#left-handed-d-pad-set-iphone). See [Tate D-Pad](#tate-d-pad-set-iphone) in the D-Pad section.
+**Prefer a D-pad?** There is a Tate D-pad version of these layouts for fast-turn games like Pac-Man and 1942: 1-4 Button, 22 colorways each, 88 skins in 12 zips. iPhone only; no Twin Stick. iPad has its own [iPad Tate D-Pad](#ipad-tate-d-pad). A left-handed version is in the [Left-Handed D-Pad set](#left-handed-d-pad-set-iphone). See [Tate D-Pad](#tate-d-pad-set-iphone) in the D-Pad section.
 
 ## Left-Handed set (mirrored layouts)
 
@@ -200,9 +200,9 @@ It has the same 22 colorways: 110 skins in 15 zips. Each name comes as `... - Pa
 
 The stick is on the right, and the buttons are on the left, with Coin, Start and FF above them. The button mapping is the same as the regular skins. In landscape the controls stay clear of the Dynamic Island on both sides. Names include "Left-Handed", so they install next to the other sets.
 
-It covers all of the sets above: the **Dynamic Island set** (14 layouts, Standard and Full Screen) and the **Tate set**. It has the same 22 colorways: 418 skins in 57 zips and the **Original (Notch) set** (14 layouts, Standard and Full Screen)
+It covers the **Dynamic Island set** (14 layouts, Standard and Full Screen) and the **Tate set**, with the same 22 colorways: 418 skins in 57 zips. The left-handed **Original (Notch)** joystick set (14 layouts, Standard and Full Screen: 308 skins in 42 zips) is in the [v1.9 release](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.9).
 
-Looking for a left-handed D-pad? See the [Left-Handed D-Pad set](#left-handed-d-pad-set-iphone), which is a separate release.
+Looking for a left-handed D-pad? See the [Left-Handed D-Pad set](#left-handed-d-pad-set-iphone), which is a separate release. **On an iPad, use the [Left-Handed iPad set](#left-handed-ipad-set-joystick-twin-stick-and-tate).**
 
 | Layout | Download these (Dynamic Island) | Download these (Tate) |
 |---|---|---|
@@ -239,6 +239,7 @@ Handheld and Tabletop have a 4:3 screen on top with the controls in a panel belo
 - **Tabletop**: bigger buttons with wider spacing, for when the iPad is lying flat.
 - **Twin Stick**: one set for Handheld and Tabletop, and a separate Full Screen version.
 - **Button order**: The Buttons Run 123 456 top left to bottom right on all sets.
+- **Left-handed?** See the [Left-Handed iPad set](#left-handed-ipad-set-joystick-twin-stick-and-tate). Want a D-pad? See the [iPad D-Pad set](#ipad-d-pad-set).
 
 It has the same 22 colorways: 440 skins in 60 zips.
 
@@ -264,6 +265,7 @@ A Tate (vertical game) version for iPad. Like the iPhone Tate skins, it has a ta
 
 - 1, 2, 3 and 4 Button layouts. There is no Twin Stick version.
 - It has the same 22 colorways: 88 skins in 12 zips.
+- There is also an [iPad Tate D-Pad](#ipad-tate-d-pad), and left-handed versions in the [Left-Handed iPad set](#left-handed-ipad-set-joystick-twin-stick-and-tate).
 
 | Layout | Download these |
 |---|---|
@@ -280,7 +282,7 @@ Tested on an iPad mini 5th gen with Manic Emu 2.0.2
 
 A D-pad version of the iPad skins: the same layouts as the iPad set, with a D-pad in place of the joystick. **For iPad only**; on iPhone use the [D-Pad set](#d-pad-set-alternative-to-the-joystick).
 
-- Handheld, Tabletop and Full Screen styles, each in 1, 2, 3, 4, 5 and 6 Button layouts. There is no Twin Stick version, and it is right-handed only for now.
+- Handheld, Tabletop and Full Screen styles, each in 1, 2, 3, 4, 5 and 6 Button layouts. There is no Twin Stick version. Left-handed versions are in the [Left-Handed iPad D-Pad set](#left-handed-ipad-d-pad-set).
 - It has the same 22 colorways: 396 skins in 54 zips.
 - The D-pad has invisible extra touch area around it, so a sliding thumb doesn't lose its direction.
 
@@ -294,6 +296,81 @@ A D-pad version of the iPad skins: the same layouts as the iPad set, with a D-pa
 | **6 Button** | `iPad 6 Button Handheld D-Pad Zip` | `iPad 6 Button Tabletop D-Pad Zip` | `iPad 6 Button Full Screen D-Pad Zip` |
 
 Each name comes as `... - Part 1.zip` and `... - Part 2.zip` (10 colorways each), plus `... - Part 3.zip` (Soft Light and Blackout). Download them from the [v1.8 release](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.8).
+
+Tested on an iPad mini 5th gen with Manic Emu 2.0.2.
+
+### iPad Tate D-Pad
+
+A D-pad version of the [iPad Tate set](#ipad-tate-set), for fast-turn vertical games like Pac-Man and 1942. **For iPad only**; on iPhone use the [Tate D-Pad set](#tate-d-pad-set-iphone).
+
+- 1, 2, 3 and 4 Button layouts, 22 colorways each: 88 skins in 12 zips. No Twin Stick. A left-handed version is in the [Left-Handed iPad D-Pad set](#left-handed-ipad-d-pad-set).
+- The D-pad has invisible extra touch area around it, and the Load, Save, Start and FF row and the menu button sit away from the D-pad so they aren't hit by accident.
+
+| Layout | Download these |
+|---|---|
+| **1 Button** | `iPad Tate 1 Button D-Pad Zip` |
+| **2 Button** | `iPad Tate 2 Button D-Pad Zip` |
+| **3 Button** | `iPad Tate 3 Button D-Pad Zip` |
+| **4 Button** | `iPad Tate 4 Button D-Pad Zip` |
+
+Each name comes as `... - Part 1.zip` and `... - Part 2.zip` (10 colorways each), plus `... - Part 3.zip` (Soft Light and Blackout). Download them from the [v1.7 release](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.7), with the iPad Tate joystick set.
+
+Tested on an iPad mini 5th gen with Manic Emu 2.0.2.
+
+## Left-Handed iPad set (Joystick, Twin Stick and Tate)
+
+**For iPad only.** The iPad set mirrored for left-handed play: the stick is on the right and the buttons are on the left, with the same button mapping and 22 colorways. Button 1 is the one nearest the middle of the screen, so the buttons read 1, 2, 3 on the top row and 4, 5, 6 below, right to left. Load, Save, Start and FF keep their usual left-to-right order. Names include "Left-Handed", so they install next to the other sets.
+
+- Handheld, Tabletop and Full Screen styles, each in 1, 2, 3, 4, 5 and 6 Button layouts, plus Twin Stick and Twin Stick Full Screen, plus the Tate 1, 2, 3 and 4 Button layouts.
+- **Twin Stick:** the sticks are flipped. The movement stick is on the right and the fire stick is on the left.
+- 528 skins in 72 zips (396 in 54 for Handheld, Tabletop and Full Screen, 44 in 6 for Twin Stick, 88 in 12 for Tate). Download them from the [v1.10 release](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.10).
+- Want a D-pad? See the [Left-Handed iPad D-Pad set](#left-handed-ipad-d-pad-set).
+
+| Layout | Handheld | Tabletop | Full Screen |
+|---|---|---|---|
+| **1 Button** | `iPad 1 Button Handheld Left-Handed Zip` | `iPad 1 Button Tabletop Left-Handed Zip` | `iPad 1 Button Full Screen Left-Handed Zip` |
+| **2 Button** | `iPad 2 Button Handheld Left-Handed Zip` | `iPad 2 Button Tabletop Left-Handed Zip` | `iPad 2 Button Full Screen Left-Handed Zip` |
+| **3 Button** | `iPad 3 Button Handheld Left-Handed Zip` | `iPad 3 Button Tabletop Left-Handed Zip` | `iPad 3 Button Full Screen Left-Handed Zip` |
+| **4 Button** | `iPad 4 Button Handheld Left-Handed Zip` | `iPad 4 Button Tabletop Left-Handed Zip` | `iPad 4 Button Full Screen Left-Handed Zip` |
+| **5 Button** | `iPad 5 Button Handheld Left-Handed Zip` | `iPad 5 Button Tabletop Left-Handed Zip` | `iPad 5 Button Full Screen Left-Handed Zip` |
+| **6 Button** | `iPad 6 Button Handheld Left-Handed Zip` | `iPad 6 Button Tabletop Left-Handed Zip` | `iPad 6 Button Full Screen Left-Handed Zip` |
+| **Twin Stick** | `iPad Twin Stick Left-Handed Zip` (Handheld and Tabletop) | | `iPad Twin Stick Full Screen Left-Handed Zip` |
+
+| Tate layout | Download these |
+|---|---|
+| **1 Button** | `iPad Tate 1 Button Left-Handed Zip` |
+| **2 Button** | `iPad Tate 2 Button Left-Handed Zip` |
+| **3 Button** | `iPad Tate 3 Button Left-Handed Zip` |
+| **4 Button** | `iPad Tate 4 Button Left-Handed Zip` |
+
+Each name comes as `... - Part 1.zip` and `... - Part 2.zip` (10 colorways each), plus `... - Part 3.zip` (Soft Light and Blackout).
+
+Tested on an iPad mini 5th gen with Manic Emu 2.0.2.
+
+## Left-Handed iPad D-Pad set
+
+**For iPad only.** The [iPad D-Pad set](#ipad-d-pad-set) and [iPad Tate D-Pad](#ipad-tate-d-pad) mirrored for left-handed play: the D-pad is on the right and the buttons are on the left, with the same button mapping and 22 colorways. Every skin includes the invisible overshoot arms.
+
+- Handheld, Tabletop and Full Screen styles, each in 1, 2, 3, 4, 5 and 6 Button layouts, plus the Tate 1, 2, 3 and 4 Button layouts. No Twin Stick.
+- 484 skins in 66 zips (396 in 54 for Handheld, Tabletop and Full Screen, 88 in 12 for Tate). Download them from the [v1.11 release](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.11).
+
+| Layout | Handheld | Tabletop | Full Screen |
+|---|---|---|---|
+| **1 Button** | `iPad 1 Button Handheld D-Pad Left-Handed Zip` | `iPad 1 Button Tabletop D-Pad Left-Handed Zip` | `iPad 1 Button Full Screen D-Pad Left-Handed Zip` |
+| **2 Button** | `iPad 2 Button Handheld D-Pad Left-Handed Zip` | `iPad 2 Button Tabletop D-Pad Left-Handed Zip` | `iPad 2 Button Full Screen D-Pad Left-Handed Zip` |
+| **3 Button** | `iPad 3 Button Handheld D-Pad Left-Handed Zip` | `iPad 3 Button Tabletop D-Pad Left-Handed Zip` | `iPad 3 Button Full Screen D-Pad Left-Handed Zip` |
+| **4 Button** | `iPad 4 Button Handheld D-Pad Left-Handed Zip` | `iPad 4 Button Tabletop D-Pad Left-Handed Zip` | `iPad 4 Button Full Screen D-Pad Left-Handed Zip` |
+| **5 Button** | `iPad 5 Button Handheld D-Pad Left-Handed Zip` | `iPad 5 Button Tabletop D-Pad Left-Handed Zip` | `iPad 5 Button Full Screen D-Pad Left-Handed Zip` |
+| **6 Button** | `iPad 6 Button Handheld D-Pad Left-Handed Zip` | `iPad 6 Button Tabletop D-Pad Left-Handed Zip` | `iPad 6 Button Full Screen D-Pad Left-Handed Zip` |
+
+| Tate layout | Download these |
+|---|---|
+| **1 Button** | `iPad Tate 1 Button D-Pad Left-Handed Zip` |
+| **2 Button** | `iPad Tate 2 Button D-Pad Left-Handed Zip` |
+| **3 Button** | `iPad Tate 3 Button D-Pad Left-Handed Zip` |
+| **4 Button** | `iPad Tate 4 Button D-Pad Left-Handed Zip` |
+
+Each name comes as `... - Part 1.zip` and `... - Part 2.zip` (10 colorways each), plus `... - Part 3.zip` (Soft Light and Blackout).
 
 Tested on an iPad mini 5th gen with Manic Emu 2.0.2.
 
@@ -342,7 +419,7 @@ A D-pad version of the Tate (vertical) skins, built for games where fast turns m
 **What's included**
 - Tate 1, 2, 3 and 4 Button, each in 22 colorways (88 skins)
 - 12 zips: "Tate N Button D-Pad Zip - Part 1 / 2 / 3". Parts 1 and 2 hold the colorways, and Part 3 holds Soft Light and Blackout.
-- iPhone only. No Twin Stick or iPad versions of these yet. A left-handed version is in the [Left-Handed D-Pad set](#left-handed-d-pad-set-iphone).
+- iPhone only; no Twin Stick. For iPad see the [iPad Tate D-Pad](#ipad-tate-d-pad). A left-handed version is in the [Left-Handed D-Pad set](#left-handed-d-pad-set-iphone).
 
 8-way D-pad: diagonals work, so it handles fast turns and diagonal movement smoothly.
 
@@ -371,6 +448,7 @@ It covers the **Original (notch)** style (Pro and Full Screen), the **Dynamic Is
 | **6 Button** | `6-Button D-Pad Pro ...` / `... Full Screen ...` | `6-Button D-Pad Dynamic Island Left-Handed Zip` / `... Full Screen Left-Handed Zip` | not available |
 
 Each name comes as `... - Part 1.zip` and `... - Part 2.zip` (10 colorways each), plus `... - Part 3.zip` (Soft Light and Blackout). For left-handed Pac-Man style games with no buttons, see Tate D-Pad Only in the [Extras](#extras) section.
+
 ## Extras
 
 Special-purpose skins and extra styles that don't belong to the main sets. They're in the [Extras release](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/extras).
@@ -382,12 +460,14 @@ Combos differ from game to game, so skins made for a specific game are named aft
 
 
 ### Tekken 3 - Rival Schools Combo
-- Labeled "4-Button (D-Pad) Tekken-Rival combo"
-- tekken 3 (1+2) is grab for all characters, and (3+4) varies between characters some will have a extra move others will use the same basic attack
--  In rival schools (1+2) is the special move and (3+4_ is dodge for all characters
-- other games that use 4 button inputs may also gain extra moves with the combo buttons like Kabuki Klash and Waku Waku 7 some characters gain extra moves.
-- Colorways: Combo Gold, Combo Neon, Combo Ember. 12 skins in 4 zips
-- It comes in Joystick and D-Pad
+
+4-Button Tekken-Rival Combo skins for Manic EMU 2.0.2 and newer, in Dynamic Island and Dynamic Island Full Screen, as Joystick and D-Pad. Two combo buttons sit next to the four normal ones: **1+2** (top right) and **3+4** (bottom right).
+
+- **Tekken 3:** 1+2 is the grab for every character. 3+4 varies by character: a dodge, an extra attack, or nothing.
+- **Rival Schools:** 1+2 is the special attack and 3+4 is the dodge, the same for every character.
+- **Other four-button games** may gain extra moves from the combo buttons too. In Waku Waku 7 and Kabuki Klash some characters get extra character-specific moves.
+- Colorways: Combo Gold, Combo Neon, Combo Ember. 12 skins in 4 zips (Joystick and D-Pad, each in Dynamic Island and Dynamic Island Full Screen).
+- Updated for 2.0.2: if you installed an earlier copy of the joystick combo skins, delete it before adding these.
 
 
 **Want a combo skin for a game that isn't listed?** [Open a combo request](../../issues/new?template=combo-request.md) with the game name and the combos you need.
@@ -407,14 +487,14 @@ Tested on iPhone XR with Manic EMU 2.0.1 and 2.0.2.
 
 A second twin-stick style with the sticks side by side instead of staggered. The original staggered set is unchanged.
 
-- 176 skins in 24 zips, 8 layouts, 22 colorways each.
-- Layouts: Pro, Full Screen, Dynamic Island and Dynamic Island Full Screen, plus Tate. Dynamic Island, Dynamic Island Full Screen and Tate also come in Left-Handed versions.
+- 220 skins in 30 zips, 10 layouts, 22 colorways each.
+- Layouts: Pro, Full Screen, Dynamic Island and Dynamic Island Full Screen, plus Tate. All five also come in Left-Handed versions.
 - Left-handed versions swap the sticks and buttons, with Start then FF and Load then Save across the top.
 
 | Layout | Download these |
 |---|---|
-| **Pro** | `Twin Stick Balanced Pro Zip` |
-| **Full Screen** | `Twin Stick Balanced Full Screen Zip` |
+| **Pro** | `Twin Stick Balanced Pro Zip` / `... Left-Handed Zip` |
+| **Full Screen** | `Twin Stick Balanced Full Screen Zip` / `... Left-Handed Zip` |
 | **Dynamic Island** | `Twin Stick Balanced Dynamic Island Zip` / `... Left-Handed Zip` |
 | **Dynamic Island Full Screen** | `Twin Stick Balanced Dynamic Island Full Screen Zip` / `... Left-Handed Zip` |
 | **Tate** | `Tate Twin Stick Balanced Zip` / `Tate Twin Stick Balanced Left-Handed Zip` |
@@ -471,7 +551,7 @@ Each `.manicskin` is a zip containing `info.json`, PNG art and PDF button images
 - `translucent`: `true` for Full Screen landscape, where buttons are drawn over the game
 - D-pad items (D-Pad set) use an `inputs` object instead of a list: `{"up": "up", "down": "down", "left": "left", "right": "right"}`, with `asset.normal` pointing to the D-pad image (`dpad.pdf`)
 
-There is also a [tools](tools) folder that has 2 stripped down versions of my skin checkers that you can use on your collections
+There is also a [tools](tools) folder with a skin checker (`check_skin.py`), a contact-sheet drawing tool (`contact_sheet.py`) and format notes. They are MIT licensed and you can use them on your own collections.
 
 ## License
 
