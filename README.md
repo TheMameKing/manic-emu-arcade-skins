@@ -2,7 +2,7 @@
 
 Quick heads-up on the page layout and the 2.0.2 change:
 
-- Using Manic EMU 2.0.2 or newer? Use the regular releases [v1.0 to v1.9](https://github.com/TheMameKing/manic-emu-arcade-skins/releases?page=2), the ones without “Legacy” in the name.
+- Using Manic EMU 2.0.2 or newer? Use the regular releases [v1.0 to v1.11](https://github.com/TheMameKing/manic-emu-arcade-skins/releases?page=2), the ones without “Legacy” in the name.
 - Using Manic EMU 2.0.1 or earlier (for example a sideloaded copy)? Use the Legacy releases. They’re the old sets, unchanged.
 - What changed: only the button numbering. Manic 2.0.2 changed the button inputs, so I patched every set to match. In the updated sets the buttons now read 1, 2, 3 on the top row and 4, 5, 6 below, left to right (right to left on the left-handed sets). The Legacy sets use the old numbering, which is laid out differently and can vary by game. Using the wrong set for your version gives scrambled inputs
 - Tekken-Rival Fix is retired. With the new numbering, the regular 4 Button works for Tekken and Rival Schools in my testing. The old Tekken-Rival Fix skins are still in the Legacy releases for 2.0.1.
@@ -26,6 +26,8 @@ Quick heads-up on the page layout and the 2.0.2 change:
 | **iPad Tate (Joystick)** | [v1.7](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.7) | N/A |
 | **iPad D-Pad** | [v1.8](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.8) | N/A | 
 | **Left-Handed Notch (D-Pad & Joystick)** | [v1.9](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.9) | N/A |
+| **Left-Handed iPad (Joystick & Tate)** | [v1.10](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.10) | N/A |
+| **Left-Handed iPad D-Pad & Tate D-Pad)** | [v1.11](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.11) | N/A |
 
 Original-art controller skins for **MAME / arcade** games in Manic EMU. 14 layouts, 22 colorways each: **308 skins in 42 zip files**. There is also a separate **Dynamic Island set** for iPhone 14 Pro and later, a **Tate set** for vertical games, a **Left-Handed set** that mirrors the Dynamic Island and Tate layouts, and an **iPad set** (with an **iPad Tate set** for vertical games and a iPad D-Pad Set), a **D-Pad set** (including a Tate D-Pad set and a Left-Handed D-Pad set), and **Starter Packs** with one zip per set (see below).
 
