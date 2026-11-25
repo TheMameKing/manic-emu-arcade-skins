@@ -8,6 +8,7 @@ Quick heads-up on the page layout and the 2.0.2 change:
 - Tekken-Rival Fix is retired. With the new numbering, the regular 4 Button works for Tekken and Rival Schools in my testing. The old Tekken-Rival Fix skins are still in the Legacy releases for 2.0.1.
 - Twin Stick skins work on both versions. In my testing they play the same, and the Legacy copies are identical.
 - iPad skins: All iPad sets work on both Manic EMU versions, with one exception: the iPad Street Fighter set uses a special button order and is only compatible with the Legacy mapping. iPad users should use the regular releases for all other layouts.
+- The device matrix is complete — every planned layout and device combination is finished. Going forward I’ll mainly be, cleaning up my pages, fine-tuning existing skins where needed and working on dedicated **combo skins** (mapping 2–3 buttons to a single input so special attacks are easier on touchscreens) Feedback and combo requests are welcome — just open an issue and tell me the game + the button combinations you want.
 - Use the table below to find the correct downloads for your version of Manic EMU
 
  **[⬇ Download the skins from the table below ⬇]**
