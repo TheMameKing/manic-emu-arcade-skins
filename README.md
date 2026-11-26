@@ -542,6 +542,19 @@ Plain (No Glow), Noir Mono, Synthwave Sunset, Rose Gold, Royal Blue, Vaporwave, 
 
 - 6 Button: Shadow Force 6 button is not confirmed, I can’t find a US version to test. 3 button works with world and Japan version
 
+## Game-specific notes
+
+Things found while play-testing. Games can behave differently from what you'd expect, so these are worth knowing before you pick a skin. Most of these are limits of the emulator, not the skins.
+
+### Racing
+- **Steering feel:** In Pole Position (World) the D-Pad steers slower and steadier, while the Joystick turns faster and sharper. Try both. Needs more testing in other racing games.
+- **Chase H.Q.:** Left stick steers, B is gas, A is brake, Y is turbo and X is shift. Use a 4-Button skin.
+- **WEC Le Mans 24:** Left stick steers, B is gas, A is brake and Y is shift.
+- **Hard Drivin':** Not playable on any skin. The shifter and the steering both use the left stick, and you have to hold the shifter in gear to drive. With the D-Pad you stay locked in 2nd gear.
+
+### Known limits
+- **Twin-stick games that also need buttons (Vindicators, Sarge, Lost Tomb):** The emulator ties the face buttons to the right stick, so every button press also moves the stick. There's no skin fix for this, which is why there are no twin-stick skins with buttons.
+
 ## For skin makers
 
 Each `.manicskin` is a zip containing `info.json`, PNG art and PDF button images. The layout lives in `info.json` under `representations.iphone.edgeToEdge.{portrait, landscape}` (iPad skins use `representations.ipad.standard.{portrait, landscape}`):
