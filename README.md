@@ -550,7 +550,7 @@ Things found while play-testing. Games can behave differently from what you'd ex
 - **Steering feel:** In Pole Position (World) the D-Pad steers slower and steadier, while the Joystick turns faster and sharper. Try both. Needs more testing in other racing games.
 - **Chase H.Q.:** Left stick steers, B is gas, A is brake, Y is turbo and X is shift. Use a 4-Button skin.
 - **WEC Le Mans 24:** Left stick steers, B is gas, A is brake and Y is shift.
-- **Hard Drivin':** Not playable on any skin. The shifter and the steering both use the left stick, and you have to hold the shifter in gear to drive. With the D-Pad you stay locked in 2nd gear.
+- **Hard Drivin':** Not playable on any skin with the manual shift setting, use automatic setting. The shifter and the steering both use the left stick, and you have to hold the shifter in gear to drive. With the D-Pad you stay locked in 2nd gear. Needs more testing in other racing games that don't use the toggle shift option like Chase H.Q. and WEC Le Mans 24 do.
 
 ### Known limits
 - **Twin-stick games that also need buttons (Vindicators, Sarge, Lost Tomb):** The emulator ties the face buttons to the right stick, so every button press also moves the stick. There's no skin fix for this, which is why there are no twin-stick skins with buttons.
