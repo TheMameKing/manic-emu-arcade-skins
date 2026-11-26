@@ -567,6 +567,35 @@ Each `.manicskin` is a zip containing `info.json`, PNG art and PDF button images
 
 There is also a [tools](tools) folder with a skin checker (`check_skin.py`), a contact-sheet drawing tool (`contact_sheet.py`) and format notes. They are MIT licensed and you can use them on your own collections.
 
+## Pre-Release Verification
+
+Every release including the Legacy ones goes through automated verification designed to catch structural, naming, positioning, and consistency issues before skins are published.
+
+**Pre-Release Quality Assurance & Automated Verification:**
+
+- **Colourway completeness:** Exactly 22 colourways required per layout, with no missing or unexpected extras.
+- **Identifier validation:** Strict identifier formatting and common family-prefix checks across colourways.
+- **Duplicate detection:** Prevents duplicate names or identifiers that could cause files to overwrite one another.
+- **Handedness validation:** Ensures joystick/D-pad placement and action button positioning follow the intended handedness.
+- **System control validation:** Checks required system controls and pill ordering (Start → FF, Load → Save).
+- **Touch area collision detection:** Detects overlapping touch areas, with intentional button-to-button exceptions.
+- **Canvas boundary checks:** Flags controls extending outside the canvas, allowing only a narrow tolerance for harmless overspill.
+- **Tate aspect ratio enforcement:** Ensures Tate layouts maintain the required aspect ratio.
+- **Layout configuration checks:** Verifies the correct number of joysticks, D-pads, and action buttons for each layout type.
+- **Optional palette verification:** Compares measured background colours against reference palette values.
+- **Cross-skin consistency:** Checks colourway slug consistency across layouts and prevents different layouts from sharing identifier families.
+- Release ZIP integrity and corruption checks
+- Internal .manicskin archive readability and metadata validation
+- Required asset and control-file existence checks
+- Image dimensions verified against mapping specifications
+- Required system input completeness
+- Dedicated D-pad and twin-stick configuration validation
+- D-pad Only restrictions
+- Legacy identifier compatibility protection
+- Unexpected files and archive contents detection
+
+Automated verification is followed by visual contact-sheet inspection and hands-on testing of representative layouts before release.
+
 ## License
 
 Made by **TheMameKing** and released under **CC BY 4.0** (see [LICENSE](LICENSE)). You can share and adapt the skins, including commercially, as long as you give credit.
