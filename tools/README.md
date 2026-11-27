@@ -16,7 +16,7 @@ If you try and run these on folders with spaces and  `manicskins` with spaces in
 
 So my suggestion is if you want to make it easy and not rename the skin , just put it in a new folder or any folder in general then scan that folder with the .py since it'll scan every `manicskin` in the folder named in the cmd. You can also just put the scripts on here in the same folder as the manicskin/folder-holding-the-manic-skin or a copy of the skin if your worried and run the script with `.` in the cmd where the zip/folder name goes. like this `python contact_sheet.py . --colours all` 
 
-It can also run `.deltaskins`, All you have to do is change the extension of the `.deltaskin` to `.manicskin` and run the contact sheet with the manic extension like above. then change the extension back to `deltaskin` since `manicskin` is a extension of deltas.
+It can also run `.deltaskins`, All you have to do is change the extension of the `.deltaskin` to `.manicskin` and run the contact sheet with the manic extension like above and below. then change the extension back to `deltaskin` since `manicskin` is a extension of deltas.
 
 ```
 python check_skin.py my_skins_folder
