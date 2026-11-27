@@ -594,7 +594,7 @@ Every release including the Legacy ones goes through automated verification desi
 - Legacy identifier compatibility protection
 - Unexpected files and archive contents detection
 
-Automated verification is followed by visual contact-sheet inspection and hands-on testing of representative layouts before release.
+Automated verification is followed by visual contact-sheet inspection and hands-on testing of representative layouts before release. There is a version of my scripts you can use in the tools section with my build specific checks in it taken out so it doesn't throw errors on your skins. You can also check .deltaskins with it by changing the extension of the .deltaskin to .manicskin since they are built on the same architecture then change it back.
 
 ## License
 
