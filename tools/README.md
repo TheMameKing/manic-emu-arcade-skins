@@ -1,6 +1,6 @@
 # Skin tools
 
-Two small helper scripts for people making Manic EMU controller skins with `.manicskin` and  partial `.deltaskin` support at the moment. I decided to branch out the scripts to support `deltaskins` but it is still early in the v2 of the script, give me a-little time to broaden `.deltaskin` support since I've only done `manicskin` research and this script is a stripped down version of one of my scripts, that way it’s compatible with more than my set and mame specific rules, so I’m trying to extend its usability. Give me a day or 2 to make it more compatible and catch edge case manicskins as well, I’m testing it on a variety of skins from a variety of people seeing where the scripts fall short and adjusting them. They only read your skins and never change them.
+Two small helper scripts for people making Manic EMU controller skins with `.manicskin` and `.deltaskin`. 
 
 | File | What it does |
 |---|---|
