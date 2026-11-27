@@ -36,7 +36,7 @@ python contact_sheet_easy.py
 
 ```
 
-Run either with `--help` for all options. For a mixed folder (different layouts and colours), add `--compact` to `contact_sheet.py` to leave out empty slots. 
+Run either with `--help` for all options. For a mixed folder (different layouts and colours), add `--compact` to `contact_sheet_easy.py` to leave out empty slots. 
 
 Another tip if you want a higher resolution use the `--width `setting, the higher the number, the higher the resolution. examples below.
 
