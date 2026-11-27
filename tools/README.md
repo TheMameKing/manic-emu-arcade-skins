@@ -23,6 +23,16 @@ python contact_sheet_easy.py .
 
 Run either with `--help` for all options. For a mixed folder (different layouts and colours), add `--compact` to `contact_sheet.py` to leave out empty slots. 
 
+Another tip if you want a higher resolution use the --width setting the higher the number the higher the resolution. examples below.
+
+`python contact_sheet.py skin_folder --colours all --width 900 --rows 2` (this will give you a higher resolution than say `--width 300`) 
+
+`python contact_sheet.py skin_folder --colours "your color (in the json)" --compact` (use `--compact` if you have a variety of skins with different button counts and down want to see empty slots if you are looking at like a variety pack set of skins
+
+`python contact_sheet.py skin_folder --colours all  --rows 200` (you can change the amount of rows there are in each sheet, so if you want to scan a large collection you can scan 200 on one sheet, idk the limit but i've done 224 on a sheet. Expect it to take a little bit with a giant collection. single and small sheets are near instant.
+
+You can also open either of the scripts notepad or similar where most of this is all mentioned `check_skin.py`, `contact_sheet_easy.py` and `contact_sheet.py` and there are examples and options listed to make it easier to use.
+
 These tools are generic. They do not know the naming, colour or button-count rules of any particular collection.
 
 ## Preview
