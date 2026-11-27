@@ -135,6 +135,12 @@ You can give it a folder, a zip, or a single skin file.
 
 Tip: if a colour name isn't found, the script lists the colour names it did find.
 
+## Good to know
+
+- These tools are generic. They show and check any skin without enforcing a particular naming scheme, colourway list or button count.
+- They only read your files. Your originals are never modified.
+- You can open either script in a text editor to see its options and notes.
+
 ---
 
 ## Examples
@@ -181,12 +187,6 @@ One large sheet split into six for easier viewing.
 </details>
 
 ---
-
-## Good to know
-
-- These tools are generic. They show and check any skin without enforcing a particular naming scheme, colourway list or button count.
-- They only read your files. Your originals are never modified.
-- You can open either script in a text editor to see its options and notes.
 
 ## License
 
