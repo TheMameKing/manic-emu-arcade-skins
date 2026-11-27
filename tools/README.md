@@ -16,7 +16,7 @@ Both need Python 3 and Pillow (`pip install pillow`). `contact_sheet_easy.py` dr
 | cmd | what it does|
 |---|---|
   | --colours "all" |   which colourways to draw (default: all; names as in the skin file names) |
-  | --orient both/landscape/portrait |  default both |
+  | --orient both/landscape/portrait |  default both, shows the orientation |
   | --rows 4 |                          layouts per picture (default 4); more layouts = more pictures |
   | --width 400 |                       width in pixels of each landscape tile (default 400); every tile is fitted in a box, so iPad skins are no longer cut off |
   | --out contact_sheets |              folder for the pictures (created if missing) |
