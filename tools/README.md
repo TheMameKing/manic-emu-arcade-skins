@@ -1,6 +1,6 @@
 # Skin tools
 
-Two small helper scripts for people making Manic EMU controller skins with `.manicskin` and `.deltaskin`. 
+Two small helper scripts for people making Manic EMU controller skins with `.manicskin` and `.deltaskin`. At the moment only `contact_sheet_easy.py` supports both `delta` and `manic` files. I'm adding support for the `check_skin.py` to read all of deltas skins as well. 
 
 | File | What it does |
 |---|---|
