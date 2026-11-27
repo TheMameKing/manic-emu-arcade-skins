@@ -31,7 +31,7 @@ Another tip if you want a higher resolution use the --width setting the higher t
 
 `python contact_sheet.py skin_folder --colours all  --rows 200` (you can change the amount of rows there are in each sheet, so if you want to scan a large collection you can scan 200 on one sheet, idk the limit but i've done 224 on a sheet. Expect it to take a little bit with a giant collection. single and small sheets are near instant.
 
-You can also open either of the scripts notepad or similar where most of this is all mentioned `check_skin.py`, `contact_sheet_easy.py` and `contact_sheet.py` and there are examples and options listed to make it easier to use.
+You can also open either of the scripts in notepad or similar app to see these options and more, and the list of errors and warnings for `check_skin.py` are in its script, these are here to make it easier to use. 
 
 These tools are generic. They do not know the naming, colour or button-count rules of any particular collection.
 
