@@ -1,6 +1,6 @@
 # Skin tools
 
-Two small helper scripts for people making Manic EMU controller skins with `.manicskin` and `.deltaskin`. They only read your skins and never change them.
+Two small helper scripts for people making Manic EMU controller skins with `.manicskin` and  partial `.deltaskin` support at the moment. I decided to branch out the scripts to support `deltaskins` but it is still early in the v2 of the script, give me a-little time to broaden `.deltaskin` support since I've only done `manicskin` research. They only read your skins and never change them.
 
 | File | What it does |
 |---|---|
@@ -13,7 +13,7 @@ Both need Python 3 and Pillow (`pip install pillow`). `contact_sheet_easy.py` dr
 
 ## Important tips for easy use
 
-`.deltaskin` support is being improved upon still. i haven't tested it on enough deltaskin files to catch all edge cases but that's what I'm working on. So if the `contact_sheet_easy` renders a asset as a outline in the sheet it prints open a issue and send me the systems name or if the `check_skin` throws a unknow screen type/button warning. It's read only so it only makes a render of the skin in a separate folder so don't be afraid to try, I've ran it across 1,000s of `manicskin` but a smaller amount of `deltaskins` so far, same with Check_skin all it does is read the skin and checks it.
+`.deltaskin` support is being improved upon still. i haven't tested it on enough deltaskin files to catch all edge cases but that's what I'm working on. So if the `contact_sheet_easy` renders a asset as a outline in the sheet it prints open a issue and send me the systems name or if the `check_skin` throws a unknow screen type/button warning. It's read only so it only makes a render of the skin in a separate folder so don't be afraid to try, I've ran it across 1,000s of `manicskin` but only a handful of `deltaskins` so far, same with Check_skin all it does is read the skin and checks it.
 
 If you try and run these on a specific folder or `.manicskin | .deltaskin` loose file with spaces in the name it will fail to find the skin, they look for folder names as one word and its case sensitive. So if you try and run  `python contact_sheet_easy.py My skin folder --colours "Nightfall Purple"` it will fail to find it because of the space in the folder name or the `.manicskin | .deltaskin`. It needs to read like this or similar `python contact_sheet_easy.py My_skin_folder --colours "Nightfall Purple" ` and the folder itself needs to be named like that, it can be any name you like but it needs -_. something besides spaces, and it has to match the capitalization so if your folder is `My_Skin_Folder` you have to put that and not `my_skin_folder`. All these rules apply to the `.manicskin | .deltaskin` by itself also if you would rather check individual skins and not a folder, just put `My_purple_skin.manicskin` and not just `My_purple_skin`.
 
