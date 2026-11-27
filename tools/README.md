@@ -35,7 +35,7 @@ python contact_sheet_easy.py my_skins
 
 On Mac and Linux, use `python3` instead of `python`.
 
-The contact sheet pictures appear in a new `contact_sheets` folder next to the script.
+The contact sheet pictures appear in a new `contact_sheets` folder from where you ran the command from
 
 ---
 
