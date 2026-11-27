@@ -13,21 +13,22 @@ Both need Python 3 and Pillow (`pip install pillow`). `contact_sheet_easy.py` dr
 
 ## Important tips for easy use
 
-`.deltaskin` support is being improved upon still. i haven't tested it on enough deltaskin files to catch all edge cases but that's what I'm working on. So if the `contact_sheet_easy` renders a asset black in the sheet it prints open a issue and send me the systems name or if the `check_skin` throws a unknow screen type/button warning. It's read only so it only makes a render of the skin in a separate folder so don't be afraid to try, I've ran it across 1,000s of skins, same with Check_skin all it does is read the skin and checks it.
+`.deltaskin` support is being improved upon still. i haven't tested it on enough deltaskin files to catch all edge cases but that's what I'm working on. So if the `contact_sheet_easy` renders a asset as a outline in the sheet it prints open a issue and send me the systems name or if the `check_skin` throws a unknow screen type/button warning. It's read only so it only makes a render of the skin in a separate folder so don't be afraid to try, I've ran it across 1,000s of `manicskin` but a smaller amount of `deltaskins` so far, same with Check_skin all it does is read the skin and checks it.
 
 If you try and run these on a specific folder or `.manicskin | .deltaskin` loose file with spaces in the name it will fail to find the skin, they look for folder names as one word and its case sensitive. So if you try and run  `python contact_sheet_easy.py My skin folder --colours "Nightfall Purple"` it will fail to find it because of the space in the folder name or the `.manicskin | .deltaskin`. It needs to read like this or similar `python contact_sheet_easy.py My_skin_folder --colours "Nightfall Purple" ` and the folder itself needs to be named like that, it can be any name you like but it needs -_. something besides spaces, and it has to match the capitalization so if your folder is `My_Skin_Folder` you have to put that and not `my_skin_folder`. All these rules apply to the `.manicskin | .deltaskin` by itself also if you would rather check individual skins and not a folder, just put `My_purple_skin.manicskin` and not just `My_purple_skin`.
 
-So my suggestion is if you want to make it easy and not rename the skin , just put it in a new folder or any folder in general then scan that folder with the .py since it'll scan every `.manicskin | .deltaskin` in the folder named in the cmd. You can also just put the scripts in the same folder as the manicskin/folder-holding-the-manic-skin or a copy of the skin if your worried (they are read-only and never change anything about the skin) and run the script with nothing after the .py in the cmd where the zip/folder/skin name would go if you wanted a specific skin. like this `python contact_sheet_easy.py` it also works on zipped skins, so if you have a zip full of skins it'll still read it.
+So my suggestion is if you want to make it easy and not rename the skin , just put it in a new folder or any folder in general then scan that folder with the .py since it'll scan every `.manicskin | .deltaskin` in the folder named in the cmd. You can also just put the scripts in the same folder as the `manicskin | folder-holding-the-manic-skin` or a copy of the skin if your worried (they are read-only and never change anything about the skin) and run the script with nothing after the `.py` in the cmd where the `zip/folder/skin` name would go if you wanted a specific skin. like this `python contact_sheet_easy.py` it also works on zipped skins, so if you have a zip full of skins it'll still read it.
 
 ```
 python check_skin.py my_skins_folder | .manicskin | .deltaskin
 python contact_sheet_easy.py my_skins_folder --colours "Blackout,Soft Light,Nightfall Purple"
 python contact_sheet_easy.py
+
 ```
 
 Run either with `--help` for all options. For a mixed folder (different layouts and colours), add `--compact` to `contact_sheet.py` to leave out empty slots. 
 
-Another tip if you want a higher resolution use the --width setting, the higher the number, the higher the resolution. examples below.
+Another tip if you want a higher resolution use the `--width `setting, the higher the number, the higher the resolution. examples below.
 
 `python contact_sheet_easy.py skin_folder --colours all --width 900 --rows 2` (this will give you a higher resolution than say `--width 300`) 
 
