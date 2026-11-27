@@ -1,6 +1,6 @@
 # Skin tools
 
-Two small helper scripts (and _easy that is set to default search for all skins) for people making Manic EMU controller skins with `.manicskin` and `.deltaskin`. They only read your skins and never change them.
+Two small helper scripts for people making Manic EMU controller skins with `.manicskin` and `.deltaskin`. They only read your skins and never change them.
 
 | File | What it does |
 |---|---|
