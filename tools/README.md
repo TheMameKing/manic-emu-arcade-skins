@@ -19,6 +19,8 @@ python contact_sheet_easy.py .
 
 Run either with `--help` for all options. For a mixed folder (different layouts and colours), add `--compact` to `contact_sheet.py` to leave out empty slots. 
 
+It can also run `.deltaskins`, All you have to do is change the extension of the `.deltaskin` to `.manicskin` and run the contact sheet with the manic extension like above. then change the extension back to `deltaskin` since `manicskin` is a extension of deltas.
+
 These tools are generic. They do not know the naming, colour or button-count rules of any particular collection.
 
 ## Preview
