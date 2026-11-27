@@ -31,7 +31,7 @@ Another tip if you want a higher resolution use the --width setting, the higher 
 
 `python contact_sheet_easy.py skin_folder --colours all --width 900 --rows 2` (this will give you a higher resolution than say `--width 300`) 
 
-`python contact_sheet_easy.py skin_folder --colours "your color (in the json)" --compact` (use `--compact` if you have a variety of skins with different button counts and don't want to see empty slots, use this if you are looking at like lets say a variety pack set of skins from a multi colorway family set.
+`python contact_sheet_easy.py skin_folder --colours "your color (ex. Nightfall Purple)" --compact` (use `--compact` if you have a variety of skins with different button counts and don't want to see empty slots, use this if you are looking at like lets say a variety pack set of skins from a multi colorway family set.
 
 `python contact_sheet_easy.py skin_folder --colours all  --rows 200` (you can change the amount of rows there are in each sheet, so if you want to scan a large collection you can scan 200 on one sheet, idk the limit but i've done 224 on a sheet. Expect it to take a little bit of time with a giant collection. single and small sheets are near instant.
 
