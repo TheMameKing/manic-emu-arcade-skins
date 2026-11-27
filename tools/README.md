@@ -94,7 +94,7 @@ Delta skins get the same structural checks, with these differences:
 - The background can be `large`, `medium`, `small` or `resizable`, as a PNG or PDF. Every listed file must exist.
 - Button and stick art can be PNG or PDF.
 - **Input names are not checked**, because every Delta console has its own set.
-- A layout with no screens is a warning, not an error.
+- A layout with no screens is a warning, not an error. a Manic layout has no screens
 - The background shape check is skipped for PDF backgrounds.
 
 It has not been tested against many real Delta skins yet. Treat a clean result as "no structural problems found", not a guarantee that the skin works. If it wrongly flags a good Delta skin, that is useful to know.
@@ -131,7 +131,7 @@ You can give it a folder, a zip, or a single skin file.
 | `--out FOLDER` | Where the pictures go. Created if missing. | `contact_sheets` |
 | `--mode` | `edgeToEdge` or `standard`. Which layout to draw when a skin has both. | `edgeToEdge` |
 | `--boxes` | Outlines every touch area and labels it with its input. Very useful for Delta skins, where the buttons are painted into the background. | off |
-| `--compact` | Leaves out empty slots, so each row shows only the colourways that exist for that layout. Turns on automatically when you use `--colours all`. | off |
+| `--compact` | Leaves out empty slots, so each row shows only the colourways that exist for that layout. Turns on automatically when you use `--colours all`. | On by default. Off when you name specific colours. |
 
 Tip: if a colour name isn't found, the script lists the colour names it did find.
 
