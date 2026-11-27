@@ -13,7 +13,17 @@ Both need Python 3 and Pillow (`pip install pillow`). `contact_sheet_easy.py` dr
 
 ## Important tips for easy use
 
-`.deltaskin` support is being improved upon still. i haven't tested it on enough deltaskin files to catch all edge cases but that's what I'm working on. So if the `contact_sheet_easy` renders a asset as a outline in the sheet it prints open a issue and send me the systems name or if the `check_skin` throws a unknow screen type/button warning. It's read only so it only makes a render of the skin in a separate folder so don't be afraid to try, I've ran it across 1,000s of `manicskin` but only a handful of `deltaskins` so far, same with Check_skin all it does is read the skin and checks it.
+| cmd | what it does|
+|---|---|
+  | --colours "all" |   which colourways to draw (default: all; names as in the skin file names) |
+  | --orient both/landscape/portrait |  default both |
+  | --rows 4 |                          layouts per picture (default 4); more layouts = more pictures |
+  | --width 400 |                       width in pixels of each landscape tile (default 400); every tile is fitted in a box, so iPad skins are no longer cut off |
+  | --out contact_sheets |              folder for the pictures (created if missing) |
+  | --mode edgeToEdge / standard |        which Delta/Manic layout to draw when a skin has both (default: edgeToEdge, else standard) |
+  | --boxes |                           outline every touch area and label it with its input (handy for Delta skins, whose buttons are painted into the background so there is no separate button artwork to draw) |
+ | --compact |                        (always on for a PATH with many colourways; shown for completeness) leave out 'missing' tiles: each row shows only the colourways that exist for that layout, |
+
 
 If you try and run these on a specific folder or `.manicskin | .deltaskin` loose file with spaces in the name it will fail to find the skin, they look for folder names as one word and its case sensitive. So if you try and run  `python contact_sheet_easy.py My skin folder --colours "Nightfall Purple"` it will fail to find it because of the space in the folder name or the `.manicskin | .deltaskin`. It needs to read like this or similar `python contact_sheet_easy.py My_skin_folder --colours "Nightfall Purple" ` and the folder itself needs to be named like that, it can be any name you like but it needs -_. something besides spaces, and it has to match the capitalization so if your folder is `My_Skin_Folder` you have to put that and not `my_skin_folder`. All these rules apply to the `.manicskin | .deltaskin` by itself also if you would rather check individual skins and not a folder, just put `My_purple_skin.manicskin` and not just `My_purple_skin`.
 
