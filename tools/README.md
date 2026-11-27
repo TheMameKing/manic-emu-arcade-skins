@@ -1,6 +1,10 @@
 # Skin tools
 
-Two small helper scripts for people making Manic EMU controller skins with `.manicskin` and `.deltaskin`. At the moment only `contact_sheet_easy.py` supports both `delta` and `manic` files. I'm adding support for the `check_skin.py` to read all of deltas skins as well. 
+A small collection of helper tools for people making Manic EMU controller skins. These tools support `.manicskin` and `.deltaskin` files, although support varies by tool.
+
+ These tools are **Read-only** and do not modify your original skins. They only read the files and generate reports or contact sheets.
+
+Currently, `contact_sheet_easy.py` supports both formats. I'm working on adding full `.deltaskin` support to `check_skin.py`
 
 | File | What it does |
 |---|---|
@@ -11,29 +15,35 @@ Two small helper scripts for people making Manic EMU controller skins with `.man
 
 Both need Python 3 and Pillow (`pip install pillow`). `contact_sheet_easy.py` draws the real button artwork if you also install PyMuPDF (`pip install pymupdf`); without it the artwork is drawn as outlines.
 
-## Important tips for easy use and info on how to run it
+## Usage and options
 
-| cmd | what it does|
+| option | what it does|
 |---|---|
-  | --colours "all" |   which colourways to draw (default: all; names as in the skin file names) |
-  | --orient both/landscape/portrait |  default both, shows the orientation |
-  | --rows 4 |                          layouts per picture (default 4); more layouts = more pictures |
-  | --width 400 |                       width in pixels of each landscape tile (default 400); every tile is fitted in a box, so iPad skins are no longer cut off |
-  | --out contact_sheets |              folder for the pictures (created if missing) |
-  | --mode edgeToEdge / standard |        which Delta/Manic layout to draw when a skin has both (default: edgeToEdge, else standard) |
-  | --boxes |                           outline every touch area and label it with its input (handy for Delta skins, whose buttons are painted into the background so there is no separate button artwork to draw) |
- | --compact |                        (always on for a PATH with many colourways; shown for completeness) leave out 'missing' tiles: each row shows only the colourways that exist for that layout, |
+  | --colours "all" |   Selects which colourways to draw. Defaults to all available colourways. |
+  | --orient both/landscape/portrait |  Selects which orientation to show. Defaults to both. |
+  | --rows 4 |                          Sets the number of layouts per picture. More rows can reduce the number of output pictures. |
+  | --width 400 |                       Sets the width of each landscape tile in pixels. Larger values produce higher-resolution pictures. |
+  | --out contact_sheets |              Sets the output folder. Created automatically if it doesn't exist. |
+  | --mode edgeToEdge / standard |      Selects which layout to draw when both are available. Defaults to edge-to-edge, otherwise standard. |
+  | --boxes |                           Outlines touch areas and labels them with their inputs. Particularly useful for Delta skins. |
+ | --compact |                        Leaves out missing layouts so each row only shows colourways that exist for that layout. |
 
 Examples and explanations.
 | cmd | why |
 |--|---|
-| python contact_sheet_easy.py My Skin folder --boxes |   ← doesn't work because My Skin folder is not in quotes "" |
-| python contact_sheet_easy.py "My Skin folder" --boxes | ← This way works because of the quotes. |
+| python contact_sheet_easy.py "My Skin folder" --boxes |  ← This way works because of the quotes. |
+| python contact_sheet_easy.py My Skin folder --boxes |   ← wrong, explained below this table | 
 | python contact_sheet_easy.py My_Skin_folder --boxes | ← this way works without quotes if your folder has _.- instead of spaces |
 
 ----
+ If a folder name contains spaces, put the entire folder name inside quotation marks. If it doesn't contain spaces, quotation marks aren't necessary.
 
-So my suggestion is if you want to make it easy, just put it in a new folder or any folder in general then scan that folder with the .py since it'll scan every `.manicskin | .deltaskin` in the folder you named in the cmd. You can also just put the scripts in the same folder as the `manicskin | folder-holding-the-manic-skin` or a copy of the skin if your worried (they are read-only and never change anything about the skin) and run the script with nothing after the `.py` in the cmd where the `zip/folder/skin` name would go if you wanted a specific skin. like this `python contact_sheet_easy.py` it also works on zipped skins, so if you have a zip full of skins it'll still read it.
+Easy method — scan a folder: Put the skins you want to check into a folder, then run the script and give it that folder's name. It will scan the folder for supported skin files. 
+
+You can also point the script directly at an individual `.manicskin` file or a supported skin folder.
+
+Run without specifying a path: If you put the script in the same folder as the skins you want to scan, you can run it without adding a path: `python contact_sheet_easy.py` The script will use its default location.
+
 
 ```
 python check_skin.py folder_name
@@ -48,15 +58,18 @@ Run either with `--help` for all options. For a mixed folder (different layouts 
 
 Another tip if you want a higher resolution use the `--width `setting, the higher the number, the higher the resolution. examples below.
 
-`python contact_sheet_easy.py skin_folder --colours all --width 900 --rows 2` (this will give you a higher resolution than say `--width 300`) 
+Higher-resolution contact sheets
+`python contact_sheet_easy.py skin_folder --colours all --width 900 --rows 2` Increase `--width` to produce larger, higher-resolution layout images. For example, `--width 900` produces wider tiles than `--width 300`.
 
-`python contact_sheet_easy.py skin_folder --colours "your color (ex. Nightfall Purple)" --compact` (use `--compact` if you have a variety of skins with different button counts and don't want to see empty slots, use this if you are looking at like lets say a variety pack set of skins from a multi colorway family set.
+Mixed collections
+`python contact_sheet_easy.py skin_folder --colours "your color (ex. Nightfall Purple)" --compact` (use `--compact` when scanning collections with different layouts, button counts, or colourways. It removes empty slots so the results are easier to compare.
 
-`python contact_sheet_easy.py skin_folder --colours all  --rows 200` (you can change the amount of rows there are in each sheet, so if you want to scan a large collection you can scan 200 on one sheet, idk the limit but i've done 224 on a sheet. Expect it to take a little bit of time with a giant collection. single and small sheets are near instant.
+Large collections
+`python contact_sheet_easy.py skin_folder --colours all  --rows 200` Increase `--rows` to fit more layouts into each contact sheet. I've successfully generated sheets containing 224 layouts, although larger collections may take longer to process.
 
-You can also open either of the scripts in notepad or similar app to see these options and more, and the list of errors and warnings for `check_skin.py` are in its script, these are here to make it easier to use. 
+You can also open either Python script in Notepad or another text editor to see the available options and additional information. The full list of errors and warnings reported by check_skin.py is documented inside the script.
 
-These tools are generic. They do not know the naming, colour or button-count rules of any particular collection.
+**These tools are generic**. They check and display skin files without enforcing the naming conventions, colourway requirements, or button-count rules of any particular skin collection.. They are **Read Only** and do not modify or change the skins
 
 ## Preview
 Running `contact_sheet.py` over a folder of skins writes numbered pictures to `contact_sheets/`:
