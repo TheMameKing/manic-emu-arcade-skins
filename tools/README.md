@@ -1,6 +1,6 @@
 # Skin Tools
 
-Two small helper scripts for people making Manic EMU controller skins. Both work with `.manicskin` and `.deltaskin` files. Delta support in `check_skin.py` is basic for now (see below).
+Two small helper scripts for people making Manic EMU controller skins. Both work with `.manicskin` and `.deltaskin` files. `Deltaskin` support in `check_skin.py` is basic for now (see below). (will be expanding `deltaskin` support)
 
 Both tools are **read-only**. They never change your skins; they only read them and print a report or draw pictures.
 
