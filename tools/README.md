@@ -11,7 +11,7 @@ Two small helper scripts for people making Manic EMU controller skins with `.man
 
 Both need Python 3 and Pillow (`pip install pillow`). `contact_sheet_easy.py` draws the real button artwork if you also install PyMuPDF (`pip install pymupdf`); without it the artwork is drawn as outlines.
 
-## Important tips for easy use
+## Important tips for easy use and info on how to run it
 
 | cmd | what it does|
 |---|---|
