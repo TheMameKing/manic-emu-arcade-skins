@@ -1,12 +1,11 @@
 # Skin Tools
 
-Two small helper scripts for people making Manic EMU controller skins. Both work with `.manicskin` and `.deltaskin` files. `Deltaskin` support in `check_skin.py` is basic for now (see below). (will be expanding `deltaskin` support)
-
+Two small helper scripts for people making Manic EMU controller skins. Both tools can read `.manicskin` and `.deltaskin` files, although support varies by tool. `contact_sheet_easy.py` fully supports both formats, while `check_skin.py` currently provides basic DeltaSkin checks that I'm continuing to expand.
 Both tools are **read-only**. They never change your skins; they only read them and print a report or draw pictures.
 
 | File | What it does |
 |---|---|
-| `check_skin.py` | Checks a skin for problems: valid zip, `info.json`, missing files, bad inputs, controls off the canvas, duplicate identifiers. Manic and Delta. |
+| `check_skin.py` | Checks a skin for problems: valid zip, `info.json`, missing files, invalid inputs `(manicskins)`, controls off the canvas, duplicate identifiers. Manic and basic Delta checks. |
 | `contact_sheet_easy.py` | Draws your skins as pictures so you can compare layouts and colours by eye. Phones and iPads. |
 | `FORMAT_NOTES.md` | Notes on the skin format and button numbering. |
 
@@ -20,7 +19,7 @@ Both tools are **read-only**. They never change your skins; they only read them 
 
 ```
 pip install pillow
-pip install pymupdf
+pip install pymupdf # Optional: enables real PDF artwork rendering
 ```
 
 `pymupdf` is optional. With it, the real button and stick artwork is drawn. Without it, they appear as outlines.
