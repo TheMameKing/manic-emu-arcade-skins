@@ -9,7 +9,7 @@ Two small helper scripts for people making Manic EMU controller skins with `.man
 | `FORMAT_NOTES.md` | Notes on the skin format and the button numbering. |
 
 
-Both need Python 3 and Pillow (`pip install pillow`). `contact_sheet.py` draws the real button artwork if you also install PyMuPDF (`pip install pymupdf`); without it the artwork is drawn as outlines.
+Both need Python 3 and Pillow (`pip install pillow`). `contact_sheet_easy.py` draws the real button artwork if you also install PyMuPDF (`pip install pymupdf`); without it the artwork is drawn as outlines.
 
 ## Important tips for easy use
 
