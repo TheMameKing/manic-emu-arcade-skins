@@ -1,12 +1,12 @@
 # Skin Tools
 
-Two small helper scripts for people making Manic EMU controller skins. Both tools can read `.manicskin` and `.deltaskin` files, although support varies by tool. `contact_sheet_easy.py` fully supports both formats, while `check_skin.py` currently provides a more basic checker, explained below. These tools used together compliment one another. 
+Two small helper scripts for people making Manic EMU controller skins. Both tools can read `.manicskin` and `.deltaskin` files, although support varies by tool. `contact_sheet_easy.py` fully supports both formats, while `check_skin.py` provides solid structural checks for both, with a few Delta-specific differences noted below. These tools used together compliment one another. 
 Both tools are **read-only**. They never change your skins; they only read them and print a report or draw pictures.
 
 | File | What it does |
 |---|---|
-| `check_skin.py` | Checks a skin for problems: valid zip, `info.json`, missing files, invalid inputs, controls off the canvas, duplicate identifiers, Misspelt layout/item keys. Manic and basic Delta checks. |
-| `contact_sheet_easy.py` | Draws your skins as pictures so you can compare layouts and colours by eye. Phones and iPads. |
+| `check_skin.py` | Structural sanity check: valid zip, `info.json`, missing files, bad frames, controls off the canvas, unknown inputs, duplicate identifiers, misspelt keys, and more. Works on both Manic and Delta skins |
+| `contact_sheet_easy.py` | Draws your skins as pictures so you can compare layouts and colours by eye. Phones and iPads. Fully supports both formats |
 | `FORMAT_NOTES.md` | Notes on the skin format and button numbering. |
 
 > `.deltaskin` support: `contact_sheet_easy.py` fully supports it. `check_skin.py` has a **basic** Delta check that is still being expanded to cover more skin types.
@@ -94,15 +94,16 @@ You can give it a folder (searched inside subfolders too), a zip of skins, or a 
 
 ### Delta (`.deltaskin`) support is basic
 
-Delta skins get the same structural checks, with these differences:
+Delta skins get the same structural checks as Manic skins, with these differences:
 
-- The background can be `large`, `medium`, `small` or `resizable`, as a PNG or PDF. Every listed file must exist.
-- Button and stick art can be PNG or PDF.
-- **Input names are checked against a known list**, because every Delta console has its own set there may be some not known. unknown names will show a warning. 
-- A layout with no screens is a warning, not an error.
+- Backgrounds can be listed as `large`, `medium`, `small` or `resizable` (PNG or PDF). Every listed file must exist.
+- Button and stick artwork can be PNG or PDF.
+- Input names are checked against a shared list (includes common Delta names such as `z`, `c`, `cUp`…, `touchScreenX/Y`, etc.). The list is **not** per-console, so a name that is valid on another system will pass.
+- A layout with no `screens` (and no older `gameScreenFrame`) is a **warning**, not an error.
 - The background shape check is skipped for PDF backgrounds.
+- Extra warnings for misspelt layout/item keys and for iPhone `edgeToEdge` layouts that are still 16:9.
 
-It has not been tested against many real Delta skins yet. Treat a clean result as "no structural problems found", not a guarantee that the skin works. If it wrongly flags a good Delta skin, that is useful to know.
+It has not been tested against every possible Delta skin. Treat a clean result as “no structural problems found”, not a guarantee that the skin works in every Delta core. If it wrongly flags a good Delta skin, please open an issue.
 
 ---
 
