@@ -83,7 +83,7 @@ You can give it a folder (searched inside subfolders too), a zip of skins, or a 
 | a file named in `info.json` is not in the skin | a file in the skin is never used |
 | a control has no inputs or its frame is missing valid x/y/width/height numbers | two skins share a name |
 | two skins share an identifier | misspelt layout or item key |
-| | iPhone Edge-to edge-layouts that are still 16:9 |
+| | iPhone Edge-to-edge layouts that are still 16:9 |
 | | older `gameScreenFrame` key
 
 - The full list is at the top of the script.
