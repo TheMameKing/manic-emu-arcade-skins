@@ -30,7 +30,8 @@ Manic assigns the arcade buttons by how many buttons a skin has:
 Top row first. Fighting games like Tekken 3 map these as LP, RP, LK, RK for a 4-button skin; other games differ, so test.
 
 ## Left-handed skins
-Mirror the layout and keep each group in its usual reading order, so a left-handed skin is read mirrored. Swapping which side the small buttons (LOAD / SAVE) sit on follows the mirror.
+Mirror the main layout so the stick/D-pad moves to the right and the action buttons move to the left, while keeping the labels inside each button group in their usual left-to-right reading order (`LOAD` / `SAVE`, `START` / `FF`). In landscape, those small utility groups swap sides to follow the mirror; in portrait, they stay in their standard positions.
+
 
 ## Combo buttons
 A button may have several inputs (`["b", "y"]`) and presses them together. Never rename inputs positionally on a skin with combos, because it breaks the multi-input buttons. Rebuild them from the action you want instead.
@@ -41,4 +42,4 @@ A button may have several inputs (`["b", "y"]`) and presses them together. Never
 
 ## Checking your work
 - `check_skin.py`: structure, missing files, bad inputs, off-canvas controls, duplicate identifiers.
-- `contact_sheet.py`: draws many skins side by side so you can eye-check colour and spacing. The automatic checks cannot see a dark button on a dark background.
+- `contact_sheet_easy.py`: draws many skins side by side so you can eye-check colour and spacing. The automatic checks cannot see a dark button on a dark background.
