@@ -9,7 +9,6 @@ Both tools are **read-only**. They never change your skins; they only read them 
 | `contact_sheet_easy.py` | Draws your skins as pictures so you can compare layouts and colours by eye. Phones and iPads. Fully supports both formats |
 | `FORMAT_NOTES.md` | Notes on the skin format and button numbering. |
 
-> `.deltaskin` support: `contact_sheet_easy.py` fully supports it. `check_skin.py` has a **basic** Delta check that is still being expanded to cover more skin types.
 
 ---
 
