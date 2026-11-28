@@ -1,6 +1,6 @@
 # Skin Tools
 
-Two small helper scripts for people making Manic EMU controller skins. Both tools can read `.manicskin` and `.deltaskin` files, although support varies by tool. `contact_sheet_easy.py` fully supports both formats, while `check_skin.py` currently provides basic DeltaSkin checks that I'm continuing to expand.
+Two small helper scripts for people making Manic EMU controller skins. Both tools can read `.manicskin` and `.deltaskin` files, although support varies by tool. `contact_sheet_easy.py` fully supports both formats, while `check_skin.py` currently provides a more basic checker, explained below.
 Both tools are **read-only**. They never change your skins; they only read them and print a report or draw pictures.
 
 | File | What it does |
@@ -95,8 +95,8 @@ Delta skins get the same structural checks, with these differences:
 
 - The background can be `large`, `medium`, `small` or `resizable`, as a PNG or PDF. Every listed file must exist.
 - Button and stick art can be PNG or PDF.
-- **Input names are not checked**, because every Delta console has its own set.
-- A layout with no screens is a warning, not an error. a Manic layout has no screens
+- **Input names are checked against a known list**, because every Delta console has its own set there may some edge-cases not listed. 
+- A layout with no screens is a warning, not an error.
 - The background shape check is skipped for PDF backgrounds.
 
 It has not been tested against many real Delta skins yet. Treat a clean result as "no structural problems found", not a guarantee that the skin works. If it wrongly flags a good Delta skin, that is useful to know.
