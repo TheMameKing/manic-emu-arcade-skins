@@ -80,12 +80,14 @@ You can give it a folder (searched inside subfolders too), a zip of skins, or a 
 |---|---|
 | the file is not a zip, or `info.json` is missing or broken | a button or screen sticks out of the canvas by more than 5 points |
 | `info.json` is missing name, identifier, game type or layouts | the background picture is a different shape from `mappingSize` |
-| a layout has no background, size or controls | an input name is unknown (Manic skins only) |
+| a layout has no background, size or controls | an input name is unknown |
 | a file named in `info.json` is not in the skin | a file in the skin is never used |
 | a control has no inputs or a bad frame | two skins share a name |
-| two skins share an identifier | |
+| two skins share an identifier | misspelt layout or item key |
+| | 16:9 layout leaves a black bar |
+| | Unused file exists ||
 
-The full list is at the top of the script.
+- The full list is at the top of the script.
 
 ### Delta (`.deltaskin`) support is basic
 
