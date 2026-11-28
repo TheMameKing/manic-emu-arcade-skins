@@ -124,6 +124,39 @@ You can give it a folder (searched inside subfolders too), a zip of skins, or a 
 
 - The full list is at the top of the script.
 
+<details>
+<summary><b>Show me a clean pass</b></summary>
+
+<br>
+
+**A clean pass, no error or warning.** Even with a clean pass it's advised to still hand test it and check it with the contact_sheet_easy you cant rely on just 1 checker.
+
+<img src="images/check_skin/clean_pass.png" width="1000" alt="clean check">
+
+</details>
+
+<details>
+<summary><b>Show me some warnings</b></summary>
+
+<br>
+
+**warnings** can be for common things like a extra unused button.png. Example: if you make a few skins with different button counts but don't take out the extra button.pngs and you make a variant that only uses some of the buttons. So you'll have 6 button pngs in a 3 button skin but the extras won't be used or show in the skin, so they are harmless. They can also be for other things left in the zip like notes or the stuff in the table above so double check what the warning says and investigate it if you are not expecting it. Warnings don't mean the skins wont work or that they are broken, they are just letting you know about a oddity.
+
+<img src="images/check_skin/warnings.png" width="1000" alt="warning list">
+
+</details>
+
+<details>
+<summary><b>Show me some errors</b></summary>
+
+<br>
+
+**Errors** these are usually for more serious issues like a broken .json, nested folders, missing assets, missing controls, duplicate ids etc. These require another look, it doesn't necessarily mean the skin is broken, it can false flag stuff not listed yet e.g. a new phone screen type but it needs checking to be sure (if it does wrongly flag as a error and the skin works in the app send me a issue with the error and i'll look into it and see if it needs to be added to the script). That being said a error is highly more likely to be a broken skin than a warning and **needs** further testing, either hands-on with a device, the contact sheet, looking in the .skin or a combination of all depending on the error it gave.
+
+<img src="images/check_skin/errors.png" width="1000" alt="error example list">
+
+</details>
+
 ### Delta (`.deltaskin`) support is basic
 
 Delta skins get the same structural checks as Manic skins, with these differences:
