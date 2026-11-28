@@ -30,7 +30,7 @@ Quick heads-up on the page layout and the 2.0.2 change:
 | **Left-Handed iPad (Joystick, Twin Stick & Tate)** | [v1.10](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.10) | N/A |
 | **Left-Handed iPad D-Pad (D-Pad & Tate D-Pad)** | [v1.11](https://github.com/TheMameKing/manic-emu-arcade-skins/releases/tag/v1.11) | N/A |
 
-Original-art controller skins for **MAME / arcade** games in Manic EMU. 14 layouts, 22 colorways each: **308 skins in 42 zip files**. There is also a separate **Dynamic Island set** for iPhone 14 Pro and later, a **Tate set** for vertical games, a **Left-Handed set** that mirrors the Dynamic Island and Tate layouts, and an **iPad set** (with an **iPad Tate set** for vertical games, an **iPad D-Pad set**, and left-handed versions of all of them), a **D-Pad set** (including a Tate D-Pad set and a Left-Handed D-Pad set), and **Starter Packs** with one zip per set (see below).
+Original-art controller skins for **MAME / arcade** games in Manic EMU. 14 layouts, 22 colorways each: **308 skins in 42 zip files** in the original set. There is also a separate **Dynamic Island set** for iPhone 14 Pro and later, a **Tate set** for vertical games, a **Left-Handed set** that mirrors the Dynamic Island and Tate layouts, and an **iPad set** (with an **iPad Tate set** for vertical games, an **iPad D-Pad set**, and left-handed versions of all of them), a **D-Pad set** (including a Tate D-Pad set and a Left-Handed D-Pad set), and **Starter Packs** with one zip per set (see below).
 
 All art is original. No real arcade characters, logos or game artwork appear on any skin.
 
