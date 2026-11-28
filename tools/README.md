@@ -36,6 +36,40 @@ On Mac and Linux, use `python3` instead of `python`.
 
 The contact sheet pictures appear in a new `contact_sheets` folder from where you ran the command from
 
+
+<details>
+<summary><b>show me how to run from skin folder on windows</b></summary>
+
+<br>
+
+Steps to start cmd prompt from folder.
+
+**Step 1** have the .py and skins/skin folder in same folder
+
+<img src="images/windows_cmd_to_boxes/skin_folder.png" width="1000" alt="Folder holding .py and skin folder">
+
+**Step 2** type cmd in the top bar and hit enter
+
+<img src="images/windows_cmd_to_boxes/cmd_start.png" width="1000" alt="Type cmd in top bar in folder with skin and .py">
+
+**Step 3** type the script line in the windows cmd prompt and hit enter
+
+<img src="images/windows_cmd_to_boxes/boxes_cmd.png" width="1000" alt="--Boxes cmd line">
+
+**Step 4** The Script is done printing the sheets
+
+<img src="images/windows_cmd_to_boxes/cmd_finished.png" width="1000" alt="finished cmd">
+
+**Step 5** open the new contact_sheets folder
+
+<img src="images/windows_cmd_to_boxes/folder_skin_cmd.png" width="1000" alt="cmd prompt, folder, and skin to show everything">
+
+**Finished skin with boxes on**
+
+<img src="images/windows_cmd_to_boxes/boxes_sheet_01.png" width="1000" alt="Contact sheet 1 with --boxes">
+
+</details>
+
 ---
 
 ## Folder names with spaces
@@ -121,6 +155,15 @@ You can give it a folder, a zip, or a single skin file.
 | Fit a big collection on fewer sheets | `python contact_sheet_easy.py my_skins --rows 200` |
 | See the touch areas and what each one sends | `python contact_sheet_easy.py my_skins --boxes` |
 
+<details>
+<summary><b>Show me what boxes does</b></summary>
+
+<br>
+Sheet showing touch areas
+
+<img src="images/windows_cmd_to_boxes/boxes_sheet_06.png" width="1000" alt="Type cmd in top bar in folder with skin and .py">
+
+</details>
 `--rows 200` has been tested with sheets of 224 layouts. Very large collections take longer.
 
 ### All options
