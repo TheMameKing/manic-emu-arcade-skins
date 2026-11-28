@@ -1,11 +1,11 @@
 # Skin Tools
 
-Two small helper scripts for people making Manic EMU controller skins. Both tools can read `.manicskin` and `.deltaskin` files, although support varies by tool. `contact_sheet_easy.py` fully supports both formats, while `check_skin.py` currently provides a more basic checker, explained below.
+Two small helper scripts for people making Manic EMU controller skins. Both tools can read `.manicskin` and `.deltaskin` files, although support varies by tool. `contact_sheet_easy.py` fully supports both formats, while `check_skin.py` currently provides a more basic checker, explained below. These tools used together compliment one another. 
 Both tools are **read-only**. They never change your skins; they only read them and print a report or draw pictures.
 
 | File | What it does |
 |---|---|
-| `check_skin.py` | Checks a skin for problems: valid zip, `info.json`, missing files, invalid inputs `(manicskins)`, controls off the canvas, duplicate identifiers. Manic and basic Delta checks. |
+| `check_skin.py` | Checks a skin for problems: valid zip, `info.json`, missing files, invalid inputs, controls off the canvas, duplicate identifiers, Misspelt layout/item keys. Manic and basic Delta checks. |
 | `contact_sheet_easy.py` | Draws your skins as pictures so you can compare layouts and colours by eye. Phones and iPads. |
 | `FORMAT_NOTES.md` | Notes on the skin format and button numbering. |
 
@@ -86,6 +86,9 @@ You can give it a folder (searched inside subfolders too), a zip of skins, or a 
 | two skins share an identifier | misspelt layout or item key |
 | | 16:9 layout leaves a black bar |
 | | Unused file exists ||
+| | iPhone Edge-to edge-layouts that are still 16:9 |
+| | older `gameScreenFrame` key
+| | Misspelt layout/item keys
 
 - The full list is at the top of the script.
 
@@ -95,7 +98,7 @@ Delta skins get the same structural checks, with these differences:
 
 - The background can be `large`, `medium`, `small` or `resizable`, as a PNG or PDF. Every listed file must exist.
 - Button and stick art can be PNG or PDF.
-- **Input names are checked against a known list**, because every Delta console has its own set there may some edge-cases not listed. 
+- **Input names are checked against a known list**, because every Delta console has its own set there may be some not known. unknown names will show a warning. 
 - A layout with no screens is a warning, not an error.
 - The background shape check is skipped for PDF backgrounds.
 
