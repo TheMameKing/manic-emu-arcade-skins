@@ -1,5 +1,7 @@
 # Skin Tools
 
+**heads up:** if you see the .py codes change it’s because i found another uncommon input or key to add to the checker for deltaskins or uncommon manicskins that i come across. I want to make sure i have every know input/key in the checker so it saves people time checking warnings for unknown input names that are intentional. An example of the last update to the code was i added tv to the known items list for airplay and Apple TV skins
+
 Two small helper scripts for people making Manic EMU  and Delta controller skins. Both tools can read `.manicskin` and `.deltaskin` files, although support varies by tool. `contact_sheet_easy.py` fully supports both formats, while `check_skin.py` provides solid structural checks for both, with a few Delta-specific differences noted below. These tools used together complement one another. 
 Both tools are **read-only**. They never change your skins; they only read them and print a report or draw pictures.
 
