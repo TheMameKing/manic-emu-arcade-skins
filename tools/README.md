@@ -1,6 +1,6 @@
 # Skin Tools
 
-Two small helper scripts for people making Manic EMU  and Delta controller skins. Both tools can read `.manicskin` and `.deltaskin` files, although support varies by tool. `contact_sheet_easy.py` fully supports both formats, while `check_skin.py` provides solid structural checks for both, with a few Delta-specific differences noted below. These tools used together compliment one another. 
+Two small helper scripts for people making Manic EMU  and Delta controller skins. Both tools can read `.manicskin` and `.deltaskin` files, although support varies by tool. `contact_sheet_easy.py` fully supports both formats, while `check_skin.py` provides solid structural checks for both, with a few Delta-specific differences noted below. These tools used together complement one another. 
 Both tools are **read-only**. They never change your skins; they only read them and print a report or draw pictures.
 
 | File | What it does |
@@ -81,13 +81,10 @@ You can give it a folder (searched inside subfolders too), a zip of skins, or a 
 | `info.json` is missing name, identifier, game type or layouts | the background picture is a different shape from `mappingSize` |
 | a layout has no background, size or controls | an input name is unknown |
 | a file named in `info.json` is not in the skin | a file in the skin is never used |
-| a control has no inputs or a bad frame | two skins share a name |
+| a control has no inputs or its frame is missing valid x/y/width/height numbers | two skins share a name |
 | two skins share an identifier | misspelt layout or item key |
-| | 16:9 layout leaves a black bar |
-| | Unused file exists ||
 | | iPhone Edge-to edge-layouts that are still 16:9 |
 | | older `gameScreenFrame` key
-| | Misspelt layout/item keys
 
 - The full list is at the top of the script.
 
@@ -101,6 +98,7 @@ Delta skins get the same structural checks as Manic skins, with these difference
 - A layout with no `screens` (and no older `gameScreenFrame`) is a **warning**, not an error.
 - The background shape check is skipped for PDF backgrounds.
 - Extra warnings for misspelt layout/item keys and for iPhone `edgeToEdge` layouts that are still 16:9.
+- Delta screen frames aren't checked for overflow because Delta can intentionally oversize them while Manic screen frames are checked.
 
 It has not been tested against every possible Delta skin. Treat a clean result as “no structural problems found”, not a guarantee that the skin works in every Delta core. If it wrongly flags a good Delta skin, please open an issue.
 
