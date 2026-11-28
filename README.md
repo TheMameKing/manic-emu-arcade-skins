@@ -594,7 +594,7 @@ Every release including the Legacy ones goes through automated verification desi
 - Legacy identifier compatibility protection
 - Unexpected files and archive contents detection
 
-Automated verification is followed by visual contact-sheet inspection and hands-on testing of representative layouts before release. There is also a [tools](./tools) folder with a skin checker (`check_skin.py`), a contact-sheet drawing tool (`contact_sheet_easy.py`), and format notes, they are generic versions of my checkers so they don't throw errors on other peoples skins. Both tools read `.manicskin` and `.deltaskin` files natively, are MIT licensed, and are read-only so you can safely use them on your own collections.
+Automated verification is followed by visual contact-sheet inspection and hands-on testing of representative layouts before release. There is also a [tools](./tools) folder with a checker (`check_skin.py`), a contact-sheet drawing tool (`contact_sheet_easy.py`), and format notes, they are generic versions of my checkers so they don't throw errors on other peoples skins.
 
 ## License
 
