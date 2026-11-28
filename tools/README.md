@@ -1,6 +1,6 @@
 # Skin Tools
 
-Two small helper scripts for people making Manic EMU controller skins. Both tools can read `.manicskin` and `.deltaskin` files, although support varies by tool. `contact_sheet_easy.py` fully supports both formats, while `check_skin.py` provides solid structural checks for both, with a few Delta-specific differences noted below. These tools used together compliment one another. 
+Two small helper scripts for people making Manic EMU  and Delta controller skins. Both tools can read `.manicskin` and `.deltaskin` files, although support varies by tool. `contact_sheet_easy.py` fully supports both formats, while `check_skin.py` provides solid structural checks for both, with a few Delta-specific differences noted below. These tools used together compliment one another. 
 Both tools are **read-only**. They never change your skins; they only read them and print a report or draw pictures.
 
 | File | What it does |
