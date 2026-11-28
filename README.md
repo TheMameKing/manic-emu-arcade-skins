@@ -8,7 +8,7 @@ Quick heads-up on the page layout and the 2.0.2 change:
 - Tekken-Rival Fix is retired. With the new numbering, the regular 4 Button works for Tekken and Rival Schools in my testing. The old Tekken-Rival Fix skins are still in the Legacy releases for 2.0.1.
 - Twin Stick skins work on both versions. In my testing they play the same, and the Legacy copies are identical.
 - iPad skins: All iPad sets work on both Manic EMU versions, with one exception: the iPad Street Fighter set uses a special button order and is only compatible with the Legacy mapping. iPad users should use the regular releases for all other layouts.
-- The device matrix is complete — every planned layout and device combination is finished. Going forward I’ll mainly be, cleaning up my pages, fine-tuning existing skins where needed and working on dedicated **combo skins** (mapping 2–3 buttons to a single input so special attacks are easier on touchscreens) as well as **extra skins** like big buttons or any missing good ideas i can think of that haven't been tried. Feedback and combo requests are welcome — just open an issue and tell me the game + the button combinations you want.
+- The device matrix is complete — every planned layout and device combination is finished. Going forward I’ll mainly be cleaning up my pages, fine-tuning existing skins where needed and working on dedicated **combo skins** (mapping 2–3 buttons to a single input so special attacks are easier on touchscreens) as well as **extra skins** like big buttons or any missing good ideas I can think of that haven't been tried. Feedback and combo requests are welcome — just open an issue and tell me the game + the button combinations you want.
 - Use the table below to find the correct downloads for your version of Manic EMU
 
  **[⬇ Download the skins from the table below ⬇]**
@@ -239,7 +239,7 @@ Handheld and Tabletop have a 4:3 screen on top with the controls in a panel belo
 - **Handheld**: smaller buttons, closer together and in the bottom-right corner, for holding the iPad.
 - **Tabletop**: bigger buttons with wider spacing, for when the iPad is lying flat.
 - **Twin Stick**: one set for Handheld and Tabletop, and a separate Full Screen version.
-- **Button order**: The Buttons Run 123 456 top left to bottom right on all sets.
+- **Button order**: The buttons Run 123 456 top left to bottom right on all sets.
 - **Left-handed?** See the [Left-Handed iPad set](#left-handed-ipad-set-joystick-twin-stick-and-tate). Want a D-pad? See the [iPad D-Pad set](#ipad-d-pad-set).
 
 It has the same 22 colorways: 440 skins in 60 zips.
